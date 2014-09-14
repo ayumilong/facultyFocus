@@ -1,0 +1,583 @@
+(searchResults){
+   queryId = "54"
+   recordsFound = 9
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000294003700016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Using Tablet PCs as Interactive Web-based Instruction Tools in Freshman Calculus",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "121-128",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IMPACT OF TABLET PCS AND PEN-BASED TECHNOLOGY ON EDUCATION: EVIDENCE AND OUTCOMES, 2008",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Reba, Marilyn",
+                  "Pargas, Roy",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BWJ17",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-55753-531-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000270542500005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "OrganicPad: an interactive freehand drawing application for drawing Lewis structures and the development of skills in organic chemistry",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "296-301",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CHEMISTRY EDUCATION RESEARCH AND PRACTICE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "10",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Cooper, Melanie M.",
+                  "Grove, Nathaniel P.",
+                  "Pargas, Roy",
+                  "Bryfczynski, Sam P.",
+                  "Gatlin, Todd",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Lewis structures",
+                  "organic chemistry",
+                  "information technology",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1039/b920835f",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "503NH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1109-4028",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000269212200031"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "What Were They Thinking?",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "134-138",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ITICSE 2009: PROCEEDING OF THE 2009 ACM SIGSE ANNUAL CONFERENCE ON INNOVATION AND TECHNOLOGY IN COMPUTER SCIENCE EDUCATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Pargas, Roy P.",
+                  "Bryfczynski, Samuel",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Tablet PC",
+                  "collaborative learning",
+                  "cognitive science",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BKT74",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "*****************",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000269212200124"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "GraphPad: A Graph Creation Tool for CS2/CS7",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "389-389",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ITICSE 2009: PROCEEDING OF THE 2009 ACM SIGSE ANNUAL CONFERENCE ON INNOVATION AND TECHNOLOGY IN COMPUTER SCIENCE EDUCATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bryfczynski, Sam",
+                  "Pargas, Roy P.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Data Structure Education",
+                  "Graph Isomorphism",
+                  "Tablet PC",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BKT74",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "*****************",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000271775102671"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "CHED 1584-Active learning with OrganicPad, a Tablet PC based tool developed for the chemistry classroom",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR 6",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "235",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gatlin, Todd A.",
+                  "Cooper, Melanie M.",
+                  "Pargas, Roy",
+                  "Bryfczynski, Sam",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "519OA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000271669200080"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Work in Progress - Tablet PCs as Interactive Web-Based Instruction Tools in a First Year Engineering Course",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Frontiers in Education Conference",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "358-360",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FIE: 2008 IEEE FRONTIERS IN EDUCATION CONFERENCE, VOLS 1-3",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Benson, Lisa C.",
+                  "Pargas, Roy P.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Pen-based technology",
+                  "web-based instruction",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BMA59",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-1969-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0190-5848",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000246211500016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Engaging every student in large laptop-enhanced courses",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "86-91",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Proceedings of the Sixth IASTED International Conference on Web-Based Education",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Pargas, Roy P.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "in-class interactivity",
+                  "laptop-enhanced courses",
+                  "peerinstruction",
+                  "real-time assessment",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGD87",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-88986-650-8",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000256621900119"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Work in progress - Effective student Ink submissions in computer science courses",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Frontiers in Education Conference",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "532-533",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2007 37TH ANNUAL FRONTIERS IN EDUCATION CONFERENCE, GLOBAL ENGINEERING : KNOWLEDGE WITHOUT BORDERS - OPPORTUNITIES WITHOUT PASSPORTS, VOLS 1- 4",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Pargas, Roy P.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "algorithms",
+                  "interactive learning",
+                  "lecture exercises",
+                  "Tablet PC",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BHV02",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-1083-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0190-5848",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000245981400408"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Work in progress: Developing tablet PC animations for computer science courses",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "PROCEEDINGS-FRONTIERS IN EDUCATION CONFERENCE",
+            },
+            (labelValuesPair){
+               label = "BookSubtitle"
+               value[] = 
+                  "BORDERS: INTERNATIONAL, SOCIAL AND CULTURAL",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1665-1666",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "36th Annual Frontiers in Education, Conference Program, Vols 1-4",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Pargas, Roy P.",
+                  "Goodbar, Adam",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "algorithms",
+                  "animated data structures",
+                  "interactive learning",
+                  "tablet PC software development",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGC22",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-0256-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0190-5848",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

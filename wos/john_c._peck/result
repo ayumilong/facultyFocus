@@ -1,0 +1,2875 @@
+(searchResults){
+   queryId = "55"
+   recordsFound = 36
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000318748300021"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "High-temperature multifunctional rnagnetoactive nickel graphene polyimide nanocomposites",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2776-2784",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY 9",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "POLYMER",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "54",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Yoonessi, Mitra",
+                  "Scheiman, Daniel A.",
+                  "Dittler, Matthew",
+                  "Peck, John A.",
+                  "Ilavsky, Jan",
+                  "Gaier, James R.",
+                  "Meador, Michael A.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Polymer nanocomposites",
+                  "Hybrid nanoparticles",
+                  "Polymer actuators",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "USAXS, APS",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-4198-2013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.polymer.2013.03.015",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1873-2291",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "141TB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0032-3861",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000317322700009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Spatial and temporal variability in sedimentological and geochemical properties of sediments from an anoxic crater lake in West Africa: Implications for paleoenvironmental reconstructions",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "96-109",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PALAEOGEOGRAPHY PALAEOCLIMATOLOGY PALAEOECOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "374",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Shanahan, Timothy M.",
+                  "McKay, Nicholas",
+                  "Overpeck, Jonathan T.",
+                  "Peck, John A.",
+                  "Scholz, Christopher",
+                  "Heil, Clifford W., Jr.",
+                  "King, John",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Lake Bosumtwi",
+                  "Paleoclimate",
+                  "Lake level",
+                  "Surface sediment",
+                  "Isotope",
+                  "Elemental composition",
+                  "Paleolimnology",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.palaeo.2013.01.008",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "122MR",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0031-0182",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000316828800008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Age models for long lacustrine sediment records using multiple dating approaches - An example from Lake Bosumtwi, Ghana",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "47-60",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "QUATERNARY GEOCHRONOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "15",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Shanahan, Timothy M.",
+                  "Peck, John A.",
+                  "McKay, Nicholas",
+                  "Heil, Clifford W., Jr.",
+                  "King, John",
+                  "Forman, Steven L.",
+                  "Hoffmann, Dirk L.",
+                  "Richards, David A.",
+                  "Overpeck, Jonathan T.",
+                  "Scholz, Christopher",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Lake Bosumtwi",
+                  "West Africa",
+                  "Paleoclimate",
+                  "Lake",
+                  "Chronology",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Richards, David",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "B-7298-2008",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.quageo.2012.12.001",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "115RE",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1871-1014",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000310824800005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Late Quaternary sedimentological and climate changes at Lake Bosumtwi Ghana: New constraints from laminae analysis and radiocarbon age modeling",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "49-60",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PALAEOGEOGRAPHY PALAEOCLIMATOLOGY PALAEOECOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "361",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Shanahan, Timothy M.",
+                  "Beck, J. Warren",
+                  "Overpeck, Jonathan T.",
+                  "Mckay, Nicholas P.",
+                  "Pigati, Jeffrey S.",
+                  "Peck, John A.",
+                  "Scholz, Christopher A.",
+                  "Heil, Clifford W., Jr.",
+                  "King, John",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "West Africa",
+                  "Paleoclimate",
+                  "Lake",
+                  "Radiocarbon",
+                  "Age model",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.palaeo.2012.08.001",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "033TU",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0031-0182",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000301085100064"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Atomic layer deposition of Ru films from bis(2,5-dimethylpyrrolyl)ruthenium and oxygen",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2756-2763",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN 31",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "THIN SOLID FILMS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "520",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kukli, Kaupo",
+                  "Aarik, Jaan",
+                  "Aidla, Aleks",
+                  "Jogi, Indrek",
+                  "Arroval, Tonis",
+                  "Lu, Jun",
+                  "Sajavaara, Timo",
+                  "Laitinen, Mikko",
+                  "Kiisler, Alma-Asta",
+                  "Ritala, Mikko",
+                  "Leskela, Markku",
+                  "Peck, John",
+                  "Natwora, Jim",
+                  "Geary, Joan",
+                  "Spohn, Ronald",
+                  "Meiere, Scott",
+                  "Thompson, David M.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Atomic layer deposition",
+                  "Metal films",
+                  "Ruthenium",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Laitinen, Mikko",
+                  "Sajavaara, Timo",
+                  "Ritala, Mikko",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "A-1754-2013",
+                  "A-4340-2013",
+                  "N-7268-2013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.tsf.2011.11.088",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "903AK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0040-6090",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000298396700011"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Iron Transformations Induced by an Acid-Tolerant Desulfosporosinus Species",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "81-88",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "APPLIED AND ENVIRONMENTAL MICROBIOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "78",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bertel, Doug",
+                  "Peck, John",
+                  "Quick, Thomas J.",
+                  "Senko, John M.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1128/AEM.06337-11",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "866QR",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0099-2240",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000299665700011"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "On Determining What There Is: The Identity of Ontological Categories in Aquinas, Scotus, and Lowe",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "530-532",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL PHILOSOPHICAL QUARTERLY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "51",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Peck, John W.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "883WN",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0019-0365",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000293196800073"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Transparent Large-Strain Thermoplastic Polyurethane Magnetoactive Nanocomposites",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2686-2693",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ACS APPLIED MATERIALS & INTERFACES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "3",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Yoonessi, Mitra",
+                  "Peck, John A.",
+                  "Bail, Justin L.",
+                  "Rogers, Richard B.",
+                  "Lerch, Bradley A.",
+                  "Meador, Michael A.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "superparamagnetic nanoparticles",
+                  "polymer actuator",
+                  "magnetic polymer nanocomposite",
+                  "magnetomechanical responsive polymers",
+                  "adaptive nanocomposites",
+                  "superparamagnetic",
+                  "shape memory films",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1021/am200468t",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "798IO",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1944-8244",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000298299700101"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Development of Oxygen Transport Membranes for Coal-Based Power Generation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Energy Procedia",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "750-755",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "10TH INTERNATIONAL CONFERENCE ON GREENHOUSE GAS CONTROL TECHNOLOGIES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "4",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Rosen, Lee",
+                  "Degenstein, Nick",
+                  "Shah, Minish",
+                  "Wilson, Jamie",
+                  "Kelly, Sean",
+                  "Peck, John",
+                  "Christie, Max",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Oxyfuel combustion",
+                  "power plants",
+                  "near zero emissions",
+                  "CO2 purification",
+                  "CO2 capture",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.egypro.2011.01.115",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eisbn"
+               value[] = 
+                  "*****************",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BYE96",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1876-6102",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000279205200004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Charles Sisson and the Distantly Raised Voice",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "28-36",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SPR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "AGENDA",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "45",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Peck, John",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "616JL",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0002-0796",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000277835000010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Introduction to the Water Resources Management of the State of Kansas of the USA and its Inspirations to Water Resources Management of the Yellow River of China",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "66-75",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE 4TH INTERNATIONAL YELLOW RIVER FORUM ON ECOLOGICAL CIVILIZATION AND RIVER ETHICS, VOL IV",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Xue Yunpeng",
+                  "Peck, John C.",
+                  "Griggs, Burke W.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "water resources management",
+                  "water right of environmental flow",
+                  "water allocation Kansas",
+                  "Yellow River",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BOW47",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-7-80734-797-2",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000259893100024"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A protocol for the order commitment decision in a supply network",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "515-527",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "115",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Thammakoranonta, Nithinant",
+                  "Radhakrishnan, Abirami",
+                  "Davis, Steve",
+                  "Peck, John C.",
+                  "Miller, Janis L.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Supply chain management",
+                  "Inventory",
+                  "Decision support systems",
+                  "Information systems",
+                  "Protocol",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.ijpe.2008.05.017",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "358CC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0925-5273",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.ijpe.2008.05.017",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000257208600022"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The formation of biogeochemical laminations in Lake Bosumtwi, Ghana, and their usefulness as indicators of past environmental changes",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "339-355",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF PALEOLIMNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "40",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Shanahan, Timothy M.",
+                  "Overpeck, Jonathan T.",
+                  "Beck, J. Warren",
+                  "Wheeler, C. Winston",
+                  "Peck, John A.",
+                  "King, John W.",
+                  "Scholz, Christopher A.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Africa",
+                  "climate",
+                  "crater lake",
+                  "monsoon",
+                  "stratigraphy",
+                  "varve",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Shanahan, Timothy",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "B-1298-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s10933-007-9164-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "320BL",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0921-2728",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/s10933-007-9164-4",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000257055800005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Abrupt changes in the water balance of tropical West Africa during the late Quaternary",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "D12",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN 21",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "113",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Shanahan, Timothy M.",
+                  "Overpeck, Jonathan T.",
+                  "Scholz, Christopher A.",
+                  "Beck, J. Warren",
+                  "Peck, John",
+                  "King, John W.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Shanahan, Timothy",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "B-1298-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1029/2007JD009320",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "2169-8996",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "317YH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "2169-897X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1029/2007JD009320",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN D12108",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000250373400008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "East African megadroughts between 135 and 75 thousand years ago and bearing on early-modern human origins",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "42",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "16416-16421",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT 16",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "104",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Scholz, Christopher A.",
+                  "Johnson, Thomas C.",
+                  "Cohen, Andrew S.",
+                  "King, John W.",
+                  "Peck, John A.",
+                  "Overpeck, Jonathan T.",
+                  "Talbot, Michael R.",
+                  "Brown, Erik T.",
+                  "Kalindekafe, Leonard",
+                  "Amoako, Philip Y. O.",
+                  "Lyons, Robert P.",
+                  "Shanahan, Timothy M.",
+                  "Castaneda, Isla S.",
+                  "Heil, Clifford W.",
+                  "Forman, Steven L.",
+                  "McHargue, Lanny R.",
+                  "Beuning, Kristina R.",
+                  "Gomez, Jeanette",
+                  "Pierson, James",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "human origins",
+                  "Lake Malawi",
+                  "paleoclimate",
+                  "pleistocene",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Johnson, Thomas",
+                  "Shanahan, Timothy",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "C-1423-2010",
+                  "B-1298-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1073/pnas.0703874104",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "223MA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0027-8424",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1073/pnas.0703874104",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000250567800019"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "'Book of the dead? We have no book of the dead'",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2-3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "75-77",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FAL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CHICAGO REVIEW",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "53",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Peck, John",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "226DO",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0009-3696",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000247606400007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A 640 kyr geomagnetic and palaeoclimatic record from Lake Baikal sediments",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "101-116",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "GEOPHYSICAL JOURNAL INTERNATIONAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "170",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kravchinsky, Vadim A.",
+                  "Evans, Michael E.",
+                  "Peck, John A.",
+                  "Sakai, Hideo",
+                  "Krainov, Mikhail A.",
+                  "King, John W.",
+                  "Kuzmin, Mikhail I.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "geomagnetic excursions",
+                  "Lake Baikal",
+                  "magnetic susceptibility",
+                  "milankovitch cycles",
+                  "palaeoclimate",
+                  "siberia",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1111/j.1365-246X.2007.03411.x",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "183XT",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0956-540X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1111/j.1365-246X.2007.03411.x",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000246768200002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An international and multidisciplinary drilling project into a young complex impact structure: The 2004 ICDP Bosumtwi Crater Drilling Project - An overview",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4-5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "483-511",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR-MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "METEORITICS & PLANETARY SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "42",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Koeberl, Christian",
+                  "Milkereit, Bernd",
+                  "Overpeck, Jonathan T.",
+                  "Scholz, Christopher A.",
+                  "Amoako, Philip Y. O.",
+                  "Boamah, Daniel",
+                  "Danuor, Sylvester",
+                  "Karp, Tobias",
+                  "Kueck, Jochem",
+                  "Hecky, Robert E.",
+                  "King, John W.",
+                  "Peck, John A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "171XH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1086-9379",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200700192602"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Direct radio-frequency detection of nucleotide hybridization at microelectrodes",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Official Gazette of the United States Patent and Trademark Office Patents",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Anonymous",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0098-1133",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000250689200011"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The legacy sediment record within the Munroe falls dam pool, Cuyahoga river, summit county, Ohio",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "127-141",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF GREAT LAKES RESEARCH",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "33",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Peck, John A.",
+                  "Mullen, Andrea",
+                  "Moore, Andrew",
+                  "Rumschlag, Joseph H.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "dams",
+                  "dam removal",
+                  "legacy sediment",
+                  "Cuyahoga River",
+                  "contaminated sediment",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "227WT",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0380-1330",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.3394/0380-1330(2007)33[127:TLSRWT]2.0.CO;2",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000250689200012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Short-term sediment and morphologic response of the middle Cuyahoga River to the removal of the Munroe Falls Dam, summit county, Ohio",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "142-153",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF GREAT LAKES RESEARCH",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "33",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Rumschlag, Joseph H.",
+                  "Peck, John A.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "dam removal",
+                  "rivers",
+                  "geomorphology",
+                  "sediment transport",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "227WT",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0380-1330",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.3394/0380-1330(2007)33[142:SSAMRO]2.0.CO;2",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000293845500015"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Groundwater Management in the High Plains Aquifer in the USA: Legal Problems and Innovations",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "296-319",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "AGRICULTURAL GROUNDWATER REVOLUTION: OPPORTUNITIES AND THREATS TO DEVELOPMENT",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Peck, John C.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eisbn"
+               value[] = 
+                  "978-1-84593-172-8",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BWG40",
+            },
+            (labelValuesPair){
+               label = "Identifier.Parent_Book_Doi"
+               value[] = 
+                  "10.1079/9781845931728.0000",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1079/9781845931728.0296",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000243094600008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Paleoclimatic variations in West Africa from a record of late Pleistocene and Holocene lake level stands of Lake Bosumtwi, Ghana",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3-4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "287-302",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC 8",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PALAEOGEOGRAPHY PALAEOCLIMATOLOGY PALAEOECOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "242",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Shanahan, Timothy M.",
+                  "Overpeck, Jonathan T.",
+                  "Wheeler, C. Winston",
+                  "Beek, J. Warren",
+                  "Pigati, Jeffrey S.",
+                  "Talbot, Michael R.",
+                  "Scholz, Christopher A.",
+                  "Peck, John",
+                  "King, John W.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "last glacial period",
+                  "monsoon precipitation",
+                  "climate oscillation",
+                  "West Africa",
+                  "lake level",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Shanahan, Timothy",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "B-1298-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.palaeo.2006.06.007",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "120OO",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0031-0182",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.palaeo.2006.06.007",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000243027200051"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The 'battle of Anghiari'",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "125-125",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "WIN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PLOUGHSHARES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "32",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Peck, John",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "119QG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0048-4474",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000242040800032"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "LED light fixture for parking garages - art. no. 63371D",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE SOCIETY OF PHOTO-OPTICAL INSTRUMENTATION ENGINEERS (SPIE)",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "D3371-D3371",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Sixth International Conference on Solid State Lighting",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "6337",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Peck, John P.",
+                  "Shastry, C. Vishnu",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "light emitting diode",
+                  "LED",
+                  "parking",
+                  "garage",
+                  "IESNA",
+                  "illuminance",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1117/12.682891",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BFI63",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-8194-6416-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0277-786X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1117/12.682891",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 63371D",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000226675200005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Late-Quaternary lowstands of lake Bosumtwi, Ghana: evidence from high-resolution seismic-reflection and sediment-core data",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3-4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "235-249",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PALAEOGEOGRAPHY PALAEOCLIMATOLOGY PALAEOECOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "216",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Brooks, K",
+                  "Scholz, CA",
+                  "King, JW",
+                  "Peck, J",
+                  "Overpeck, JT",
+                  "Russell, JM",
+                  "Amoako, PYO",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "West Africa",
+                  "Lake Bosumtwi",
+                  "Lake-level change",
+                  "seismic-reflection data",
+                  "tropical paleoclimate",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.palaco.2004.10.005",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "892UJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0031-0182",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.palaeo.2004.10.005",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000226187100003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A magnetic mineral record of Late Quaternary tropical climate variability from Lake Bosumtwi, Ghana",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "37-57",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC 2",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2004",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PALAEOGEOGRAPHY PALAEOCLIMATOLOGY PALAEOECOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "215",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Peck, JA",
+                  "Green, RR",
+                  "Shanahan, T",
+                  "King, JW",
+                  "Overpeck, JT",
+                  "Scholz, CA",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "west Africa",
+                  "rock magnetism",
+                  "younger dryas",
+                  "Heinrich events",
+                  "paleolimnology",
+                  "climatic change",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Shanahan, Timothy",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "B-1298-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.palaeo.2004.08.003",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "885WD",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0031-0182",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0031-0182(04)00438-9",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000225904400003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A late Cenozoic Earth's crust and climate dynamics record from Lake Baikal",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "341-349",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2004",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF PALEOLIMNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "32",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sapota, T",
+                  "Aldahan, A",
+                  "Possnert, G",
+                  "Peck, J",
+                  "King, J",
+                  "Prokopenko, A",
+                  "Kuzmin, M",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Be-10",
+                  "cosmic rays",
+                  "dating",
+                  "Lake Baikal",
+                  "paleomagnetism",
+                  "tectonics",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "881YC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0921-2728",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/s10933-004-0195-9",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000220276100008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Direct electrical detection of hybridization at DNA-modified silicon surfaces",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1013-1019",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2004",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOSENSORS & BIOELECTRONICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "19",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Cai, W",
+                  "Peck, JR",
+                  "van der Weide, DW",
+                  "Hamers, RJ",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "impedance spectroscopy",
+                  "DNA",
+                  "hybridization",
+                  "sensor",
+                  "silicon",
+                  "electrical detection",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Hamers, Robert",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "C-6466-2008",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.bios.2003.09.009",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "804CF",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0956-5663",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.bios.2003.09.009",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000183689300003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Magnetic record of Lake Baikal sediments: chronological and paleoclimatic implication for the last 6.7 Myr",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3-4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "281-298",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2003",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PALAEOGEOGRAPHY PALAEOCLIMATOLOGY PALAEOECOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "195",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kravchinsky, VA",
+                  "Krainov, MA",
+                  "Evans, ME",
+                  "Peck, JA",
+                  "King, JW",
+                  "Kuzmin, MI",
+                  "Sakai, H",
+                  "Kawai, T",
+                  "Williams, DF",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Lake Baikal",
+                  "magnetic susceptibility",
+                  "Milankovitch cycles",
+                  "paleomagnetism",
+                  "Siberia",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/S0031-0182(03)00362-6",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "692ZC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0031-0182",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0031-0182(03)00362-6",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000183386500008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Mid to late Holocene climate evolution of the Lake Telmen Basin, North Central Mongolia, based on palynological data",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "353-363",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2003",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "QUATERNARY RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "59",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Fowell, SJ",
+                  "Hansen, BCS",
+                  "Peck, JA",
+                  "Khosbayer, P",
+                  "Ganbold, E",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "palynology",
+                  "paleoclimate",
+                  "Mongolia",
+                  "Holocene",
+                  "steppe",
+                  "arid",
+                  "lacustrine",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "687PV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0033-5894",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0033-5894(02)00020-0",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "PII S0033-5894(02)00020-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200200436267"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Mid to late Holocene climate change in north central Mongolia as recorded in the sediments of Lake Telmen",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "135-153",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2002",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Palaeogeography Palaeoclimatology Palaeoecology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "183",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Peck, John A.",
+                  "Khosbayar, P.",
+                  "Fowell, Sarah J.",
+                  "Pearce, Richard B.",
+                  "Ariunbileg, S.",
+                  "Hansen, Barbara C. S.",
+                  "Soninkhishig, Nergui",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0031-0182",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000176599200038"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Muted climate variations in continental Siberia during the mid-Pleistocene epoch",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6893",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "65-68",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL 4",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2002",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "NATURE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "418",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Prokopenko, AA",
+                  "Williams, DF",
+                  "Kuzmin, MI",
+                  "Karabanov, EB",
+                  "Khursevich, GK",
+                  "Peck, JA",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1038/nature00886",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "569JL",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0028-0836",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1038/nature00886",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000167804800002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Biogenic silica record of the Lake Baikal response to climatic forcing during the Brunhes",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "123-132",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2001",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "QUATERNARY RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "55",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Prokopenko, AA",
+                  "Karabanov, EB",
+                  "Williams, DF",
+                  "Kuzmin, MI",
+                  "Shackleton, NJ",
+                  "Crowhurst, SJ",
+                  "Peck, JA",
+                  "Gvozdkov, AN",
+                  "King, JW",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "paleoclimatology",
+                  "insolation",
+                  "Milankovitch theory",
+                  "Lake Baikal",
+                  "Siberia",
+                  "siliceous composition",
+                  "geochronology",
+                  "Brunhes Epoch",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1006/qres.2000.2212",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "416XC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0033-5894",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1006/qres.2000.2212",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000079565700002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Biogenic silica records from the BDP93 drill site and adjacent areas of the Selenga Delta, Lake Baikal, Siberia",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "9-17",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF PALEOLIMNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "21",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Colman, SM",
+                  "Peck, JA",
+                  "Hatton, J",
+                  "Karabanov, EB",
+                  "King, JW",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "183QV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0921-2728",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1023/A:1008064705030",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199345098834"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Dreams and interruptions in the treatment",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Dream reader: Psychoanalytic articles on dreams",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "162-173",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1993",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Peck, John S.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-8236-1452-2",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

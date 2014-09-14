@@ -1,0 +1,369 @@
+(searchResults){
+   queryId = "52"
+   recordsFound = 5
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000323214900058"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Animated Transitions between User Interface Views",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "341-348",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE INTERNATIONAL WORKING CONFERENCE ON ADVANCED VISUAL INTERFACES",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dessart, Charles-Eric",
+                  "Motti, Vivian Genaro",
+                  "Vanderdonckt, Jean",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Animated transition",
+                  "animation",
+                  "model evolution animation",
+                  "user interface development method",
+                  "user interface view",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1145/2254556.2254623",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGJ28",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4503-1287-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000286949400004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Social Approach to Authoring Media Annotations",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "17-26",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DOCENG2010: PROCEEDINGS OF THE 2010 ACM SYMPOSIUM ON DOCUMENT ENGINEERING",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Faga, Roberto, Jr.",
+                  "Motti, Vivian Genaro",
+                  "Cattelan, Renan G.",
+                  "Teixeira, Cesar A. C.",
+                  "Pimentel, Maria da Graca C.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Annotation",
+                  "Collaboration",
+                  "Multimodal",
+                  "Open vocabulary",
+                  "Video",
+                  "Watch-and-Comment",
+                  "You Tube",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BTH84",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4503-0231-9",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000267984000010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Collaborative Synchronous Video Annotation via the Watch-and-Comment Paradigm",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "67-76",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "EUROITV'09: PROCEEDINGS OF THE SEVENTH EUROPEAN INTERACTIVE TELEVISION CONFERENCE",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Motti, Vivian G.",
+                  "Faga, Roberto",
+                  "Catellan, Renan G.",
+                  "Pimentel, Maria da Graca C.",
+                  "Teixeira, Cesar A. C.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Collaboration",
+                  "Video",
+                  "HCI",
+                  "Social TV",
+                  "Video",
+                  "WaCTool",
+                  "Watch-and-comment paradigm",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BKF65",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-60558-340-2",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:19009159"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Spatial and temporal study of leprosy in the state of Sao Paulo (Southeastern Brazil), 2004-2006.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1012-20",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "Dec",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Revista de saude publica",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "42",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Rodrigues-Junior, Antonio Luiz",
+                  "do O, Vinicius Tragante",
+                  "Motti, Vivian Genaro",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Rodrigues-Junior, Antonio",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "F-9199-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1518-8787",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1590/S0034-89102008000600006",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000263562300006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Spatial and temporal study of leprosy in the state of Sao Paulo (Southeastern Brazil), 2004-2006",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "REVISTA DE SAUDE PUBLICA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "42",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Rodrigues-Junior, Antonio Luiz",
+                  "do O, Vincius Tragante",
+                  "Motti, Vivian Genaro",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Leprosy, epidemiology",
+                  "Indicators",
+                  "Temporal Distribution",
+                  "Time Series Studies",
+                  "Ecological Studies",
+                  "Epidemiology, Descriptive",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Rodrigues-Junior, Antonio",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "F-9199-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1518-8787",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "410FG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0034-8910",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

@@ -1,0 +1,749 @@
+(searchResults){
+   queryId = "83"
+   recordsFound = 10
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000306584200003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Soft biometric classification using local appearance periocular region features",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "3877-3885",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PATTERN RECOGNITION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "45",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Lyle, Jamie R.",
+                  "Miller, Philip E.",
+                  "Pundlik, Shrinivas J.",
+                  "Woodard, Damon L.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Biometrics",
+                  "Gender classification",
+                  "Ethnic classification",
+                  "Periocular",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.patcog.2012.04.027",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "976KT",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0031-3203",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000301506500021"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Human and Machine Performance on Periocular Biometrics Under Near-Infrared Light and Visible Light",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "588-601",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "7",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hollingsworth, Karen P.",
+                  "Darnell, Shelby Solomon",
+                  "Miller, Philip E.",
+                  "Woodard, Damon L.",
+                  "Bowyer, Kevin W.",
+                  "Flynn, Patrick J.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Iris recognition",
+                  "near-infrared (NIR) light",
+                  "ocular biometrics",
+                  "periocular recognition",
+                  "visible light (VL)",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Flynn, Patrick",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "J-3388-2013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/TIFS.2011.2173932",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "908QZ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1556-6013",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000300162600005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Appearance-based periocular features in the context of face and non-ideal iris recognition",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "443-455",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SIGNAL IMAGE AND VIDEO PROCESSING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Woodard, Damon L.",
+                  "Pundlik, Shrinivas J.",
+                  "Miller, Philip E.",
+                  "Lyle, Jamie R.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Periocular biometrics",
+                  "Local appearance features",
+                  "Fusion",
+                  "Iris recognition",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s11760-011-0248-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "890RN",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1863-1703",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000312932600186"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SSGA & EDA Based Feature Selection and Weighting for Face Recognition",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE Congress on Evolutionary Computation",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1375-1381",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2011 IEEE CONGRESS ON EVOLUTIONARY COMPUTATION (CEC)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Abegaz, Tamirat",
+                  "Dozier, Gerry",
+                  "Bryant, Kelvin",
+                  "Adams, Joshua",
+                  "Shelton, Joseph",
+                  "Ricanek, Karl",
+                  "Woodard, Damon L.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Face Recognition",
+                  "Steady State Genetic Algorithm",
+                  "Estimation of Distribution Algorithm",
+                  "Eigenface",
+                  "Feature Selection",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eisbn"
+               value[] = 
+                  "978-1-4244-7835-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BDE13",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000312932600369"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Comparison of GEC-Based Feature Selection and Weighting for Multimodal Biometric Recognition",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE Congress on Evolutionary Computation",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2725-2728",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2011 IEEE CONGRESS ON EVOLUTIONARY COMPUTATION (CEC)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Alford, Aniesha",
+                  "Popplewell, Khary",
+                  "Dozier, Gerry",
+                  "Bryant, Kelvin",
+                  "Kelly, John",
+                  "Adams, Josh",
+                  "Abegaz, Tamirat",
+                  "Shelton, Joseph",
+                  "Ricanek, Karl",
+                  "Woodard, Damon L.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Eigenface",
+                  "Estimation of Distribution Algorithm",
+                  "Feature Selection",
+                  "Feature Weighting",
+                  "Local Binary Pattern",
+                  "Steady-State Genetic Algorithm",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eisbn"
+               value[] = 
+                  "978-1-4244-7835-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BDE13",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000282407300009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Iris segmentation in non-ideal images using graph cuts",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "12",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1671-1681",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IMAGE AND VISION COMPUTING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "28",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Pundlik, Shrinivas",
+                  "Woodard, Damon",
+                  "Birchfield, Stan",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Iris segmentation",
+                  "Graph cuts",
+                  "Starburst",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.imavis.2010.05.004",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "657IV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0262-8856",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000274858800012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "UNCONSTRAINED BIOMETRIC IDENTIFICATION: EMERGING TECHNOLOGIES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "56-62",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTER",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "43",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ricanek, Karl, Jr.",
+                  "Savvides, Marios",
+                  "Woodard, Damon L.",
+                  "Dozier, Gerry",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "559WK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0018-9162",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000287375800036"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Genetic & Evolutionary Type II Feature Extraction for Periocular-Based Biometric Recognition",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE Congress on Evolutionary Computation",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2010 IEEE CONGRESS ON EVOLUTIONARY COMPUTATION (CEC)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Simpson, Lamar",
+                  "Dozier, Gerry",
+                  "Adams, Joshua",
+                  "Woodard, Damon L.",
+                  "Miller, Philip",
+                  "Bryant, Kelvin",
+                  "Glenn, George",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BTM91",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-8126-2",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000273210600031"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Design and acceleration of phase-only filter-based optical pattern recognition for fingerprint identification",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "OPTICAL ENGINEERING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "48",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Rice, Kenneth L.",
+                  "Taha, Tarek M.",
+                  "Chowdhury, Arshad M.",
+                  "Awwal, Abdul A. S.",
+                  "Woodard, Damon L.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "fingerprint identification",
+                  "image correlation",
+                  "field programmable gate array (FPGA) acceleration",
+                  "phase-only filter",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1117/1.3265549",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "538UW",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0091-3286",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 117206",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000265595400010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Adapting Starburst for Elliptical Iris Segmentation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "54-60",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2008 IEEE SECOND INTERNATIONAL CONFERENCE ON BIOMETRICS: THEORY, APPLICATIONS AND SYSTEMS (BTAS)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ryan, Wayne J.",
+                  "Woodard, Damon L.",
+                  "Duchowski, Andrew T.",
+                  "Birchfield, Stan T.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJG18",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-2729-1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

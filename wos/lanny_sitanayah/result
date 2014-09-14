@@ -1,0 +1,309 @@
+(searchResults){
+   queryId = "60"
+   recordsFound = 4
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000288786900036"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An Emergency-Adaptive Routing Scheme for Wireless Sensor Networks for Building Fire Hazard Monitoring",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2899-2919",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SENSORS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "11",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zeng, Yuanyuan",
+                  "Sreenan, Cormac J.",
+                  "Sitanayah, Lanny",
+                  "Xiong, Naixue",
+                  "Park, Jong Hyuk",
+                  "Zheng, Guilin",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "wireless sensor networks",
+                  "building fires",
+                  "real-time",
+                  "power adaptation",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.3390/s110302899",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "740IT",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1424-8220",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.3390/s110302899",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000300564200041"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Fault-Tolerant Relay Deployment for k Node-Disjoint Paths in Wireless Sensor Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IFIP Wireless Days",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2011 IFIP WIRELESS DAYS (WD)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sitanayah, Lanny",
+                  "Brown, Kenneth N.",
+                  "Sreenan, Cormac J.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "wireless sensor networks",
+                  "network deployment planning",
+                  "relay placement",
+                  "node-disjoint paths",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BYU91",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4577-2028-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "2156-9711",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000279093200008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Heuristic algorithm for finding boundary cycles in location-free low density wireless sensor networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "10",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1630-1645",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTER NETWORKS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "54",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sitanayah, Lanny",
+                  "Datta, Amitava",
+                  "Cardell-Oliver, Rachel",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Wireless sensor networks",
+                  "Boundary cycles",
+                  "Location-free",
+                  "Distributed algorithm",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.comnet.2010.01.009",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "614XN",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1389-1286",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000296392600042"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ER-MAC: A Hybrid MAC Protocol for Emergency Response Wireless Sensor Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "244-249",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2010 FOURTH INTERNATIONAL CONFERENCE ON SENSOR TECHNOLOGIES AND APPLICATIONS (SENSORCOMM)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sitanayah, Lanny",
+                  "Sreenan, Cormac J.",
+                  "Brown, Kenneth N.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "MAC protocol",
+                  "wireless sensor networks",
+                  "fire emergency",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/SENSORCOMM.2010.45",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BXM64",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-3330-8",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/SENSORCOMM.2010.45",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

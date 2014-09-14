@@ -1,0 +1,71 @@
+(searchResults){
+   queryId = "39"
+   recordsFound = 1
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000235707200005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Effect of dog-walking on autonomic nervous activity in senior citizens",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "60-63",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN 16",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MEDICAL JOURNAL OF AUSTRALIA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "184",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Motooka, M",
+                  "Koike, H",
+                  "Yokoyama, T",
+                  "Kennedy, NL",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "017QD",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0025-729X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

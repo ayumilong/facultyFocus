@@ -1,0 +1,1503 @@
+(searchResults){
+   queryId = "3"
+   recordsFound = 21
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "MEDLINE:24650990"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Effects of virtual human animation on emotion contagion in simulated inter-personal experiences.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "626-35",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "Apr",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE transactions on visualization and computer graphics",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "20",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wu, Yanxiang",
+                  "Babu, Sabarish V",
+                  "Armstrong, Rowan",
+                  "Bertrand, Jeffrey W",
+                  "Luo, Jun",
+                  "Roy, Tania",
+                  "Daily, Shaundra B",
+                  "Dukes, Lauren Cairco",
+                  "Hodges, Larry F",
+                  "Fasolino, Tracy",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/TVCG.2014.19",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1941-0506",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000325093300026"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Poster: Comparing Usability of a Single versus Dual Interaction Metaphor in a Multitask Healthcare Simulation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "133-134",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2013 IEEE SYMPOSIUM ON 3D USER INTERFACES (3DUI)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dukes, Lauren Cairco",
+                  "Bertrand, Jeffrey",
+                  "Gupta, Manan",
+                  "Armstrong, Rowan",
+                  "Fasolino, Tracy",
+                  "Babu, Sabarish",
+                  "Hodges, Larry F.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "I.3.7 [Computer Graphics]: Three Dimensional Graphics and Realism",
+                  "virtual reality",
+                  "H.5.2 [Information Interfaces and Presentation]: User Interfaces",
+                  "Input devices and strategies",
+                  "interaction styles",
+                  "user-centered design",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eisbn"
+               value[] = 
+                  "978-1-4673-6098-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BHD69",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000332894400011"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Empirical Evaluation of Traditional vs. Hybrid Interaction Metaphors in a Multitask Healthcare Simulation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "89-98",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2013 IEEE INTERNATIONAL CONFERENCE ON HEALTHCARE INFORMATICS (ICHI 2013)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dukes, Lauren Cairco",
+                  "Bertrand, Jeffrey",
+                  "Gupta, Manan",
+                  "Armstrong, Rowan",
+                  "Fasolino, Tracy",
+                  "Babu, Sabarish",
+                  "Hodges, Larry F.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/ICHI.2013.18",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BA1QP",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-5089-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000327715600078"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Serious Games for Training, Rehabilitation and Workforce Development",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Proceedings of the IEEE Virtual Reality Annual International Symposium",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "195-196",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2013 IEEE VIRTUAL REALITY CONFERENCE (VR)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bertrand, Jeffrey",
+                  "Dukes, Lauren Cairco",
+                  "Dukes, Patrick",
+                  "Ebrahimi, Elham",
+                  "Hayes, Austen",
+                  "Mack, Naja",
+                  "McClendon, Jerome",
+                  "Parmar, Dhaval",
+                  "Pence, Toni Bloodworth",
+                  "Shannon, Blair",
+                  "Wachter, Aliceann",
+                  "Wu, Yanxiang",
+                  "Babu, Sabarish",
+                  "Hodges, Larry F.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "patient safety",
+                  "stroke rehabilitation",
+                  "3D user interaction",
+                  "workforce development",
+                  "training",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BID50",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4673-4796-9",
+                  "978-1-4673-4795-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1087-8270",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000294815800003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Near-Field Distance Perception in Real and Virtual Environments Using Both Verbal and Action Responses",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ACM TRANSACTIONS ON APPLIED PERCEPTION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "8",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Napieralski, Phillip E.",
+                  "Altenhoff, Bliss M.",
+                  "Bertrand, Jeffrey W.",
+                  "Long, Lindsay O.",
+                  "Babu, Sabarish V.",
+                  "Pagano, Christopher C.",
+                  "Kern, Justin",
+                  "Davis, Timothy A.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Human Factors",
+                  "Depth perception",
+                  "distance estimation",
+                  "virtual reality",
+                  "immersive virtual environments",
+                  "human factors and usability",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1145/2010325.2010328",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "819HK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1544-3558",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 18",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000284227100003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An Immersive Virtual Peer for Studying Social Influences on Child Cyclists' Road-Crossing Behavior",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "14-25",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "17",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Babu, Sabarish V.",
+                  "Grechkin, Timofey Y.",
+                  "Chihak, Benjamin",
+                  "Ziemer, Christine",
+                  "Kearney, Joseph K.",
+                  "Cremer, James F.",
+                  "Plumert, Jodie M.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Virtual humans",
+                  "virtual reality",
+                  "applied perception",
+                  "3D human-computer interaction",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/TVCG.2009.211",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "680JB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1077-2626",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/TVCG.2009.211",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000285272500018"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Synchronizing Self and Object Movement: How Child and Adult Cyclists Intercept Moving Gaps in a Virtual Environment",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1535-1552",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF EXPERIMENTAL PSYCHOLOGY-HUMAN PERCEPTION AND PERFORMANCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "36",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Chihak, Benjamin J.",
+                  "Plumert, Jodie M.",
+                  "Ziemer, Christine J.",
+                  "Babu, Sabarish",
+                  "Grechkin, Timofey",
+                  "Cremer, James F.",
+                  "Kearney, Joseph K.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "perception-action",
+                  "interception",
+                  "perceptual-motor development",
+                  "virtual environments",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1037/a0020560",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "694CL",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0096-1523",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1037/a0020560",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000277650300014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Evaluation of the Cognitive Effects of Travel Technique in Complex Real and Virtual Environments",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "690-702",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL-AUG",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "16",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Suma, Evan A.",
+                  "Finkelstein, Samantha L.",
+                  "Reid, Myra",
+                  "Babu, Sabarish V.",
+                  "Ulinski, Amy C.",
+                  "Hodges, Larry F.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Virtual reality",
+                  "travel techniques",
+                  "navigation",
+                  "real walking",
+                  "user study",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/TVCG.2009.93",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "595YN",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1077-2626",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/TVCG.2009.93",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000312453400013"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Virtual Agents Based Simulation for Training Healthcare Workers in Hand Hygiene Procedures",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Artificial Intelligence",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "125-131",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTELLIGENT VIRTUAL AGENTS, IVA 2010",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "6356",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bertrand, Jeffrey",
+                  "Babu, Sabarish V.",
+                  "Polgreen, Philip",
+                  "Segre, Alberto",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Virtual Humans",
+                  "Medical Virtual Reality",
+                  "3D Human-Computer Interaction",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BDB32",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-15891-9",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000284885100002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Creating Blind Photoarrays Using Virtual Human Technology A Feasibility Test",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "289-300",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "POLICE QUARTERLY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "12",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Cutler, Brian L.",
+                  "Daugherty, Brent",
+                  "Babu, Sabarish",
+                  "Hodges, Larry",
+                  "Van Wallendael, Lori",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "eyewitness identification",
+                  "lineup",
+                  "photoarray",
+                  "virtual reality",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1177/1098611109339892",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "688WE",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1098-6111",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000265769200013"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Virtual Peer for Investigating Social Influences on Children's Bicycling",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "91-98",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE VIRTUAL REALITY 2009, PROCEEDINGS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Babu, Sabarish",
+                  "Grechkin, Timofey",
+                  "Chihak, Benjamin",
+                  "Ziemer, Christine",
+                  "Kearney, Joseph",
+                  "Cremer, James",
+                  "Plumert, Jodie",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Virtual Humans",
+                  "Applied Perception",
+                  "3D Human-Computer Interaction",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJH02",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-3943-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000260426500009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Virtual Human versus Human Administration of Photographic Lineups",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "65-75",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV-DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE COMPUTER GRAPHICS AND APPLICATIONS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "28",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Daugherty, Brent",
+                  "Van Wallendael, Lori",
+                  "Babu, Sabarish",
+                  "Cutler, Brian",
+                  "Hodges, Larry F.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "365RW",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0272-1716",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/MCG.2008.125",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000266239800026"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "How do Bicyclists Intercept Moving Gaps in a Virtual Environment?",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "188-188",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "APGV 2008: PROCEEDINGS OF THE SYMPOSIUM ON APPLIED PERCEPTION IN GRAPHICS AND VISUALIZATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Chihak, Benjamin",
+                  "Babu, Sabarish",
+                  "Grechkin, Timofey",
+                  "Ziemer, Christine",
+                  "Cremer, James",
+                  "Kearney, Joseph",
+                  "Plumert, Jodie",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJJ01",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-59593-981-4",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000245919300028"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Can immersive virtual humans teach social conversational protocols?",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "215-218",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE Virtual Reality 2007, Proceedings",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Babu, Sabarish",
+                  "Suma, Evan",
+                  "Barnes, Tiffany",
+                  "Hodges, Larry F.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "virtual characters",
+                  "embodied agents",
+                  "multimodal interaction",
+                  "human-computer interaction",
+                  "immersive virtual environments",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGB56",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-0905-1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000245917600022"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Comparison of travel techniques in a complex, multi-level 3D environment",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "147-153",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "3DUI: IEEE Symposium on 3D User Interfaces 2007, Proceedings",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Suma, Evan A.",
+                  "Babu, Sabarish",
+                  "Hodges, Larry F.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "evaluation",
+                  "navigation",
+                  "user study",
+                  "virtual reality",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGB48",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-0907-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000266109300048"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Shakespearean Karaoke",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "239-240",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VRST 2007: ACM SYMPOSIUM ON VIRTUAL REALITY SOFTWARE AND TECHNOLOGY, PROCEEDINGS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Cairco, Lauren",
+                  "Babu, Sabarish",
+                  "Ulinski, Amy",
+                  "Zanbaka, Catherine",
+                  "Hodges, Larry F.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJI48",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-59593-863-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000266109300017"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Officer Garcia: A Virtual Human for Mediating Eyewitness Identification",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "117-120",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VRST 2007: ACM SYMPOSIUM ON VIRTUAL REALITY SOFTWARE AND TECHNOLOGY, PROCEEDINGS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Daugherty, Brent",
+                  "Babu, Sabarish",
+                  "Cutler, Brian",
+                  "Hodges, Larry",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Virtual Humans",
+                  "Virtual Officer",
+                  "Officer Garcia",
+                  "Embodied Conversational Agents",
+                  "Human-Computer Interaction",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJI48",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-59593-863-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000237469200009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Responses to a virtual reality grocery store in persons with and without vestibular dysfunction",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "152-156",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CYBERPSYCHOLOGY & BEHAVIOR",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "9",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Whitney, SL",
+                  "Sparto, PJ",
+                  "Hodges, LF",
+                  "Babu, SV",
+                  "Furman, JM",
+                  "Redfern, MS",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "041PX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1094-9313",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1089/cpb.2006.9.152",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000240268400014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  ""What would you like to talk about?" - An evaluation of social conversations with a virtual receptionist",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Artificial Intelligence",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "169-180",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTELLIGENT VIRTUAL AGENTS, PROCEEDINGS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "4133",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Babu, Sabarish",
+                  "Schmugge, Stephen",
+                  "Barnes, Tiffany",
+                  "Hodges, Larry F.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BEZ35",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "3-540-37593-7",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000242079900001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Recovery and visualization of 3D structure of chromosomes from tomographic reconstruction images",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "EURASIP JOURNAL ON APPLIED SIGNAL PROCESSING",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Babu, Sabarish",
+                  "Liao, Pao-Chuan",
+                  "Shin, Min C.",
+                  "Tsap, Leonid V.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1155/ASP/2006/45684",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1687-0433",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "106CZ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1110-8657",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1155/ASP/2006/45684",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 45684",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000231761200010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Comparison of path visualizations and cognitive measures relative to travel technique in a virtual environment",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "694-705",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV-DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "11",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zanbaka, CA",
+                  "Lok, BC",
+                  "Babu, SV",
+                  "Ulinski, AC",
+                  "Hodges, LF",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "evaluation",
+                  "information visualization",
+                  "navigation",
+                  "virtual reality",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "962VN",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1077-2626",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/TVCG.2005.92",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

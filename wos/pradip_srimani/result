@@ -1,0 +1,974 @@
+(searchResults){
+   queryId = "66"
+   recordsFound = 14
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000306166700004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Predicting synthetic lethal genetic interactions in Saccharomyces cerevisiae using short polypeptide clusters",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN 21",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROTEOME SCIENCE",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "10",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zhang, Yuehua",
+                  "Li, Bo",
+                  "Srimani, Pradip K.",
+                  "Chen, Xuewen",
+                  "Luo, Feng",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1186/1477-5956-10-S1-S4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "970XX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1477-5956",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN S4",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000306071800002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SELF-STABILIZING MASTER-SLAVE TOKEN CIRCULATION AND EFFICIENT SIZE-COMPUTATION IN AU NIDIRECTIONAL RING OF ARBITRARY SIZE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "763-777",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "23",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Srimani, Pradip K.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Self-stabilization",
+                  "master-slave",
+                  "ring",
+                  "token circulation",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1142/S0129054112400357",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "969QV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0129-0541",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000306615100029"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A New Hierarchical Structure of Star Graphs and Applications",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "267-268",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DISTRIBUTED COMPUTING AND INTERNET TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "7154",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Shi, Wei",
+                  "Luo, Feng",
+                  "Srimani, Pradip",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Ramaswamy, S",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBE27",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-28072-6",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000303419100028"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Application of Random Matrix Theory to Analyze Biological Data",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "711-732",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "HANDBOOK OF DATA INTENSIVE COMPUTING",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Luo, Feng",
+                  "Srimani, Pradip K.",
+                  "Zhou, Jizhong",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/978-1-4614-1415-5_28",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BZZ54",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4614-1414-8",
+            },
+            (labelValuesPair){
+               label = "Identifier.Parent_Book_Doi"
+               value[] = 
+                  "10.1007/978-1-4614-1415-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000278527000011"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Distributed fault tolerant computation of weakly connected dominating set in ad hoc networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "182-195",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF SUPERCOMPUTING",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "53",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Xu, Zhenyu",
+                  "Wang, James",
+                  "Srimani, Pradip K.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Distributed protocol",
+                  "Fault tolerance",
+                  "Ad hoc network",
+                  "Weakly connected dominating set",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s11227-009-0325-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "607SN",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0920-8542",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000286906900059"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Undergraduate Database Instruction with MeTube",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "279-283",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ITICSE 2010: PROCEEDINGS OF THE 2010 ACM SIGCSE ANNUAL CONFERENCE ON INNOVATION AND TECHNOLOGY IN COMPUTER SCIENCE EDUCATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, James Z.",
+                  "Davis, Timothy A.",
+                  "Westall, James M.",
+                  "Srimani, Pradip K.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "MeTube",
+                  "TEXNH",
+                  "CPATH",
+                  "DBMS",
+                  "Problem-based Instruction",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BTG61",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-60558-820-9",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000256756000004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Fast deterministic broadcast and gossiping algorithms for mobile ad hoc networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "922-938",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "68",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sinha, Koushik",
+                  "Ghose, Suranjan",
+                  "Srimani, Pradip K.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "ad hoc networks",
+                  "MANET",
+                  "deterministic broadcast",
+                  "breadth-first broadcast",
+                  "gossiping",
+                  "all-to-all broadcast",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.jpdc.2008.01.008",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1096-0848",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "313QV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0743-7315",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.jpdc.2008.01.008",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000252395000016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Anonymous daemon conversion in self-stabilizing algorithms by randomization in constant space",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "LECTURE NOTES IN COMPUTER SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "182-190",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DISTRIBUTED COMPUTING AND NETWORKING, PROCEEDINGS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "4904",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, W.",
+                  "Hedetniemi, S. T.",
+                  "Jacobs, D. P.",
+                  "Srimani, Pradip K.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BHE05",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-540-77443-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000256023000040"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An efficient method to measure the semantic similarity of ontologies",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "LECTURE NOTES IN COMPUTER SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "447-458",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ADVANCES IN GRID AND PERVASIVE COMPUTING, PROCEEDINGS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5036",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, James Z.",
+                  "Ali, Farha",
+                  "Srimani, Pradip K.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BHT01",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-540-68081-9",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000262909600001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Cooperative proxy caching for wireless base stations",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1-18",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MOBILE INFORMATION SYSTEMS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "3",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, James Z.",
+                  "Du, Zhidian",
+                  "Srimani, Pradip K.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Wireless internet",
+                  "base station",
+                  "proxy caching",
+                  "VPG",
+                  "mobile cache model",
+                  "network cache line",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "401AD",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1574-017X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000245973000004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Distributed protocols for defensive and offensive alliances in network graphs using self-stabilization",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "27-31",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ICCTA 2007: International Conference on Computing: Theory and Applications, Proceedings",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Srimani, Pradip K.",
+                  "Xu, Zhenyu",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE COMPUTER SOC",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGB99",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-2770-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000249626600001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Self-stabilizing distributed algorithms for networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "LECTURE NOTES IN COMPUTER SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1-2",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Parallel and Distributed Processing and Applications, Proceedings",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "4742",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Srimani, Pradip K.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGP92",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-540-74741-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000238835700001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Deterministic broadcast and gossiping algorithms for ad hoc networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "115-144",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF SUPERCOMPUTING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "37",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sinha, Koushik",
+                  "Srimani, Pradip K.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s11227-006-6255-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "060XR",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0920-8542",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/s11227-006-6255-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "CCC:000237113200016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Some bounded degree communication networks and optimal leader election",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "COMBINATORIAL OPTIMIZATION (SERIES)",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "467-501",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMBINATORIAL OPTIMIZATION IN COMMUNICATION NETWORKS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "18",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Srimani, Pradip K.",
+                  "Latifi, Shahram",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BEF75",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/0-387-29026-5_17",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

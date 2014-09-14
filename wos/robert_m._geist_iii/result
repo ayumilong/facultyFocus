@@ -1,0 +1,692 @@
+(searchResults){
+   queryId = "21"
+   recordsFound = 9
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000293379600007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Modern Pathology Methods for Neural Investigations",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "52-57",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TOXICOLOGIC PATHOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "39",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hale, Sarah L.",
+                  "Andrews-Jones, Lydia",
+                  "Jordan, William H.",
+                  "Jortner, Bernard S.",
+                  "Boyce, Rogely W.",
+                  "Boyce, John T.",
+                  "Switzer, Robert C., III",
+                  "Butt, Mark T.",
+                  "Garman, Robert H.",
+                  "Jensen, Karl",
+                  "Krinke, Georg",
+                  "Little, Peter B.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "nervous system sampling",
+                  "neurohistology",
+                  "stereology",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1177/0192623310394213",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "800QU",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0192-6233",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1177/0192623310394213",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000245799200024"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Mild and general methods for the palladium-catalyzed cyanation of aryl and heteroaryl chlorides",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1711-1714",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR 26",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ORGANIC LETTERS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "9",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Littke, Adam",
+                  "Soumeillant, Maxime",
+                  "Kaltenbach, Robert F., III",
+                  "Cherney, Robert J.",
+                  "Tarby, Christine M.",
+                  "Kiau, Susanne",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1021/ol070372d",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "158NW",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1523-7060",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/ol070372d",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996UN57400006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Preparation and structure-activity relationship of novel P1/P1'-substituted cyclic urea-based human immunodeficiency virus type-1 protease inhibitors",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2156-2169",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY 24",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF MEDICINAL CHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "39",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Nugiel, DA",
+                  "Jacobs, K",
+                  "Worley, T",
+                  "Patel, M",
+                  "Kaltenbach, RF",
+                  "Meyer, DT",
+                  "Jadhav, PK",
+                  "DeLucca, GV",
+                  "Smyser, TE",
+                  "Klabe, RM",
+                  "Bacheler, LT",
+                  "Rayner, MM",
+                  "Seitz, SP",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "UN574",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-2623",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/jm960083n",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996TM17100041"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Urokinase-type plasminogen activator receptor reversibly dissociates from complement receptor type 3 (alpha(M)beta(2')CD11b/CD18) during neutrophil polarization",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "297-309",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "156",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kindzelskii, AL",
+                  "Laska, ZO",
+                  "Todd, RF",
+                  "Petty, HR",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "TM171",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1767",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996UF23900022"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Comparison of hospital charges for closure of patent ductus arteriosus by surgery and by transcatheter coil occlusion",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "776-&",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "AMERICAN JOURNAL OF CARDIOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "77",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Fedderly, RT",
+                  "Beekman, RH",
+                  "Mosca, RS",
+                  "Bove, EL",
+                  "Lloyd, TR",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "UF239",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0002-9149",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0002-9149(97)89219-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1994NF86100002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "MOLECULAR DETERMINANTS OF LIPID MEDIATOR-INDUCED LEUKOCYTE ADHERENCE AND EMIGRATION IN RAT MESENTERIC VENULES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "H847-H853",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1994",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "AMERICAN JOURNAL OF PHYSIOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "266",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "ZIMMERMAN, BJ",
+                  "HOLT, JW",
+                  "PAULSON, JC",
+                  "ANDERSON, DC",
+                  "MIYASAKA, M",
+                  "TAMATANI, T",
+                  "TODD, RF",
+                  "RUSCHE, JR",
+                  "GRANGER, DN",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "PLATELET-ACTIVATING FACTOR",
+                  "LEUKOTRIENE B-4",
+                  "LEUKOCYTE ENDOTHELIAL CELL ADHESION",
+                  "LEUKOCYTE INTEGRINS",
+                  "INTRACELLULAR ADHESION MOLECULE 1",
+                  "E-SELECTIN",
+                  "P-SELECTIN",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "NF861",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0002-9513",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1994PC40200035"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "CYTOKINE-SPECIFIC REGULATION OF UROKINASE RECEPTOR (CD87) EXPRESSION BY U937 MONONUCLEAR PHAGOCYTES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1268-1275",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1994",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BLOOD",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "84",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SITRIN, RG",
+                  "TODD, RF",
+                  "MIZUKAMI, IF",
+                  "GROSS, TJ",
+                  "SHOLLENBERGER, SB",
+                  "GYETKO, MR",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "PC402",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-4971",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1993LV96900032"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "EVIDENCE FOR AN IMINO INTERMEDIATE IN THE T4-ENDONUCLEASE-V REACTION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "32",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "8284-8290",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 17",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1993",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOCHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "32",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "DODSON, ML",
+                  "SCHROCK, RD",
+                  "LLOYD, RS",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "LV969",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-2960",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/bi00083a032",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1993KM22200030"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "REQUIREMENTS FOR LEUKOCYTE ADHESION MOLECULES IN NEPHROTOXIC NEPHRITIS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "577-587",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1993",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF CLINICAL INVESTIGATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "91",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "MULLIGAN, MS",
+                  "JOHNSON, KJ",
+                  "TODD, RF",
+                  "ISSEKUTZ, TB",
+                  "MIYASAKA, M",
+                  "TAMATANI, T",
+                  "SMITH, CW",
+                  "ANDERSON, DC",
+                  "WARD, PA",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "NEPHRITIS",
+                  "ADHESION MOLECULES",
+                  "NEUTROPHILS",
+                  "INTEGRINS",
+                  "SELECTINS",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "KM222",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9738",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1172/JCI116237",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

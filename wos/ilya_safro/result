@@ -1,0 +1,924 @@
+(searchResults){
+   queryId = "59"
+   recordsFound = 11
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000305292200009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Randomized heuristics for exploiting Jacobian scarcity",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "311-322",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "OPTIMIZATION METHODS & SOFTWARE",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "27",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Lyons, Andrew",
+                  "Safro, Ilya",
+                  "Utke, Jean",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "automatic differentiation",
+                  "scarcity",
+                  "preaccumulation",
+                  "edge elimination",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1080/10556788.2011.577774",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "959DQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1055-6788",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000299165200020"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A measure of the local connectivity between graph vertices",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Procedia Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "196-205",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE (ICCS)",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "4",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Chen, Jie",
+                  "Safro, Ilya",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "connectivity",
+                  "algebraic distance",
+                  "combinatorial scientific computing",
+                  "computational graph problems",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Safro, Ilya",
+                  "Dongarra, Jack",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-9383-2012",
+                  "E-3987-2014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.procs.2011.04.021",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eisbn"
+               value[] = 
+                  "*****************",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BYK46",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1877-0509",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000298370000018"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ALGEBRAIC DISTANCE ON GRAPHS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "3468-3490",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SIAM JOURNAL ON SCIENTIFIC COMPUTING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "33",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Chen, Jie",
+                  "Safro, Ilya",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "graph connectivity measure",
+                  "combinatorial scientific computing",
+                  "stationary iterative process",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Safro, Ilya",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-9383-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1137/090775087",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "866HB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1064-8275",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000288988900016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "RELAXATION-BASED COARSENING AND MULTISCALE GRAPH ORGANIZATION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "407-423",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MULTISCALE MODELING & SIMULATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "9",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ron, Dorit",
+                  "Safro, Ilya",
+                  "Brandt, Achi",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "relaxation-based coarsening",
+                  "multiscale and multilevel methods for graphs",
+                  "algebraic distance",
+                  "partitioning",
+                  "graph linear ordering",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Safro, Ilya",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-9383-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1137/100791142",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1540-3467",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "743AY",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1540-3459",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1137/100791142",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000282833800012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Learning of Highly-Filtered Data Manifold Using Spectral Methods",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "154-168",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "LEARNING AND INTELLIGENT OPTIMIZATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "6073",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Roderick, Oleg",
+                  "Safro, Ilya",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Safro, Ilya",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-9383-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BRJ46",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-13799-0",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/978-3-642-13800-3_12",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000281459300011"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "FAST MULTILEVEL ALGORITHMS FOR LINEAR ORDERING PROBLEMS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "313-324",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTATIONAL OPTIMIZATION: NEW RESEARCH DEVELOPMENTS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Safro, Ilya",
+                  "Ron, Dorit",
+                  "Brandt, Achi",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BQO87",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-60692-671-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000285509300002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A FAST MULTIGRID ALGORITHM FOR ENERGY MINIMIZATION UNDER PLANAR DENSITY CONSTRAINTS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1599-1620",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MULTISCALE MODELING & SIMULATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "8",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ron, Dorit",
+                  "Safro, Ilya",
+                  "Brandt, Achi",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "layout problems",
+                  "graph drawing and visualization",
+                  "density constraints",
+                  "constrained optimization",
+                  "geometric multigrid",
+                  "full approximation scheme",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Safro, Ilya",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-9383-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1137/090771995",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1540-3467",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "697JH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1540-3459",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1137/090771995",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000281436700009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Advances in parallel partitioning, load balancing and matrix ordering for scientific computing",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Journal of Physics Conference Series",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SCIDAC 2009: SCIENTIFIC DISCOVERY THROUGH ADVANCED COMPUTING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "180",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Boman, Erik G.",
+                  "Catalyurek, Umit V.",
+                  "Chevalier, Cedric",
+                  "Devine, Karen D.",
+                  "Safro, Ilya",
+                  "Wolf, Michael M.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Safro, Ilya",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-9383-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1088/1742-6596/180/1/012008",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BQO16",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "*****************",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1742-6588",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000278806000014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Comparison of Coarsening Schemes for Multilevel Graph Partitioning",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "191-205",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "LEARNING AND INTELLIGENT OPTIMIZATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5851",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Chevalier, Cedric",
+                  "Safro, Ilya",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Safro, Ilya",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-9383-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BPG32",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-11168-6",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/978-3-642-11169-3_14",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000238265900002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Graph minimum linear arrangement by multilevel weighted edge contractions",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "24-41",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF ALGORITHMS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "60",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Safro, I",
+                  "Ron, D",
+                  "Brandt, A",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "minimum linear arrangement",
+                  "combinatorial optimization",
+                  "multilevel computations",
+                  "graphs",
+                  "weighted edge contractions",
+                  "weighted aggregation",
+                  "coarsening",
+                  "interpolation",
+                  "relaxation",
+                  "simulated annealing",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Safro, Ilya",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-9383-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.jalgor.2004.10.004",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "052WY",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0196-6774",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.jalgor.2004.10.004",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000236058200025"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Optimal growth temperature of prokaryotes correlates with class II amino acid composition",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1672-1676",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 6",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FEBS LETTERS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "580",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Klipcan, L",
+                  "Safro, I",
+                  "Temkin, B",
+                  "Safro, M",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "class II aaRSs",
+                  "amino acids",
+                  "thermophiles",
+                  "mesophiles",
+                  "evolution",
+                  "thermal adaptation",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Safro, Ilya",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-9383-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.febslet.2006.02.013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "022LV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0014-5793",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.febslet.2006.02.013",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

@@ -1,0 +1,354 @@
+(searchResults){
+   queryId = "84"
+   recordsFound = 5
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000295769500006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Interactive gaming reduces experimental pain with or without a head mounted display",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2123-2128",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTERS IN HUMAN BEHAVIOR",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "27",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gordon, Nakia S.",
+                  "Merchant, Junaid",
+                  "Zanbaka, Catherine",
+                  "Hodges, Larry F.",
+                  "Goolkasian, Paula",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Analgesia",
+                  "Gaming",
+                  "Head mounted display",
+                  "Electrical stimulation",
+                  "Virtual reality",
+                  "Emotion",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.chb.2011.06.006",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "831ZL",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0747-5632",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000267123300179"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Social Responses to Virtual Humans: Implications for Future Interface Design",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1561-1570",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1 AND 2",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zanbaka, Catherine",
+                  "Ulinski, Amy",
+                  "Goolkasian, Paula",
+                  "Hodges, Larry F.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Virtual humans",
+                  "avatars",
+                  "interface agents",
+                  "human-computer interaction",
+                  "social facilitation and inhibition",
+                  "social influence",
+                  "experimental studies",
+                  "social psychology",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJT07",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-59593-593-9",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000266109300048"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Shakespearean Karaoke",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "239-240",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VRST 2007: ACM SYMPOSIUM ON VIRTUAL REALITY SOFTWARE AND TECHNOLOGY, PROCEEDINGS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Cairco, Lauren",
+                  "Babu, Sabarish",
+                  "Ulinski, Amy",
+                  "Zanbaka, Catherine",
+                  "Hodges, Larry F.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJI48",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-59593-863-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000245917600016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Two handed selection techniques for volumetric data",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "107-114",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "3DUI: IEEE SYMPOSIUM ON 3D USER INTERFACES 2007, PROCEEDINGS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ulinski, Amy",
+                  "Zanbaka, Catherine",
+                  "Wartell, Zachary",
+                  "Goolkasian, Paula",
+                  "Hodges, Larry F.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "bimanual interaction",
+                  "3D selection",
+                  "3D UI",
+                  "volumetric data",
+                  "splat-rendering",
+                  "visualization",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGB48",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-0907-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000231761200010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Comparison of path visualizations and cognitive measures relative to travel technique in a virtual environment",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "694-705",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV-DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "11",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zanbaka, CA",
+                  "Lok, BC",
+                  "Babu, SV",
+                  "Ulinski, AC",
+                  "Hodges, LF",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "evaluation",
+                  "information visualization",
+                  "navigation",
+                  "virtual reality",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "962VN",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1077-2626",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/TVCG.2005.92",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

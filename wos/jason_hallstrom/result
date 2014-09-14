@@ -1,0 +1,1694 @@
+(searchResults){
+   queryId = "28"
+   recordsFound = 24
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000321905200005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Fast, Accurate Event Classification on Resource-Lean Embedded Sensors",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ACM TRANSACTIONS ON AUTONOMOUS AND ADAPTIVE SYSTEMS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "8",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Jiang, Hao",
+                  "Hallstrom, Jason O.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Design",
+                  "Algorithms",
+                  "Performance",
+                  "Wireless sensor networks",
+                  "classification",
+                  "Bayesian classification",
+                  "kd-tree",
+                  "event detection",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1145/2491465.2491470",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "184PS",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1556-4665",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 11",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000331477400006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "VSPIN: A Framework for Developing Incremental Sensor Network Reprogramming Strategies",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "International Workshop on Software Engineering and Sensor Network Applications",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "30-34",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2013 4TH INTERNATIONAL WORKSHOP ON SOFTWARE ENGINEERING FOR SENSOR NETWORK APPLICATIONS (SESENA)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Mazumder, Biswajit",
+                  "Hallstrom, Jason O.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Wireless sensor networks",
+                  "reprogramming",
+                  "incremental code update",
+                  "software tools",
+                  "Linux-based frameworks",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BA0IC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4673-6269-6",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "2327-1620",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000335232000024"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Monitoring Sensor Measurement Anomalies of Streaming Environmental Data Using a Local Correlation Score",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "136-137",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2013 FOURTH INTERNATIONAL CONFERENCE ON COMPUTING FOR GEOSPATIAL RESEARCH AND APPLICATION (COM.GEO)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Taylor, Ian",
+                  "Sharp, Julia L.",
+                  "White, David L.",
+                  "Hallstrom, Jason O.",
+                  "Eidson, Gene",
+                  "von Oehsen, J. Barr",
+                  "Duffy, Edward B.",
+                  "Privette, Charles V., III",
+                  "Cook, Charles T.",
+                  "Sampath, Aravindh",
+                  "Radhakrishnan, Gyanas",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "real-time data",
+                  "Local Correlation Score",
+                  "quality control",
+                  "R",
+                  "OpenMPI",
+                  "parallel file system",
+                  "clusters",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/COMGEO.2013.25",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BA3ZV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-5012-1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000329971800012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Wireless Infrastructure for Remote Environmental Monitoring: Deployment and Evaluation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "68-73",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2013 INTERNATIONAL CONFERENCE ON SELECTED TOPICS IN MOBILE AND WIRELESS NETWORKING (MOWNET)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Yang, Fan",
+                  "Gondi, Vamsi",
+                  "Hallstrom, Jason O.",
+                  "Wang, Kuang-Ching",
+                  "Eidson, Gene",
+                  "Post, Christopher J.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJS31",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4799-0506-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000326335202110"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "CEDAR: An Optimal and Distributed Strategy for Packet Recovery in Wireless Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE INFOCOM",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2859-2867",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2013 PROCEEDINGS IEEE INFOCOM",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Qiu, Chenxi",
+                  "Shen, Haiying",
+                  "Soltani, Sohraab",
+                  "Sapra, Karan",
+                  "Jiang, Hao",
+                  "Hallstrom, Jason",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BHQ33",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4673-5946-7",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0743-166X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000322375100105"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Topology Control with a Limited Number of Relays",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE Global Telecommunications Conference (Globecom)",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "645-651",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2012 IEEE GLOBAL COMMUNICATIONS CONFERENCE (GLOBECOM)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Che, Fei (Sophie)",
+                  "Lloyd, Errol L.",
+                  "Hallstrom, Jason O.",
+                  "Ravi, S. S.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGD24",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4673-0921-9",
+                  "978-1-4673-0920-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1930-529X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000302023200003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "CAPTURING INTERFACE PROTOCOLS TO SUPPORT COMPREHENSION AND EVALUATION OF C++ LIBRARIES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "8",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1123-1146",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "21",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Malloy, Brian A.",
+                  "Lloyd, Errol L.",
+                  "Hallstrom, Jason O.",
+                  "Duffy, Edward B.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Object oriented software",
+                  "reverse engineering",
+                  "regular expression",
+                  "class interface",
+                  "program comprehension",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1142/S0218194011005645",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "915KK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0218-1940",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000299427700030"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Fast Distributed Simulation of Sensor Networks using Optimistic Synchronization",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2011 INTERNATIONAL CONFERENCE ON DISTRIBUTED COMPUTING IN SENSOR SYSTEMS AND WORKSHOPS (DCOSS)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Jiang, Hao",
+                  "Zhai, Jiannan",
+                  "Wahba, Sally K.",
+                  "Mazumder, Biswajit",
+                  "Hallstrom, Jason O.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BYN27",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4577-0513-7",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000304130200154"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Making Mathematical Reasoning Fun: Tool-Assisted, Collaborative Techniques",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "661-661",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SIGCSE 12: PROCEEDINGS OF THE 43RD ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE EDUCATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hallstrom, Jason O.",
+                  "Hollingsworth, Joe",
+                  "Krone, Joan",
+                  "Sitaraman, Murali",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Analytical reasoning",
+                  "interface specifications",
+                  "contract programming",
+                  "formal methods",
+                  "learning tools",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BAH03",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4503-1098-7",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000296829600005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Fast, Accurate Event Classification on Resource-Lean Embedded Sensors",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "65-80",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "WIRELESS SENSOR NETWORKS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "6567",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Jiang, Hao",
+                  "Hallstrom, Jason O.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BXR40",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-19185-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000296829600006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Mobility Management Framework for Optimizing the Trajectory of a Mobile Base-Station",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "81-97",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "WIRELESS SENSOR NETWORKS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "6567",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Mudigonda, Madhu",
+                  "Kanipakam, Trisul",
+                  "Dutko, Adam",
+                  "Bathula, Manohar",
+                  "Sridhar, Nigamanth",
+                  "Seetharaman, Srinivasan",
+                  "Hallstrom, Jason O.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BXR40",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-19185-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000268518800001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "nAIT: A source analysis and instrumentation framework for nesC",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1057-1072",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF SYSTEMS AND SOFTWARE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "82",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dalton, Andrew R.",
+                  "Hallstrom, Jason O.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Wireless sensor networks",
+                  "nesC",
+                  "Static analysis",
+                  "Instrumentation",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.jss.2009.01.011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "477KU",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0164-1212",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000266224700005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Visualizing the runtime behavior of embedded network systems: A toolkit for TinyOS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "446-469",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SCIENCE OF COMPUTER PROGRAMMING",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "74",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dalton, Andrew R.",
+                  "Wahba, Sally K.",
+                  "Dandamudi, Sravanthi",
+                  "Hallstrom, Jason O.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Embedded network systems",
+                  "Sensor networks",
+                  "TinyOS",
+                  "NesC",
+                  "Program visualization",
+                  "Program comprehension",
+                  "Dynamic analysis",
+                  "Static analysis",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.scico.2009.02.004",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "447XG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0167-6423",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000263995900001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An Interactive, Source-Centric, Open Testbed for Developing and Profiling Wireless Sensor Systems",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "105-138",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dalton, Andrew R.",
+                  "Hallstrom, Jason O.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Sensor Networks",
+                  "Testbeds",
+                  "Testing",
+                  "Experimentation",
+                  "Instrumentation",
+                  "Debugging",
+                  "Profiling",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1080/15501320701863403",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "416HH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1550-1329",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1080/15501320701863403",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "PII 909318956",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000278805800022"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Reusing Patterns through Design Refinement",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "225-235",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FORMAL FOUNDATIONS OF REUSE AND DOMAIN ENGINEERING, PROCEEDINGS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5791",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hallstrom, Jason O.",
+                  "Soundarajan, Neelam",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BPG30",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-04210-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000271113800039"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Specification Idiom for Reactive Systems",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "267-270",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2009 31ST INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, COMPANION VOLUME",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sridhar, Nigamanth",
+                  "Hallstrom, Jason O.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BLU95",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0270-5257",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/ICSE-COMPANION.2009.5070998",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000263985500001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Reducing the Impact of Link Quality Variation in Embedded Wireless Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3-4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "139-167",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "AD HOC & SENSOR WIRELESS NETWORKS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "7",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dalton, Andrew R.",
+                  "Hallstrom, Jason O.",
+                  "Zia, Hamza A.",
+                  "Sridhar, Nigamanth",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Embedded wireless networks",
+                  "wireless sensor networks",
+                  "wireless networks",
+                  "link quality",
+                  "radio stack",
+                  "TinyOS",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "416DM",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1551-9899",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000269212200014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Engaging Students in Specification and Reasoning: "Hands-On" Experimentation and Evaluation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "50-54",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ITICSE 2009: PROCEEDING OF THE 2009 ACM SIGSE ANNUAL CONFERENCE ON INNOVATION AND TECHNOLOGY IN COMPUTER SCIENCE EDUCATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sitaraman, Murali",
+                  "Hallstrom, Jason O.",
+                  "White, Jarred",
+                  "Drachova-Strang, Svetlana",
+                  "Harton, Heather",
+                  "Leonard, Dana",
+                  "Krone, Joan",
+                  "Pak, Rich",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "assertions",
+                  "components",
+                  "mathematical thinking",
+                  "tools",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BKT74",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "*****************",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000263364400061"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "NePTune: Optimizing Sensor Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATIONS AND NETWORKS",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "381-387",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2008 PROCEEDINGS OF 17TH INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATIONS AND NETWORKS, VOLS 1 AND 2",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wahba, Sally K.",
+                  "Dandamudi, Sravanthi",
+                  "Dalton, Andrew R.",
+                  "Hallstrom, Jason O.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Sensor network",
+                  "optimization",
+                  "network monitoring",
+                  "code generation",
+                  "software generators",
+                  "network reprogramming",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BIW28",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-2389-7",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1095-2055",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000263364400087"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DESAL(alpha): An Implementation of the Dynamic Embedded Sensor-Actuator Language",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATIONS AND NETWORKS",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "541-547",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2008 PROCEEDINGS OF 17TH INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATIONS AND NETWORKS, VOLS 1 AND 2",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dalton, Andrew R.",
+                  "McCartney, William P.",
+                  "GhoshDastidar, Kajari",
+                  "Hallstrom, Jason O.",
+                  "Sridhar, Nigamanth",
+                  "Herman, Ted",
+                  "Leal, William M.",
+                  "Arora, Anish",
+                  "Gouda, Mohamed",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Sensor network",
+                  "programming language",
+                  "runtime system",
+                  "guarded command",
+                  "synchronization",
+                  "dynamic binding",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BIW28",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-2389-7",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1095-2055",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000257638100006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A toolkit for visualizing the runtime behavior of TinyOS applications",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "International Conference on Program Comprehension",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "43-52",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE 16TH IEEE INTERNATIONAL CONFERENCE ON PROGRAM COMPREHENSION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dalton, Andrew R.",
+                  "Hallstrom, Jason O.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/ICPC.2008.22",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BHZ28",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-3176-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1092-8138",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000263364400083"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Testbed for Visualizing Sensornet Behavior",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATIONS AND NETWORKS",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "515-521",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2008 PROCEEDINGS OF 17TH INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATIONS AND NETWORKS, VOLS 1 AND 2",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dalton, Andrew R.",
+                  "Dandamudi, Sravanthi",
+                  "Hallstrom, Jason O.",
+                  "Wahba, Sally K.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Sensor network",
+                  "testbed",
+                  "visualization",
+                  "program comprehension",
+                  "program analysis",
+                  "program tracing",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BIW28",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-2389-7",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1095-2055",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000251715800012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Testing patterns",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE Annual IEEE Software Engineering Workshop",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "109-118",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "31ST IEEE SOFTWARE ENGINEERING WORKSHOP, PROCEEDINGS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Soundarajan, Neelam",
+                  "Hallstrom, Jason O.",
+                  "Delibas, Adem",
+                  "Shu, Guoqiang",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGZ86",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-2862-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1550-6215",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/SEW.2007.108",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000245430400006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A comparative study of monitoring tools for pattern-centric behavior",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "37-46",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "30th Annual IEEE/NASA Software Engineering Workshop, Proceedings",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Tyler, Benjamin",
+                  "Hallstrom, Jason O.",
+                  "Soundarajan, Neelam",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BFY32",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-2624-9",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

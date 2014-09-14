@@ -1,0 +1,1242 @@
+(searchResults){
+   queryId = "34"
+   recordsFound = 17
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000335574900003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Online 3D Gaze Localization on Stereoscopic Displays",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ACM TRANSACTIONS ON APPLIED PERCEPTION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "11",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Rui I.",
+                  "Pelfrey, Brandon",
+                  "Duchowski, Andrew T.",
+                  "House, Donald H.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Visual Perception",
+                  "Stereo",
+                  "Stereoscopic displays",
+                  "eye tracking",
+                  "3D eye tracking",
+                  "vergence",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1145/2593689",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1544-3965",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AG7CF",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1544-3558",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000321532100001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Foreword to the special section on expressive graphics Introduction",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "A5-A6",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTERS & GRAPHICS-UK",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "37",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hall, Peter",
+                  "Kara, Levent Burak",
+                  "House, Donald",
+                  "Asente, Paul",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.cag.2013.02.007",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "179OV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0097-8493",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000276844800006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Mesh Colors",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ACM TRANSACTIONS ON GRAPHICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Yuksel, Cem",
+                  "Keyser, John",
+                  "House, Donald H.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Algorithms",
+                  "Mesh colors",
+                  "texture mapping",
+                  "vertex colors",
+                  "3D paint",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1145/1731047.1731053",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "585RB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0730-0301",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 15",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000290547200019"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Adaptive Neighbor Pairing for Smoothed Particle Hydrodynamics",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "192-201",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ADVANCES IN VISUAL COMPUTING, PT II",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "6454",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Pelfrey, Brandon",
+                  "House, Donald",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BUW95",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-17273-1",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000266845300005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "MESSAGE FROM DELTA DENTAL Reply",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "636-+",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF THE AMERICAN DENTAL ASSOCIATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "140",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Brown, L. Jackson",
+                  "Guay, Albert H.",
+                  "House, Donald R.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "456KQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0002-8177",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000262323400019"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The effects of insurance carrier market power on dentists and patients",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "90-97",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF THE AMERICAN DENTAL ASSOCIATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "140",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Brown, L. Jackson",
+                  "Guay, Albert H.",
+                  "House, Donald R.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Insurance",
+                  "insurer concentration",
+                  "market power",
+                  "fee discounts",
+                  "reimbursement",
+                  "provider networks",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "392SV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0002-8177",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000278937300016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Fast Occlusion Sweeping",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "167-178",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ADVANCES IN VISUAL COMPUTING, PT 1, PROCEEDINGS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5875",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Singh, Mayank",
+                  "Yuksel, Cem",
+                  "House, Donald",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BPI81",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-10330-8",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000257384800009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Adaptive particles for incompressible fluid simulation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7-9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "535-543",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VISUAL COMPUTER",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "24",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hong, Woosuck",
+                  "House, Donald H.",
+                  "Keyser, John",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "fluid simulation",
+                  "physically based modeling",
+                  "natural phenomenon",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s00371-008-0234-z",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "322OI",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0178-2789",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/s00371-008-0234-z",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000250401100077"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A grid with a view: Optimal texturing for perception of layered surface shape",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1656-1663",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV-DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "13",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bair, Alethea",
+                  "House, Donald",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "perception",
+                  "optimal visualization",
+                  "texturing",
+                  "layered surfaces",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "223VR",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1077-2626",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/TVCG.2007.70559",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000251127000007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Tangent driven interpolative subdivision",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "737-749",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTERS & GRAPHICS-UK",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "31",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stoddard, Jacob",
+                  "Bergeron, R. Daniel",
+                  "House, Donald",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "curve modeling",
+                  "curve generation",
+                  "subdivision algorithms",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.cag.2007.07.003",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "233YU",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0097-8493",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.cag.2007.07.003",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000248914000102"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Wave particles",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ACM TRANSACTIONS ON GRAPHICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "26",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Yuksel, Cent",
+                  "House, Donald H.",
+                  "Keyser, John",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "wave particles",
+                  "waves",
+                  "real-time simulation",
+                  "fluid-object interaction",
+                  "GPU algorithms",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1145/1239451,1239550",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "202OX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0730-0301",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1145/1239451.1239550",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 99",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000248485200122"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Basic training for digital artists in the Texas A&M visualization program",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE International Conference on Information Visualization",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "839-844",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "11th International Conference Information Visualization",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Srinivasan, Vinod",
+                  "House, Donald",
+                  "Saslow, Mary",
+                  "LaFayette, Carol",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGM52",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-2900-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1550-6037",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000252141200039"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Line drawing as a dynamic process",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "351-360",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PACIFIC GRAPHICS 2007: 15TH PACIFIC CONFERENCE ON COMPUTER GRAPHICS AND APPLICATIONS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "House, Donald H.",
+                  "Singh, Mayank",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/PG.2007.62",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BHC03",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-3009-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000241383300060"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Texturing of layered surfaces for optimal viewing",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1125-1132",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP-OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "12",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bair, Alethea S.",
+                  "House, Donald H.",
+                  "Ware, Colin",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "perception",
+                  "optimal visualization",
+                  "layered surfaces",
+                  "human-in-the-loop",
+                  "genetic algorithm",
+                  "data mining",
+                  "linear discriminant analysis",
+                  "parallel coordinates",
+                  "decision trees",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "096NE",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1077-2626",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/TVCG.2006.183",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000237393900009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An approach to the perceptual optimization of complex visualizations",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "509-521",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL-AUG",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "12",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "House, DH",
+                  "Bair, AS",
+                  "Ware, C",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "data mining",
+                  "evaluation/methodology",
+                  "theory and methods",
+                  "visualization techniques",
+                  "methodologies",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "040PW",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1077-2626",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/TVCG.2006.58",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:16224886"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The impact of concentration in dental insurance markets on dental reimbursement in Minnesota.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "12-20",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Northwest dentistry",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "84",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Brown, L Jackson",
+                  "Guay, Albert H",
+                  "House, Donald R",
+            },
+            (labelValuesPair){
+               label = "GroupAuthors"
+               value[] = 
+                  "American Dental Association",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0029-2915",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000220313400022"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The economic impact of dentistry",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "347-352",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2004",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF THE AMERICAN DENTAL ASSOCIATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "135",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "House, DR",
+                  "Fry, CL",
+                  "Brown, LJ",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "804QO",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0002-8177",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

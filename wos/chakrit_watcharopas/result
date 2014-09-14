@@ -1,0 +1,77 @@
+(searchResults){
+   queryId = "77"
+   recordsFound = 1
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000291326100003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Pixelcuts: Scalable Approximate Illumination from Many Point Lights",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "8-16",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CHIANG MAI JOURNAL OF SCIENCE",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "38",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Khungurn, Pramook",
+                  "Saranurak, Thatchapol",
+                  "Watcharopas, Chakrit",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "computer graphics",
+                  "rendering",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "773RG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0125-2526",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

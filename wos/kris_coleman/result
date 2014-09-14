@@ -1,0 +1,390 @@
+(searchResults){
+   queryId = "9"
+   recordsFound = 5
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000336196300005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Hair Loss and Hypothalamic-Pituitary-Adrenocortical Axis Activity in Captive Rhesus Macaques (Macaca mulatta)",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "261-266",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF THE AMERICAN ASSOCIATION FOR LABORATORY ANIMAL SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "53",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Novak, Melinda A.",
+                  "Hamel, Amanda F.",
+                  "Coleman, Kris",
+                  "Lutz, Corrine K.",
+                  "Worlein, Julie",
+                  "Menard, Mark",
+                  "Ryan, Amy",
+                  "Rosenberg, Kendra",
+                  "Meyer, Jerrold S.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AH5UJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1559-6109",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000295766900043"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Long-term ovariectomy alters social and anxious behaviors in semi-free ranging Japanese macaques",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "317-327",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV 20",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BEHAVIOURAL BRAIN RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "225",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Coleman, Kris",
+                  "Robertson, Nicola D.",
+                  "Bethea, Cynthia L.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Ovariectomy",
+                  "Anxiety",
+                  "Social behavior",
+                  "Temperament",
+                  "Macaques",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.bbr.2011.07.046",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "831YL",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0166-4328",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000290641800273"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The Effect of Long-term Ovariectomy on Behavior in a Semi-free Ranging Troop of Japanese Macaques",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "85S-86S",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOLOGICAL PSYCHIATRY",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "S",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "69",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bethea, Cynthia L.",
+                  "Robertson, Nicola D.",
+                  "Reddy, Arubala P.",
+                  "Centeno, Maria L.",
+                  "Coleman, Kris",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "764OR",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-3223",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000271237800188"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The Effects of Maternal Obesity on Anxiety, Stress Response, and Food Preference of Juvenile Japanese Macaques",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "S101-S101",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "OBESITY",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "17",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sullivan, Elinor",
+                  "Coleman, Kris",
+                  "Robertson, Nicola",
+                  "Maier, Adriane",
+                  "Grove, Kevin",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "512HU",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1930-7381",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000180871600002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Heritability of fearful-anxious endophenotypes in infant rhesus macaques: A preliminary report",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "284-291",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2003",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOLOGICAL PSYCHIATRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "53",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Williamson, DE",
+                  "Coleman, K",
+                  "Bacanu, SA",
+                  "Devlin, BJ",
+                  "Rogers, J",
+                  "Ryan, ND",
+                  "Cameron, JL",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "endophenotypes",
+                  "heritability",
+                  "model organisms",
+                  "anxiety",
+                  "depression",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Cameron, Judy",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "J-6682-2013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "643QH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-3223",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0006-3223(02)01601-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "PII S0006-3223(03)01601-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

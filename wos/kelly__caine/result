@@ -1,0 +1,712 @@
+(searchResults){
+   queryId = "7"
+   recordsFound = 10
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "MEDLINE:24413087"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Designing Consumer Health Technologies for the Treatment of Patients With Depression: A Health Practitioner's Perspective.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "e2",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Interactive journal of medical research",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "3",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "White, Ginger",
+                  "Caine, Kelly",
+                  "Connelly, Kay",
+                  "Selove, Rebecca",
+                  "Doub, Tom",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.2196/ijmr.2368",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1929-073X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000328941700003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Security and Privacy in Health IT INTRODUCTION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "10-11",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV-DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE SECURITY & PRIVACY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "11",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Caine, Kelly",
+                  "Lesk, Michael",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1558-4046",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "279DX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1540-7993",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000320077000001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "How In-Home Technologies Mediate Caregiving Relationships in Later Life",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "441-455",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL 3",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Huber, Lesa Lorenzen",
+                  "Shankar, Kalpana",
+                  "Caine, Kelly",
+                  "Connelly, Kay",
+                  "Camp, L. Jean",
+                  "Walker, Beth Ann",
+                  "Borrero, Lisa",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1080/10447318.2012.715990",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "159WC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1044-7318",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000326842700056"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Understanding the Needs of Low SES Patients with Type 2 Diabetes",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "International Conference on Pervasive Computing Technologies for Healthcare",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "302-306",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE 2013 7TH INTERNATIONAL CONFERENCE ON PERVASIVE COMPUTING TECHNOLOGIES FOR HEALTHCARE AND WORKSHOPS (PERVASIVEHEALTH 2013)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Barnes, Priscilla",
+                  "Caine, Kelly",
+                  "Connelly, Kay",
+                  "Siek, Katie",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Type 2 diabetes",
+                  "diabetes self-management practices",
+                  "rural communities",
+                  "qualitative research",
+                  "chronic disease",
+                  "low SES",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.4108/icst.pervasivehealth.2013.252153",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BHW32",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-936968-80-0",
+                  "978-1-4799-0296-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "2153-1633",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000313512900003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Patients want granular privacy control over health information in electronic medical records",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "7-15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "20",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Caine, Kelly",
+                  "Hanania, Rima",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1136/amiajnl-2012-001023",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "070MV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1067-5027",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000307367500003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Does Profiling Make Us More Secure?",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "10-15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL-AUG",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE SECURITY & PRIVACY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "10",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Pfleeger, Shari Lawrence",
+                  "Rogers, Marc",
+                  "Bashir, Masooda",
+                  "Caine, Kelly",
+                  "Caputo, Deanna",
+                  "Losavio, Michael",
+                  "Stolfo, Sal",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "986TC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1540-7993",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000297856600045"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DigiSwitch: A Device to Allow Older Adults to Monitor and Direct the Collection and Transmission of Health Information Collected at Home",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1181-1195",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF MEDICAL SYSTEMS",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "35",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Caine, Kelly E.",
+                  "Zimmerman, Celine Y.",
+                  "Schall-Zimmerman, Zachary",
+                  "Hazlewood, William R.",
+                  "Camp, L. Jean",
+                  "Connelly, Katherine H.",
+                  "Huber, Lesa L.",
+                  "Shankar, Kalpana",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Aging in place",
+                  "Home monitoring",
+                  "Home",
+                  "Older adult",
+                  "Privacy",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s10916-011-9722-1",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "859DZ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0148-5598",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000286660000002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "AGE-RELATED DIFFERENCES IN LEARNING INCIDENTAL, ENVIRONMENTAL INFORMATION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "17-45",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "EXPERIMENTAL AGING RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "37",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Caine, Kelly E.",
+                  "Nichols, Timothy A.",
+                  "Fisk, Arthur D.",
+                  "Rogers, Wendy A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1080/0361073X.2010.507429",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "712IL",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0361-073X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1080/0361073X.2010.507429",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000265679300007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Sacred Imagery in Techno-Spiritual Design",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "55-58",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CHI2009: PROCEEDINGS OF THE 27TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wyche, Susan P.",
+                  "Caine, Kelly E.",
+                  "Davison, Benjamin K.",
+                  "Patel, Shwetak N.",
+                  "Arteaga, Michael",
+                  "Grinter, Rebecca E.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Design",
+                  "HCI",
+                  "Spiritual Computing",
+                  "Mobile Computing",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJG76",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-60558-246-7",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000281245100071"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Predicting Successful Completion of Online Collaborative Animation Projects",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "391-392",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "C & C 09: PROCEEDINGS OF THE 2009 ACM SIGCHI CONFERENCE ON CREATIVITY AND COGNITION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Luther, Kurt",
+                  "Ziegler, Kevin",
+                  "Caine, Kelly E.",
+                  "Bruckman, Amy",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Animation",
+                  "leadership",
+                  "online creative collaboration",
+                  "social computing",
+                  "predicting success",
+                  "online communities",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BQL39",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-60558-403-4",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

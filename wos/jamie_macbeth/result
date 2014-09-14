@@ -1,0 +1,142 @@
+(searchResults){
+   queryId = "44"
+   recordsFound = 2
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000310776200111"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Mixed-Initiative Strategies for Real-time Scheduling of Multiple Unmanned Vehicles",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Proceedings of the American Control Conference",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "676-682",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2012 AMERICAN CONTROL CONFERENCE (ACC)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clare, Andrew S.",
+                  "Macbeth, Jamie C.",
+                  "Cummings, Mary L.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BCN53",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4577-1096-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0743-1619",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000276842100092"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Press the Cancel Button! A Performance Evaluation of Scalable In-Network Data Aggregation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "449-457",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2009 INTERNATIONAL CONFERENCE ON INFORMATION AND MULTIMEDIA TECHNOLOGY, PROCEEDINGS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Macbeth, Jamie",
+                  "Sarrafzadeh, Majid",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE COMPUTER SOC",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "In-Network Data Aggregation",
+                  "Medium Access Control",
+                  "Scalability",
+                  "Wireless Sensor Networks",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/ICIMT.2009.85",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BOJ46",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-3922-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/ICIMT.2009.85",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

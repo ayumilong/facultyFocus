@@ -1,0 +1,2124 @@
+(searchResults){
+   queryId = "24"
+   recordsFound = 27
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000332434400026"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A note on S-packing colorings of lattices",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "255-262",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 31",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DISCRETE APPLIED MATHEMATICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "166",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Xu, Honghai",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Coloring",
+                  "Packing",
+                  "Lattice",
+                  "Distance",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.dam.2013.09.016",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1872-6771",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AC3PT",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0166-218X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000327366700010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A NOTE ON EXTREMAL VALUES OF THE SCATTERING NUMBER",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1651-1658",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TAIWANESE JOURNAL OF MATHEMATICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "17",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dankelmann, Peter",
+                  "Goddard, Wayne",
+                  "McPillan, Charles A.",
+                  "Swart, Henda C.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Scattering number",
+                  "Graph",
+                  "Toughness",
+                  "Triangle-free",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "2224-6851",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "257EP",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1027-5487",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000319238800006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An efficient algorithm for stopping on a sink in a directed graph",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "238-240",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "OPERATIONS RESEARCH LETTERS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "41",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Kubicka, Ewa M.",
+                  "Kubicki, Grzegorz",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Stopping algorithm",
+                  "Directed graph",
+                  "Secretary problem",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.orl.2013.02.001",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "148IU",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0167-6377",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000315754200002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Independent domination in graphs: A survey and recent results",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "839-854",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR 6",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DISCRETE MATHEMATICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "313",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Henning, Michael A.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Independent dominating",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.disc.2012.11.031",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "101DA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0012-365X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000314211900004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "'Matching Michigan': a 2-year stepped interventional programme to minimise central venous catheter-blood stream infections in intensive care units in England",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "110-123",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BMJ QUALITY & SAFETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "22",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bion, Julian",
+                  "Comm, Writing",
+                  "Richardson, Annette",
+                  "Hibbert, Peter",
+                  "Beer, Jeanette",
+                  "Abrusci, Tracy",
+                  "McCutcheon, Martin",
+                  "Cassidy, Jane",
+                  "Eddleston, Jane",
+                  "Gunning, Kevin",
+                  "Bellingan, Geoff",
+                  "Patten, Mark",
+                  "Harrison, David",
+            },
+            (labelValuesPair){
+               label = "GroupAuthors"
+               value[] = 
+                  "Matching Michigan Collaboration",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1136/bmjqs-2012-001325",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "079ZV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "2044-5415",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000310662300003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Eccentric counts, connectivity and chordality",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "24",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "944-947",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC 31",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INFORMATION PROCESSING LETTERS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "112",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dankelmann, Peter",
+                  "Erwin, David",
+                  "Goddard, Wayne",
+                  "Mukwembi, Simon",
+                  "Swart, Henda C.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Combinatorial problems",
+                  "Graphs",
+                  "Eccentricity",
+                  "Connectivity",
+                  "Chordal graph",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.ipl.2012.08.022",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "031SJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0020-0190",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000311510800005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "On the Independent Domination Number of Regular Graphs",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "719-732",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ANNALS OF COMBINATORICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "16",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Henning, Michael A.",
+                  "Lyle, Jeremy",
+                  "Southey, Justin",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "independent domination",
+                  "regular graph",
+                  "cubic graph",
+                  "dominating set",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Lyle, Samuel",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "G-1949-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s00026-012-0155-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "042ZF",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0218-0006",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000306071800002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SELF-STABILIZING MASTER-SLAVE TOKEN CIRCULATION AND EFFICIENT SIZE-COMPUTATION IN AU NIDIRECTIONAL RING OF ARBITRARY SIZE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "763-777",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "23",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Srimani, Pradip K.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Self-stabilization",
+                  "master-slave",
+                  "ring",
+                  "token circulation",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1142/S0129054112400357",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "969QV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0129-0541",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000305977500002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Dementia early diagnosis: Triggers, supports and constraints affecting the decision to engage with the health care system",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "559-565",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "AGING & MENTAL HEALTH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "16",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Chrisp, Tom A. C.",
+                  "Tabberer, Sharon",
+                  "Thomas, Benjamin D.",
+                  "Goddard, Wayne A.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "dementia",
+                  "health decisions",
+                  "carers",
+                  "early diagnosis",
+                  "triggers",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1080/13607863.2011.651794",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "968JX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1360-7863",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000298013600003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Vizing's conjecture: a survey and recent results",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "46-76",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF GRAPH THEORY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "69",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bresar, Bostjan",
+                  "Dorbec, Paul",
+                  "Goddard, Wayne",
+                  "Hartnell, Bert L.",
+                  "Henning, Michael A.",
+                  "Klavzar, Sandi",
+                  "Rall, Douglas F.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Cartesian product",
+                  "domination",
+                  "Vizing's conjecture",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1002/jgt.20565",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "861IW",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0364-9024",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1002/jgt.20565",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000299081200002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Independent dominating sets in triangle-free graphs",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "9-20",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF COMBINATORIAL OPTIMIZATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "23",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Lyle, Jeremy",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Dominating sets",
+                  "Independent domination",
+                  "Triangle-free",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Lyle, Samuel",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "G-1949-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s10878-010-9336-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "876BF",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1382-6905",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000288883800036"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Bounds on the k-domination number of a graph",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "996-998",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "APPLIED MATHEMATICS LETTERS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "24",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "DeLaVina, Ermelinda",
+                  "Goddard, Wayne",
+                  "Henning, Michael A.",
+                  "Pepper, Ryan",
+                  "Vaughan, Emil R.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "k-domination",
+                  "Matching number",
+                  "Independence number",
+                  "Graph",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.aml.2011.01.013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "741SD",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0893-9659",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.aml.2011.01.013",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000288349400004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Dense Graphs with Small Clique Number",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "319-331",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF GRAPH THEORY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "66",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Lyle, Jeremy",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "dense graphs",
+                  "clique",
+                  "coloring",
+                  "homomorphism",
+                  "minimum degree",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Lyle, Samuel",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "G-1949-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1002/jgt.20505",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "734QA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0364-9024",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1002/jgt.20505",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000283896000003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Distance in Graphs",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "49-72",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "STRUCTURAL ANALYSIS OF COMPLEX NETWORKS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Oellermann, Ortrud R.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Graph",
+                  "Distance",
+                  "Diameter",
+                  "Radius",
+                  "Steiner distance",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/978-0-8176-4789-6_3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BRY53",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-8176-4788-9",
+            },
+            (labelValuesPair){
+               label = "Identifier.Parent_Book_Doi"
+               value[] = 
+                  "10.1007/978-0-8176-4789-6",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/978-0-8176-4789-6_3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000279160900006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Capacitated Domination",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "75-86",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ARS COMBINATORIA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "96",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Hedetniemi, Stephen T.",
+                  "Huff, James L.",
+                  "McRae, Alice A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "615TR",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0381-7032",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000274852300003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Characterization of Cubic Graphs with Paired-Domination Number Three-Fifths Their Order",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "675-692",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "GRAPHS AND COMBINATORICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "25",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Henning, Michael A.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Bounds",
+                  "Cubic graphs",
+                  "Paired-domination",
+                  "Petersen graph",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s00373-010-0884-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "559UA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0911-0119",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000270603400017"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The binding number of a graph and its cliques",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "15",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "3336-3340",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 6",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DISCRETE APPLIED MATHEMATICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "157",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Lyle, Jeremy",
+                  "Goddard, Wayne",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Binding number",
+                  "K(r)-free graphs",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Lyle, Samuel",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "G-1949-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.dam.2009.06.014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "504GF",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0166-218X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000263895800009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Note on Trees, Tables, and Algorithms",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "184-190",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "NETWORKS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "53",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Hedetniemi, Stephen T.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "trees",
+                  "algorithms",
+                  "tables",
+                  "external redundance",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1002/net.20282",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "414WL",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0028-3045",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1002/net.20282",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000256557900009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Distance-k knowledge in self-stabilizing algorithms",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "118-127",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN 3",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "THEORETICAL COMPUTER SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "399",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Hedetniemi, Stephen T.",
+                  "Jacobs, David P.",
+                  "Trevisan, Vilmar",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "polynomial-time",
+                  "self-stabilizing",
+                  "algorithm",
+                  "k-packing",
+                  "irredundant",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.tcs.2008.02.009",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "310VD",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0304-3975",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.tcs.2008.02.009",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000253118900016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "On domination and reinforcement numbers in trees",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1165-1175",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR 6",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DISCRETE MATHEMATICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "308",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Blair, Jean R. S.",
+                  "Goddard, Wayne",
+                  "Hedetniemi, Stephen T.",
+                  "Horton, Steve",
+                  "Jones, Patrick",
+                  "Kubicki, Grzegorz",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "domination",
+                  "reinforcement",
+                  "trees",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.disc.2007.03.067",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "261ZQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0012-365X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.disc.2007.03.067",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000254111900014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Automated bounds on recursive structures",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "193-210",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "UTILITAS MATHEMATICA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "75",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "275ZW",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0315-3681",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000253343000004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Broadcast chromatic numbers of graphs",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "33-49",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ARS COMBINATORIA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "86",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Hedetniemi, Sandra M.",
+                  "Hedetniemi, Stephen T.",
+                  "Harris, John M.",
+                  "Rall, Douglas F.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "265EX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0381-7032",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000245430900004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Restricted domination parameters in graphs",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "353-363",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF COMBINATORIAL OPTIMIZATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "13",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Henning, Michael A.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "domination number",
+                  "double domination",
+                  "k-domination",
+                  "restricted",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s10878-006-9037-1",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "153JZ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1382-6905",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/s10878-006-9037-1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000241486400002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Construction of trees and graphs with equal domination parameters",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "21",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2647-2654",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV 6",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DISCRETE MATHEMATICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "306",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dorfling, Michael",
+                  "Goddard, Wayne",
+                  "Henning, Michael A.",
+                  "Mynhardt, C. M.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "domination",
+                  "independence",
+                  "trees",
+                  "equality",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.disc.2006.04.031",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "097YQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0012-365X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.disc.2006.04.031",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000240750600010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Simultaneous graph parameters: Factor domination and factor total domination",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "18",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2229-2233",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP 28",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DISCRETE MATHEMATICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "306",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dankelmann, Peter",
+                  "Henning, Michael A.",
+                  "Goddard, Wayne",
+                  "Laskar, Renu",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "cycles",
+                  "bounds",
+                  "factors",
+                  "total domination",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.disc.2006.04.017",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "087OB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0012-365X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.disc.2006.04.017",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000239484100027"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Distance-k information in self-stabilizing algorithms",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "LECTURE NOTES IN COMPUTER SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "349-356",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "STRUCTURAL INFORMATION AND COMMUNICATION COMPLEXITY, PROCEEDINGS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "4056",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Goddard, Wayne",
+                  "Hedetniemi, Stephen T.",
+                  "Jacobs, David P.",
+                  "Trevisan, Vilmar",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BET85",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "3-540-35474-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1994PP58600005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "THE AGREEMENT METRIC FOR LABELED BINARY-TREES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "215-226",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1994",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MATHEMATICAL BIOSCIENCES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "123",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "GODDARD, W",
+                  "KUBICKA, E",
+                  "KUBICKI, G",
+                  "MCMORRIS, FR",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "PP586",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0025-5564",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0025-5564(94)90012-4",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

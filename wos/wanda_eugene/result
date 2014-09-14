@@ -1,0 +1,87 @@
+(searchResults){
+   queryId = "19"
+   recordsFound = 1
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000269191600003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "This Is Who I Am and This Is What I Do: Demystifying the Process of Designing Culturally Authentic Technology",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "19-28",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONALIZATION, DESIGN AND GLOBAL DEVELOPMENT, PROCEEDINGS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5623",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Eugene, Wanda",
+                  "Hatley, Leshell",
+                  "McMullen, Kyla",
+                  "Brown, Quincy",
+                  "Rankin, Yolanda",
+                  "Lewis, Sheena",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Aykin, N",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "human-computer interaction",
+                  "cultural relevance",
+                  "educational technology",
+                  "design",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BKT52",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-02766-6",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

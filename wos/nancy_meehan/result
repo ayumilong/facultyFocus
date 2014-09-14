@@ -1,0 +1,187 @@
+(searchResults){
+   queryId = "50"
+   recordsFound = 3
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000332894400026"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The Effects of Interaction and Visual Fidelity on Learning Outcomes for a Virtual Pediatric Patient System",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "209-218",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2013 IEEE INTERNATIONAL CONFERENCE ON HEALTHCARE INFORMATICS (ICHI 2013)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Pence, Toni Bloodworth",
+                  "Dukes, Lauren Cairco",
+                  "Hodges, Larry F.",
+                  "Meehan, Nancy K.",
+                  "Johnson, Arlene",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/ICHI.2013.36",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BA1QP",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-5089-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:16435924"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Continuing education: a national imperative for school nursing practice.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2-8",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "Feb",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "The Journal of school nursing : the official publication of the National Association of School Nurses",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "22",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Vought-O'Sullivan, Victoria",
+                  "Meehan, Nancy K",
+                  "Havice, Pamela A",
+                  "Pruitt, Rosanne H",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1059-8405",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:12544591"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Using cross-cultural definitions of health care.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "61-2",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "Jan",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2003",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "The Nurse practitioner",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "28",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kearns, Carolyn J",
+                  "Meehan, Nancy K",
+                  "Carr, Rebecca L",
+                  "Park, Lauretta I",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0361-1817",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

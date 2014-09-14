@@ -1,0 +1,3338 @@
+(searchResults){
+   queryId = "69"
+   recordsFound = 42
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000323851304349"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Validation of a tuned interfacial parameter set using dual-force-field CHARMM for the accurate simulation of protein adsorption on a silica glass surface",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR 7",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "245",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Snyder, James",
+                  "Abramyan, Tigran",
+                  "Yancey, Jeremy A.",
+                  "Stuart, Steven J.",
+                  "Latour, Robert A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "210RD",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000307442400024"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Comparison Between Empirical Protein Force Fields for the Simulation of the Adsorption Behavior of Structured LK Peptides on Functionalized Surfaces",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOINTERPHASES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "7",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Collier, Galen",
+                  "Vellore, Nadeem A.",
+                  "Yancey, Jeremy A.",
+                  "Stuart, Steven J.",
+                  "Latour, Robert A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Yancey, Jeremy",
+                  "Vellore, Nadeem",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "G-2258-2011",
+                  "C-5763-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s13758-012-0024-z",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "987UD",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1934-8630",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 24",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000316398000008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Development of a Tuned Interfacial Force Field Parameter Set for the Simulation of Protein Adsorption to Silica Glass",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOINTERPHASES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "7",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Snyder, James A.",
+                  "Abramyan, Tigran",
+                  "Yancey, Jeremy A.",
+                  "Thyparambil, Aby A.",
+                  "Wei, Yang",
+                  "Stuart, Steven J.",
+                  "Latour, Robert A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s13758-012-0056-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "109VR",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1934-8630",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 56",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000324621803305"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Accurate molecular dynamics simulation of peptide adsorption to polyethylene, poly(methyl-methacrylate), and silica surfaces using dual-force-field in CHARMM",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 19",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "244",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Abramyan, Tigran",
+                  "Snyder, James",
+                  "Yancey, Jeremy",
+                  "Stuart, Steven J.",
+                  "Latour, Robert A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "220XX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000324621803311"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Accurate modeling of peptide-surface interactions: Interfacial force field parameterization for organic functional groups",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 19",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "244",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Vellore, Nadeem Ahmad",
+                  "Yancey, Jeremy A.",
+                  "Stuart, Steven J.",
+                  "Latour, Robert A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Vellore, Nadeem",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "C-5763-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "220XX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000307921500005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Modified reactive empirical bond-order potential for heterogeneous bonding environments",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 7",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF CHEMICAL PHYSICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "137",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hur, Jaewoong",
+                  "Stuart, Steven J.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1063/1.4738879",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1089-7690",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "994HM",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9606",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 054102",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000306989800001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Polarizable Molecular Dynamics Simulations of Aqueous Dipeptides",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "30",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "8733-8740",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 2",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF PHYSICAL CHEMISTRY B",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "116",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kucukkal, Tugba G.",
+                  "Stuart, Steven J.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1021/jp300528m",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "981SJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1520-6106",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000303914700007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Simulation of Multiphase Systems Utilizing Independent Force Fields to Control Intraphase and Interphase Behavior",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "16",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1458-1466",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF COMPUTATIONAL CHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "33",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Biswas, Pradip K.",
+                  "Vellore, Nadeem A.",
+                  "Yancey, Jeremy A.",
+                  "Kucukkal, Tugba G.",
+                  "Collier, Galen",
+                  "Brooks, Bernard R.",
+                  "Stuart, Steven J.",
+                  "Latour, Robert A.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "peptide adsorption",
+                  "interfacial force field",
+                  "adsorption free energy",
+                  "CHARMM",
+                  "dual-FF",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+                  "Yancey, Jeremy",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+                  "G-2258-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1002/jcc.22979",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "940SZ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0192-8651",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000303098200015"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Fullerene and graphene formation from carbon nanotube fragments",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "115-121",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTATIONAL AND THEORETICAL CHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "987",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Uberuaga, Blas P.",
+                  "Stuart, Steven J.",
+                  "Windl, Wolfgang",
+                  "Masquelier, Michael P.",
+                  "Voter, Arthur F.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Accelerated molecular dynamics",
+                  "Carbon nanotubes",
+                  "Graphene",
+                  "Parallel replica dynamics",
+                  "Temperature accelerated dynamics",
+                  "Infrequent events",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.comptc.2011.11.030",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "929XE",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "2210-271X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000303602200037"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Bond-order potentials with split-charge equilibration: Application to C-, H-, and O-containing systems",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "16",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR 28",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF CHEMICAL PHYSICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "136",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Knippenberg, M. Todd",
+                  "Mikulski, Paul T.",
+                  "Ryan, Kathleen E.",
+                  "Stuart, Steven J.",
+                  "Gao, Guangtu",
+                  "Harrison, Judith A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Gao, Guangtu",
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "F-4541-2012",
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1063/1.4704800",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "936PJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9606",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 164701",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000324475104591"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Exploring the effects of single point mutations in nAChR transmembrane domain: A molecular dynamics study",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 25",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "243",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kucukkal, Tugba G.",
+                  "Stuart, Steven J.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "219AH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000324475104039"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Accurate simulation of peptide adsorption to polyethylene, poly(methyl-methacrylate), and silica surfaces using a modified CHARMM force field",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 25",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "243",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Abramyan, Tigran",
+                  "Snyder, James",
+                  "Yancey, Jeremy A.",
+                  "Stuart, Steven J.",
+                  "Latour, Robert A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "219AH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000324475104317"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Modeling multiphase systems with independent force fields controlling intra- and inter-phase interactions",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 25",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "243",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Yancey, Jeremy A.",
+                  "Biswas, Pradip",
+                  "Vellore, Nadeem A.",
+                  "Kucukkal, Tugba G.",
+                  "Collier, Galen",
+                  "Brooks, Bernard R.",
+                  "Stuart, Steven J.",
+                  "Latour, Robert A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Vellore, Nadeem",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "C-5763-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "219AH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000292371100024"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Evolution of carbon based surfaces under bombardment: Examining the steady-state surface properties and the effect of potential",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1271-1275",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION B-BEAM INTERACTIONS WITH MATERIALS AND ATOMS",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "269",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Fallet, Marcel",
+                  "Stuart, Steven J.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Chemical sputtering",
+                  "Graphite",
+                  "Amorphous carbon",
+                  "Steady state",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.nimb.2010.12.085",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "787IZ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0168-583X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.nimb.2010.12.085",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000285473600021"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Development of molecular simulation methods to accurately represent protein-surface interactions: The effect of pressure and its determination for a system with constrained atoms",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "85-95",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOINTERPHASES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Yancey, Jeremy A.",
+                  "Vellore, Nadeem A.",
+                  "Collier, Galen",
+                  "Stuart, Steven J.",
+                  "Latour, Robert A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Yancey, Jeremy",
+                  "Stuart, Steven",
+                  "Vellore, Nadeem",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "G-2258-2011",
+                  "H-1111-2012",
+                  "C-5763-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1116/1.3493470",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "696XB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1559-4106",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1116/1.3493470",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000208164702178"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Applications of variable timestep integrators and polarizable potentials in condensed phase simulations",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 22",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "240",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stuart, Steven J.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "V20UK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000277398600072"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Assessment of the Transferability of a Protein Force Field for the Simulation of Peptide-Surface Interactions",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "10",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "7396-7404",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY 18",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "LANGMUIR",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "26",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Vellore, Nadeem A.",
+                  "Yancey, Jeremy A.",
+                  "Collier, Galen",
+                  "Latour, Robert A.",
+                  "Stuart, Steven J.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Yancey, Jeremy",
+                  "Stuart, Steven",
+                  "Vellore, Nadeem",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "G-2258-2011",
+                  "H-1111-2012",
+                  "C-5763-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1021/la904415d",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "592RY",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0743-7463",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000273820500001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Development of molecular simulation methods to accurately represent protein-surface interactions: Method assessment for the calculation of electrostatic effects",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "57-64",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOINTERPHASES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "4",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Collier, Galen",
+                  "Vellore, Nadeem A.",
+                  "Latour, Robert A.",
+                  "Stuart, Steven J.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+                  "Vellore, Nadeem",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+                  "C-5763-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1116/1.3266417",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "546OQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1559-4106",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000266263100008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "TIGER2: An improved algorithm for temperature intervals with global exchange of replicas",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "17",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY 7",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF CHEMICAL PHYSICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "130",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Li, Xianfeng",
+                  "Latour, Robert A.",
+                  "Stuart, Steven J.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "molecular biophysics",
+                  "molecular configurations",
+                  "molecular dynamics method",
+                  "Monte Carlo methods",
+                  "organic compounds",
+                  "solvent effects",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1063/1.3129342",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1089-7690",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "448LC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9606",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 174106",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000207857808357"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "PHYS 451-Achieving reactive, polarizable force fields through bond charges",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 22",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "237",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stuart, Steven J.",
+                  "Walder, Brennan",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "V16GJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000282024600059"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Evolution of carbon surfaces under simulated bombardment by deuterium",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Journal of Physics Conference Series",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "XXVI INTERNATIONAL CONFERENCE ON PHOTONIC, ELECTRONIC AND ATOMIC COLLISIONS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "194",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stuart, Steven J.",
+                  "Fallet, Marcel",
+                  "Krstic, Predrag S.",
+                  "Reinhold, Carlos O.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1088/1742-6596/194/1/012059",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BQW80",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "*****************",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1742-6588",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 012059",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000254361000002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Molecular dynamics simulations on hydrogen adsorption in finite single walled carbon nanotube bundles",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "343-351",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF MOLECULAR MODELING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "14",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Knippenberg, M. Todd",
+                  "Stuart, Steven J.",
+                  "Cheng, Hansong",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "hydrogen storage",
+                  "molecular dynamics",
+                  "single walled carbon nanotubes",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s00894-008-0275-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "279ND",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1610-2940",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/s00894-008-0275-2",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000271775104206"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "COMP 191-Simulated interactions between structured peptides and functionalized surfaces",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR 6",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "235",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Collier, Galen",
+                  "Stuart, Steven J.",
+                  "Brooks, Bernard R.",
+                  "Latour, Robert A., Jr.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "519OA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000256266800002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Calculation of adsorption free energy for solute-surface interactions using biased replica-exchange molecular dynamics",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "9-18",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOINTERPHASES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "3",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Feng",
+                  "Stuart, Steven J.",
+                  "Latour, Robert A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1116/1.2840054",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "306RZ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1559-4106",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1116/1.2840054",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000253648500010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Empirical bond-order potential for hydrocarbons: Adaptive treatment of van der Waals interactions",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "601-611",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF COMPUTATIONAL CHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Liu, Aining",
+                  "Stuart, Steven J.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "bond-order potential",
+                  "hydrocarbon",
+                  "AIREBO",
+                  "van der Waals interactions",
+                  "reactive potential",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1002/jcc.20817",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "269KS",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0192-8651",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1002/jcc.20817",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000250589400018"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An improved replica-exchange sampling method: Temperature intervals with global energy reassignment",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "16",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT 28",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF CHEMICAL PHYSICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "127",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Li, Xianfeng",
+                  "O'Brien, Christopher P.",
+                  "Collier, Galen",
+                  "Vellore, Nadeem A.",
+                  "Wang, Feng",
+                  "Latour, Robert A.",
+                  "Bruce, David A.",
+                  "Stuart, Steven J.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+                  "Vellore, Nadeem",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+                  "C-5763-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1063/1.2780152",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "226LA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9606",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1063/1.2780152",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 164116",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000207722802168"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An improved REMD sampling method: Temperature intervals with global energy reassignment (TIGER)",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "170-170",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 25",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "233",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Li, Xianfeng",
+                  "Collier, Galen",
+                  "O'Brien, Christopher",
+                  "Wang, Feng",
+                  "Vellore, Nadeem",
+                  "Bruce, David A.",
+                  "Dominy, Brian",
+                  "Stuart, Steven J.",
+                  "Latour, Robert A., Jr.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "V14GL",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000245336700039"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Methane production by deuterium impact at carbon surfaces",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "202-207",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION B-BEAM INTERACTIONS WITH MATERIALS AND ATOMS",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "255",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stuart, Steven J.",
+                  "Krstic, Predrag S.",
+                  "Embry, T. A.",
+                  "Reinhold, Carlos O.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "chemical sputtering",
+                  "hydrogenated amorphous carbon",
+                  "bond-order potential",
+                  "surface modification",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.nimb.2006.11.078",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "152BW",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0168-583X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.nimb.2006.11.078",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000243894600058"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Parallel replica dynamics for driven systems: Derivation and application to strained nanotubes",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PHYSICAL REVIEW B",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "75",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Uberuaga, Blas Pedro",
+                  "Stuart, Steven J.",
+                  "Voter, Arthur F.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1103/PhysRevB.75.014301",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "131UC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1098-0121",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1103/PhysRevB.75.014301",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 014301",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000247435200002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Pre- and post-Columbian gene and cultural continuity: The case of the Gaucho from southern Brazil",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "160-171",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "HUMAN HEREDITY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "64",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Marrero, Andrea Rita",
+                  "Bravi, Claudio",
+                  "Stuart, Steven",
+                  "Long, Jeffrey C.",
+                  "das Neves Leite, Fabio Pereira",
+                  "Kommers, Tricia",
+                  "Carvalho, Claudia M. B.",
+                  "Junho Pena, Sergio Danilo",
+                  "Ruiz-Linares, Andres",
+                  "Salzano, Francisco Mauro",
+                  "Bortolini, Maria Catira",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Y-chromosome SNPs/STRs",
+                  "mtDNA HVS-I",
+                  "genetic continuity",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1159/000102989",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "181KI",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0001-5652",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1159/000102989",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000242045900002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Physical adsorption strength in open systems",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "46",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "22957-22960",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV 23",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF PHYSICAL CHEMISTRY B",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "110",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Knippenberg, M. Todd",
+                  "Stuart, Steven J.",
+                  "Cooper, Alan C.",
+                  "Pez, G. P.",
+                  "Cheng, Hansong",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1021/jp0647737",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "105PX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1520-6106",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/jp0647737",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000207781609418"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "PHYS 140-Optimizing reactive Langevin paths in rare-event systems: A novel path integral formulation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP 10",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "232",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Dickson, Brad M.",
+                  "Stuart, Steven J.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "V15DB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000207781609593"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "PHYS 93-Accelerated dynamics for diffusive processes with entropic and energetic barriers",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP 10",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "232",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stuart, Steven J.",
+                  "Dickson, Brad M.",
+                  "Krstic, Predrag",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "V15DB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000233216200012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "In situ observation of the growth mechanisms of carbon nanotubes under diverse reaction conditions",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "231-237",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF ELECTRON MICROSCOPY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "54",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sharma, R",
+                  "Rez, P",
+                  "Treacy, MMJ",
+                  "Stuart, SJ",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "carbon nanotubes",
+                  "chemical vapor deposition",
+                  "in situ",
+                  "environmental transmission electron microscope",
+                  "catalyst",
+                  "growth mechanisms",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1093/jmicro/dfi037",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "983FH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-0744",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1093/jmicro/dfi037",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000227479400016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Molecular dynamics simulations on the effects of diameter and chirality on hydrogen adsorption in single walled carbon nanotubes",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "3780-3786",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 10",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF PHYSICAL CHEMISTRY B",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "109",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Cheng, HS",
+                  "Cooper, AC",
+                  "Pez, GP",
+                  "Kostov, MK",
+                  "Piotrowski, P",
+                  "Stuart, SJ",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1021/jp045358m",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "904ER",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1520-6106",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/jp045358m",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000226962100070"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Molecular dynamics simulations of peptide-surface interactions",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1629-1639",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "LANGMUIR",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "21",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Raut, VP",
+                  "Agashe, MA",
+                  "Stuart, SJ",
+                  "Latour, RA",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1021/la047807f",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "896VL",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0743-7463",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/la047807f",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000226614200048"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Molecular simulation to characterize the adsorption behavior of a fibrinogen gamma-chain fragment",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1103-1117",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "LANGMUIR",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "21",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Agashe, M",
+                  "Raut, V",
+                  "Stuart, SJ",
+                  "Latour, RA",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1021/la0478364",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "891XL",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0743-7463",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/la0478346",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000225042700006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Parallel replica dynamics with a heterogeneous distribution of barriers: Application to n-hexadecane pyrolysis",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "20",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "9808-9819",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV 22",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2004",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF CHEMICAL PHYSICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "121",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kum, O",
+                  "Dickson, BM",
+                  "Stuart, SJ",
+                  "Uberuaga, BP",
+                  "Voter, AF",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Kum, Oyeon",
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "A-4962-2008",
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1063/1.1807823",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "870FJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9606",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1063/1.1807823",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000221890800012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A molecular modeling study of the effect of surface chemistry on the adsorption of a fibronectin fragment spanning the 7-10th type-III repeats",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "686-698",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2004",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF BIOMEDICAL MATERIALS RESEARCH PART A",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "69A",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wilson, K",
+                  "Stuart, SJ",
+                  "Garcia, A",
+                  "Latour, RA",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "protein adsorption",
+                  "fibronectin",
+                  "molecular modeling",
+                  "self-assembled monolayers",
+                  "biomaterials",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stuart, Steven",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1111-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1002/jbm.a.30042",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "827HR",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9304",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1002/jbm.a.30042",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000221690502182"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Can patients learn more and clinicians be more effective using an interactive educational tool?",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "A519-A519",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2004",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DIABETES",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "53",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zierenberg, T",
+                  "Stuart, S",
+                  "Stubbefield, N",
+                  "Fredrickson, L",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "824MK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0012-1797",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200300448466"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Y-chromosome evidence for differing ancient demographic histories in the Americas.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "524-539",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2003",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "American Journal of Human Genetics",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "73",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bartolini, Maria-Catira",
+                  "Salzano, Francisco M.",
+                  "Thomas, Mark G.",
+                  "Stuart, Steven",
+                  "Nasanen, Selja P. K.",
+                  "Bau, Claiton H. D.",
+                  "Hutz, Mara H.",
+                  "Layrisse, Zulay",
+                  "Petzl-Erler, Maria L.",
+                  "Tsuneto, Luiza T.",
+                  "Hill, Kim",
+                  "Hurtado, Ana M.",
+                  "Castro-de-Guerra, Dinorah",
+                  "Torres, Maria M.",
+                  "Groot, Helena",
+                  "Michalski, Roman",
+                  "Nymadawa, Pagbajabyn",
+                  "Bedoya, Gabriel",
+                  "Bradman, Neil",
+                  "Labuda, Damian",
+                  "Ruiz-Linares, Andres",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0002-9297",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000185134000006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Y-chromosome evidence for differing ancient demographic histories in the Americas",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "524-539",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2003",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "AMERICAN JOURNAL OF HUMAN GENETICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "73",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bortolini, MC",
+                  "Salzano, FM",
+                  "Thomas, MG",
+                  "Stuart, S",
+                  "Nasanen, SPK",
+                  "Bau, CHD",
+                  "Hutz, MH",
+                  "Layrisse, Z",
+                  "Petzl-Erler, ML",
+                  "Tsuneto, LT",
+                  "Hill, K",
+                  "Hurtado, AM",
+                  "Castro-de-Guerra, D",
+                  "Torres, MM",
+                  "Groot, H",
+                  "Michalski, R",
+                  "Nymadawa, P",
+                  "Bedoya, G",
+                  "Bradman, N",
+                  "Labuda, D",
+                  "Ruiz-Linares, A",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Thomas, Mark",
+                  "Bau, Claiton",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "A-2219-2012",
+                  "C-9980-2013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "718FG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0002-9297",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1086/377588",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

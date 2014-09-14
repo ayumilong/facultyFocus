@@ -1,0 +1,68 @@
+(searchResults){
+   queryId = "5"
+   recordsFound = 1
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000257343500046"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Mark Twain's Civil War",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "955-957",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF MILITARY HISTORY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "72",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Burton, Vernon",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "321YX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0899-3718",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

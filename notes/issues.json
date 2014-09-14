@@ -1,0 +1,14 @@
+{
+	"issues" : 
+		[
+			{
+				"id" : 0,
+				"type" : "system",
+				"issue" : "Agent admitted failure to sign using the key",
+				"description": "When use ssh-keygen to generate a pair of public and private key, we need to use ssh-add [private_key_name] to add the new key to your agent. After that, you can use the new key pair",
+				"author" : "Yaolin Zhang",
+				"date" : "13:50 May 21 2014",
+				"fixed" : "Y"
+			}
+		]
+}

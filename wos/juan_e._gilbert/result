@@ -1,0 +1,1367 @@
+(searchResults){
+   queryId = "23"
+   recordsFound = 19
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000333994800015"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Response to Letter by Padulo and Ardigo",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "284-284",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ERGONOMICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "57",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ekandem, Joshua I.",
+                  "Alvarez, Ignacio",
+                  "James, Melva T.",
+                  "Gilbert, Juan E.",
+                  "Davis, Timothy A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1080/00140139.2013.877599",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1366-5847",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AE4YQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0014-0139",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000330491600102"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Sediment desiccation as a driver of phosphate availability in the water column of Mediterranean wetlands",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "965-975",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SCIENCE OF THE TOTAL ENVIRONMENT",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "466",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Diego Gilbert, Juan",
+                  "Guerrero, Francisco",
+                  "de Vicente, Inmaculada",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Phosphorus",
+                  "Sediment",
+                  "Desiccation",
+                  "Wetlands",
+                  "Climate change",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.scitotenv.2013.07.123",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1879-1026",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "300VH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0048-9697",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000320673500015"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Toward Culturally Responsive Computing Education",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "33-36",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMMUNICATIONS OF THE ACM",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "56",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Eglash, Ron",
+                  "Gilbert, Juan E.",
+                  "Foster, Ellen",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1145/2483852.2483864",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "167ZG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0001-0782",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000326842700016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Spoonful of Sugar: Understanding the Over-the-Counter Medication Needs and Practices of Older Adults",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "International Conference on Pervasive Computing Technologies for Healthcare",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "93-96",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE 2013 7TH INTERNATIONAL CONFERENCE ON PERVASIVE COMPUTING TECHNOLOGIES FOR HEALTHCARE AND WORKSHOPS (PERVASIVEHEALTH 2013)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Martin, Aqueasha M.",
+                  "Jones, Jessica N.",
+                  "Gilbert, Juan E.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "older adults",
+                  "consumer-health applications",
+                  "over-the-counter medication",
+                  "medication",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.4108/icst.pervasivehealth.2013.252092",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BHW32",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-936968-80-0",
+                  "978-1-4799-0296-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "2153-1633",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000309306000007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Virtual agents in retail web sites: Benefits of simulated social interaction for older users",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2055-2066",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTERS IN HUMAN BEHAVIOR",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "28",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Chattaraman, Veena",
+                  "Kwon, Wi-Suk",
+                  "Gilbert, Juan E.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Virtual agents",
+                  "Online retailing",
+                  "Older users",
+                  "Patronage intent",
+                  "Social support",
+                  "Trust",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.chb.2012.06.009",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "013LD",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0747-5632",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000308028700005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Virtual Sales Associates for Mature Consumers: Technical and Social Support in e-Retail Service Interactions",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "232-248",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CLOTHING AND TEXTILES RESEARCH JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "30",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Shim, Soo In",
+                  "Kwon, Wi-Suk",
+                  "Chattaraman, Veena",
+                  "Gilbert, Juan E.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "aging",
+                  "computer-aided instruction",
+                  "consumer behavior",
+                  "internet shopping",
+                  "marketing",
+                  "technology",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1177/0887302X12456903",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "995RB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0887-302X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000303584300008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Evaluating the ergonomics of BCI devices for research and experimentation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "592-598",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ERGONOMICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "55",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ekandem, Joshua I.",
+                  "Davis, Timothy A.",
+                  "Alvarez, Ignacio",
+                  "James, Melva T.",
+                  "Gilbert, Juan E.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "brain-computer interface (BCI)",
+                  "comfort",
+                  "usability",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1080/00140139.2012.662527",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "936IO",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0014-0139",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000313538000010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "FACTORS THAT ATTRACT AFRICAN AMERICAN MALES TO COMPUTING SCIENCES A Study of Aspiring and Computing Scientists",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Contemporary Perspectives in Race and Ethnic Relations",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "189-201",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "AFRICAN AMERICAN MALES AND EDUCATION: RESEARCHING THE CONVERGENCE OF RACE AND IDENTITY",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Jackson, Jerlando F. L.",
+                  "Charleston, LaVar J.",
+                  "George, Phillis L.",
+                  "Gilbert, Juan E.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BDJ37",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-61735-941-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000308583500001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Clustering Rule Based Approach for Classification Problems",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1-23",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN-MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL JOURNAL OF DATA WAREHOUSING AND MINING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "8",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Williams, Philicity K.",
+                  "Soares, Caio V.",
+                  "Gilbert, Juan E.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Association Rule Mining",
+                  "Clustering",
+                  "Incomplete Data",
+                  "Missing Data",
+                  "Ordered Sets",
+                  "Predictive Modeling",
+                  "Rule Based Classifiers",
+                  "Unordered Sets",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.4018/jdwm.2012010101",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "003BP",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1548-3924",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000302264900017"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "TEN IN 10: A REFLECTIVE EXAMINATION OF HOW A UNIVERSITY IN THE SOUTH GRADUATED 10 AFRICAN AMERICAN COMPUTER SCIENCE PHDS IN 10 YEARS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Diversity in Higher Education",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "307-322",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BEYOND STOCK STORIES AND FOLKTALES: AFRICAN AMERICANS' PATHS TO STEM FIELDS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "11",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gilbert, Juan E.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1108/S1479-3644(2011)0000011019",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BZO70",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-78052-168-8",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1479-3644",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000306321200058"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Older User-Computer Interaction on the Internet: How Conversational Agents Can Help",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "533-536",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "HUMAN-COMPUTER INTERACTION: INTERACTION TECHNIQUES AND ENVIRONMENTS, PT II",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "6762",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kwon, Wi-Suk",
+                  "Chattaraman, Veena",
+                  "Shim, Soo In",
+                  "Alnizami, Hanan",
+                  "Gilbert, Juan",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Conversational agent",
+                  "older users",
+                  "Internet",
+                  "interaction",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBA79",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-21605-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000289363000005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Universal access in e-voting for the blind",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "357-365",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "UNIVERSAL ACCESS IN THE INFORMATION SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "9",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gilbert, Juan E.",
+                  "McMillian, Yolanda",
+                  "Rouse, Ken",
+                  "Williams, Philicity",
+                  "Rogers, Gregory",
+                  "McClendon, Jerome",
+                  "Mitchell, Winfred",
+                  "Gupta, Priyanka",
+                  "Mkpong-Ruffin, Idong",
+                  "Cross, E. Vincent, II",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Electronic voting",
+                  "Accessibility",
+                  "Privacy",
+                  "Blind",
+                  "Prime III",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s10209-009-0181-0",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "748AS",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1615-5289",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000288972900012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "International and Communitary law before the challenges of out time. Tribute to professor Victoria Abellan Honrubia",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "37",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1076-1079",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP-DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "REVISTA DE DERECHO COMUNITARIO EUROPEO",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "14",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gilbert, Juan Manuel de Faraminan",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "742VH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1138-4026",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000270616100001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Cardiovascular risk in menopausal women and prevalent related co-morbid conditions: facing the post-Women's Health Initiative era",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1171-1186",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FERTILITY AND STERILITY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "92",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Perez-Lopez, Faustino R.",
+                  "Chedraui, Peter",
+                  "Gilbert, Juan J.",
+                  "Perez-Roncero, Gonzalo",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Menopause",
+                  "cardiovascular disease",
+                  "hormone therapy",
+                  "depression",
+                  "sleeping disorders",
+                  "vitamin D insufficiency",
+                  "psychosocial factors",
+                  "obesity",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.fertnstert.2009.06.032",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1556-5653",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "504KS",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0015-0282",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000270561000034"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Everyone Counts: Voting Accessibility",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "324-332",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "UNIVERSAL ACCESS IN HUMAN-COMPUTER INTERACTION: APPLICATIONS AND SERVICES, PT III",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5616",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Cross, E. Vincent, II",
+                  "Dawkins, Shanee",
+                  "McClendon, Jerome",
+                  "Sullivan, Tony",
+                  "Rogers, Greg",
+                  "Erete, Arit",
+                  "Gilbert, Juan E.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "E-Voting",
+                  "Universal Access",
+                  "Multi-modal Interfaces",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BLN05",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-02712-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000259567600075"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Exploring the Impact of Queue Management on Quality of Service for SMBs",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "551-554",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2008 IEEE INTERNATIONAL CONFERENCE ON SERVICES COMPUTING, PROCEEDINGS, VOL 2",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gosha, Kinnis",
+                  "Thomas, Jakita O.",
+                  "Gilbert, Juan E.",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE Computer Soc",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BIH73",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "*****************",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/SCC.2008.139",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000263205800045"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Improving Accuracy in the Montgomery County Corrections Program Using Case Based Reasoning",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "318-323",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SEVENTH INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND APPLICATIONS, PROCEEDINGS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Soares, Caio",
+                  "Hamilton, Christin",
+                  "Montgomery, Lacey",
+                  "Gilbert, Juan E.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/ICMLA.2008.94",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BIV71",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-3495-4",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000263205800074"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Automating Microarray Classification using General Regression Neural Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "508-513",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SEVENTH INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND APPLICATIONS, PROCEEDINGS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Soares, Caio",
+                  "Montgomery, Lacey",
+                  "Rouse, Kenneth",
+                  "Gilbert, Juan E.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/ICMLA.2008.95",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BIV71",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-7695-3495-4",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000267259300007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Quantitative Software Security Risk Assessment Model",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "31-33",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "QOP'07: PROCEEDINGS OF THE 2007 ACM WORKSHOP ON QUALITY OF PROTECTION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Mkpong-Ruffin, Idongesit",
+                  "Umphress, David",
+                  "Hamilton, John",
+                  "Gilbert, Juan",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Software security",
+                  "quantitative risk assessment",
+                  "empirical software engineering",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJV43",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-59593-885-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

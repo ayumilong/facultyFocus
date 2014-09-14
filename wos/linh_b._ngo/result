@@ -1,0 +1,679 @@
+(searchResults){
+   queryId = "53"
+   recordsFound = 9
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000315964000007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "21st Century natural product research and drug development and traditional medicines",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "584-592",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "NATURAL PRODUCT REPORTS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "30",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ngo, Linh T.",
+                  "Okogun, Joseph I.",
+                  "Folk, William R.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1039/c3np20120a",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1460-4752",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "104BK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0265-0568",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000330831300220"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Academic Publishing as a Social Media Paradigm",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2013 IEEE INTERNATIONAL CONFERENCE ON BIG DATA",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Payne, Michael E.",
+                  "Ngo, Linh B.",
+                  "Apon, Amy W.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "social media",
+                  "social networking",
+                  "academic publications",
+                  "higher education",
+                  "big data",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BA0BK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4799-1292-6",
+                  "978-1-4799-1293-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000314459200012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Mutations in the beta-Tubulin Gene TUBB5 Cause Microcephaly with Structural Brain Abnormalities",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1554-1562",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CELL REPORTS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "2",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Breuss, Martin",
+                  "Heng, Julian Ik-Tsen",
+                  "Poirier, Karine",
+                  "Tian, Guoling",
+                  "Jaglin, Xavier Hubert",
+                  "Qu, Zhengdong",
+                  "Braun, Andreas",
+                  "Gstrein, Thomas",
+                  "Ngo, Linh",
+                  "Haas, Matilda",
+                  "Bahi-Buisson, Nadia",
+                  "Moutard, Marie-Laure",
+                  "Passemard, Sandrine",
+                  "Verloes, Alain",
+                  "Gressens, Pierre",
+                  "Xie, Yunli",
+                  "Robson, Kathryn J. H.",
+                  "Rani, Deepa Selvi",
+                  "Thangaraj, Kumarasamy",
+                  "Clausen, Tim",
+                  "Chelly, Jamel",
+                  "Cowan, Nicholas Justin",
+                  "Keays, David Anthony",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.celrep.2012.11.017",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "083JJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "2211-1247",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000282780400009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Performance Modeling of Enterprise Grids",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "International Series in Operations Research & Management Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "169-201",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DATA ENGINEERING: MINING, INFORMATION AND INTELLIGENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "132",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hoffman, Doug L.",
+                  "Apon, Amy",
+                  "Dowdy, Larry",
+                  "Lu, Baochuan",
+                  "Hamm, Nathan",
+                  "Ngo, Linh",
+                  "Bui, Hung",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/978-1-4419-0176-7_9",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BRI75",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4419-0175-0",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0884-8289",
+            },
+            (labelValuesPair){
+               label = "Identifier.Parent_Book_Doi"
+               value[] = 
+                  "10.1007/978-1-4419-0176-7",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/978-1-4419-0176-7_9",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000272785400044"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An Effective Clustering-based Approach for Conceptual Association Rules Mining",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "257-263",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2009 IEEE-RIVF INTERNATIONAL CONFERENCE ON COMPUTING AND COMMUNICATION TECHNOLOGIES: RESEARCH, INNOVATION AND VISION FOR THE FUTURE",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Quan, Tho T.",
+                  "Ngo, Linh N.",
+                  "Hui, Siu Cheung",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "association rule mining",
+                  "conceptual association rules",
+                  "clustering",
+                  "formal concept analysis",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BMM10",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-4567-7",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000239640400023"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Dose separation does not overcome the pharmacokinetic interaction between fosamprenavir and lopinavir/ritonavir",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "8",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2756-2761",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ANTIMICROBIAL AGENTS AND CHEMOTHERAPY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "50",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Corbett, Amanda H.",
+                  "Patterson, Kristine B.",
+                  "Tien, Hsiao-Chuan",
+                  "Kalvass, Leslie A.",
+                  "Eron, Joseph J.",
+                  "Ngo, Linh T.",
+                  "Lim, Michael L.",
+                  "Kashuba, Angela D. M.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1128/AAC.01006-05",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "071YS",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0066-4804",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1128/AAC.01006-05",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000229234100003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Short-term effects of artificial tears on visual performance in normal subjects",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "370-377",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "OPTOMETRY AND VISION SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "82",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ridder, WH",
+                  "Lamotre, JO",
+                  "Ngo, L",
+                  "Fermin, J",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "tear layer breakup",
+                  "vision",
+                  "artificial tears",
+                  "contrast sensitivity",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "927XO",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1040-5488",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1097/01.OPX.0000162646.30666.E3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000083331200024"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Prolonged therapy with the fusion inhibitor T-20 in combination with oral antiretroviral agents in an HIV-infected individual",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "15",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2171-2173",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT 22",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "AIDS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "13",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Pilcher, CD",
+                  "Eron, JJ",
+                  "Ngo, L",
+                  "Dusek, A",
+                  "Sista, P",
+                  "Gleavy, J",
+                  "Brooks, D",
+                  "Venetta, T",
+                  "DiMassimo, E",
+                  "Hopkins, S",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "249KA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0269-9370",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1097/00002030-199910220-00024",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996TQ23200003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Phylogenetic analyses of the homologous transmembrane channel-forming proteins of the F0F1-ATPases of bacteria, chloroplasts and mitochondria",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "17-32",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MICROBIOLOGY-UK",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "142",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Blair, A",
+                  "Ngo, L",
+                  "Park, J",
+                  "Paulsen, IT",
+                  "Saier, MH",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "phylogenetic relationships",
+                  "ATP synthase",
+                  "F0F1-ATPases",
+                  "proton transport",
+                  "membrane proteins",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Paulsen, Ian",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "K-3832-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "TQ232",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1350-0872",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

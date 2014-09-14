@@ -1,0 +1,3947 @@
+(searchResults){
+   queryId = "8"
+   recordsFound = 60
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "MEDLINE:24940755"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Foldscope: origami-based paper microscope.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "e98781",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PloS one",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "9",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Cybulski, James S",
+                  "Clements, James",
+                  "Prakash, Manu",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.pone.0098781",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1932-6203",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV201300517385"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Multiwell plate device",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Official Gazette of the United States Patent and Trademark Office Patents",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Anonymous",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0098-1133",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000300123100014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The instrumental music of Schmeltzer, Biber, Muffat and their contemporaries",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "611-613",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "EARLY MUSIC",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "39",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1093/em/car084",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "890CQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0306-1078",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:21576896"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Management of the hyperglycemic inpatient: tips, tools, and protocols for the clinician.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "40-6",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "Apr",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Hospital practice (1995)",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "39",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Vinik, Russell",
+                  "Clements, James",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.3810/hp.2011.04.393",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "2154-8331",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000308077900004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Verbal Sludge: The Ethics of Instability in Patrick White's Prose",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "102-+",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MYSTICISM AND THE MID-CENTURY NOVEL",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Clements, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBS74",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-230-35392-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Parent_Book_Doi"
+               value[] = 
+                  "10.1057/9780230353923",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000308077900001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Introduction: The Middle is Everywhere",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1-+",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MYSTICISM AND THE MID-CENTURY NOVEL",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Clements, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBS74",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-230-35392-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Parent_Book_Doi"
+               value[] = 
+                  "10.1057/9780230353923",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000308077900006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Conclusion: Drawing Circles in the Sea: Un-Defining the 'Mystical Novelist'",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "183-+",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MYSTICISM AND THE MID-CENTURY NOVEL",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Clements, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBS74",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-230-35392-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Parent_Book_Doi"
+               value[] = 
+                  "10.1057/9780230353923",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000308077900005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Bliss from Bricks: Saul Bellow's Moral Phenomenology",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "148-+",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MYSTICISM AND THE MID-CENTURY NOVEL",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Clements, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBS74",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-230-35392-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Parent_Book_Doi"
+               value[] = 
+                  "10.1057/9780230353923",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000308077900002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Towards an Ideal Limit: Linguistic Authority in the Work of Iris Murdoch",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "31-+",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MYSTICISM AND THE MID-CENTURY NOVEL",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Clements, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBS74",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-230-35392-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Parent_Book_Doi"
+               value[] = 
+                  "10.1057/9780230353923",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000308077900003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "From Apophasis to Aporia: William Golding and the Indescribable",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "67-+",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MYSTICISM AND THE MID-CENTURY NOVEL",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Clements, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBS74",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-230-35392-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Parent_Book_Doi"
+               value[] = 
+                  "10.1057/9780230353923",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000285383900024"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Distinct molecular mechanisms responsible for bortezomib-induced death of therapy-resistant versus -sensitive B-NHL cells",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "25",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "5605-5614",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC 16",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BLOOD",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "116",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Olejniczak, Scott H.",
+                  "Blickwedehl, Jennifer",
+                  "Belicha-Villanueva, Alan",
+                  "Bangia, Naveen",
+                  "Riaz, Wasif",
+                  "Mavis, Cory",
+                  "Clements, James L.",
+                  "Gibbs, John",
+                  "Hernandez-Ilizaliturri, Francisco J.",
+                  "Czuczman, Myron S.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1182/blood-2009-12-259754",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "695PE",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-4971",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1182/blood-2009-12-259754",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV201000526457"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "KX02 a novel therapeutic for glioma",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1358",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Proceedings of the American Association for Cancer Research Annual Meeting",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "51",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ciesielski, Michael J.",
+                  "Munich, Stephan A.",
+                  "Clements, James L.",
+                  "Hangauer, David G.",
+                  "Dyster, Lyn M.",
+                  "Barnett, Allen",
+                  "Fenstermaker, Robert A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0197-016X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000268703800049"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The immunogenicity of L1210 lymphoma clones correlates with their ability to function as antigen-presenting cells",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "e641-e651",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "128",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Cycon, Kelly A.",
+                  "Clements, James L.",
+                  "Holtz, Renae",
+                  "Fuji, Hiroshi",
+                  "Murphy, Shawn P.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "antigen presentation",
+                  "costimulatory molecules",
+                  "lymphoma",
+                  "MHC class II antigens",
+                  "tumour immunogenicity",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1111/j.1365-2567.2009.03052.x",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "480AM",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0019-2805",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000275119400035"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Vav1 Regulates the Migration and Adhesion of Dendritic Cells",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "310-318",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "183",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Spurrell, David R.",
+                  "Luckashenak, Nancy A.",
+                  "Minney, Derek C.",
+                  "Chaplin, Anna",
+                  "Penninger, Joseph M.",
+                  "Liwski, Robert S.",
+                  "Clements, James L.",
+                  "West, Kenneth A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Penninger, Josef",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "I-6860-2013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.4049/jimmunol.0802096",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "563HS",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1767",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000255454300047"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Phosphorylation by p38 MAPK as an alternative pathway for GSK3 beta inactivation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5876",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "667-670",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY 2",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "320",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Thornton, Tina M.",
+                  "Pedraza-Alva, Gustavo",
+                  "Deng, Bin",
+                  "Wood, C. David",
+                  "Aronshtam, Alexander",
+                  "Clements, James L.",
+                  "Sabio, Guadalupe",
+                  "Davis, Roger J.",
+                  "Matthews, Dwight E.",
+                  "Doble, Bradley",
+                  "Rincon, Mercedes",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1126/science.1156037",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "295DD",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0036-8075",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1126/science.1156037",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200800488645"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Bortezomib induces a pro-apoptotic Bcl-2 family protein expression profile necessary to kill therapy-resistant B cell non-Hodgkin's lymphoma (B-NHL)",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1043",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Proceedings of the American Association for Cancer Research Annual Meeting",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "49",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Olejniczak, Scott H.",
+                  "Hernandez-Ilizaliturri, Francisco J.",
+                  "Blickwedehl, Jennifer",
+                  "Bangia, Naveen",
+                  "Clements, James L.",
+                  "Czuczman, Myron S.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0197-016X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000253565000038"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Acquired resistance to rituximeb is associated with chemotherapy resistance resulting from decreased Bax and Bak expression",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1550-1560",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CLINICAL CANCER RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "14",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Olejniczak, Scott H.",
+                  "Hernandez-Ilizaliturri, Francisco J.",
+                  "Clements, James L.",
+                  "Czuczman, Myron S.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1158/1078-0432.CCR-07-1255",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "268FR",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1078-0432",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1158/1078-0432.CCR-07-1255",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000252772100023"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Impaired thymic selection in mice expressing altered levels of the SLP-76 adaptor protein",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "419-429",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF LEUKOCYTE BIOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "83",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ramsey, Kimberley",
+                  "Luckashenak, Nancy",
+                  "Koretzky, Gary A.",
+                  "Clements, James L.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "thymocyte",
+                  "tolerance",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1189/jlb.0507297",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "257AR",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0741-5400",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000252128100035"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Ets-1 regulates plasma cell differentiation by interfering with the activity of the transcription factor Blimp-1",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "951-962",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN 11",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF BIOLOGICAL CHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "283",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "John, Shinu A.",
+                  "Clements, James L.",
+                  "Russell, Lisa M.",
+                  "Garrett-Sinha, Lee Ann",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1074/jbc.M705262200",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "248CE",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9258",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000246822100005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Proteasomes and proteasome activator 200 kDa (PA200) accumulate on chromatin in response to ionizing radiation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "663-674",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "RADIATION RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "167",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Blickwedehl, Jennifer",
+                  "McEvoy, Sarah",
+                  "Wong, Irene",
+                  "Kousis, Philaretos",
+                  "Clements, James",
+                  "Elliott, Rosemary",
+                  "Cresswell, Peter",
+                  "Liang, Ping",
+                  "Bangia, Naveen",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Liang, Ping",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-2709-2009",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "172RQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0033-7587",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1667/RR0690.1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000249218600121"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Separation of (F-18)fluoride ion from proton-irradiated (O-18)water within an EOF-driven micro-reactor powered by the Capilix Capella (TM) platform",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5-6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "597-599",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR-MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF LABELLED COMPOUNDS & RADIOPHARMACEUTICALS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "50",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Lu, Shuiyu",
+                  "Clements, James T.",
+                  "Gilde, Melis Jan",
+                  "Prak, Albert",
+                  "Watts, Paul",
+                  "Pike, Victor W.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "micro-reactor",
+                  "electroosmotic flow",
+                  "PET",
+                  "radiolabeling",
+                  "[F-18]fluoride ion",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1002/jlcr.1296",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "206YK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0362-4803",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1002/jlcr.1296",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200700304141"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Transgenic BALB/c mice expressing human L-endoglin in vascular endothelium.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "329",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Proceedings of the American Association for Cancer Research Annual Meeting",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "48",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Tsujie, Masanori",
+                  "Shiozaki, Ken",
+                  "Uneda, Shima",
+                  "Cowan, Peter J.",
+                  "Clements, James L.",
+                  "Tsujie, Tomoko",
+                  "Stablewski, Aimee",
+                  "Gross, Kenneth W.",
+                  "Tsai, Hilda",
+                  "Seon, Ben K.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0197-016X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200700304664"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Bortezomib induces Bak expression and cell death in non-Hodgkin's lymphoma cell lines that are both rituximab- and chemotherapy-resistant.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "457",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Proceedings of the American Association for Cancer Research Annual Meeting",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "48",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Olejniczak, Scott H.",
+                  "Hernandez-Ilizaliturri, Francisco",
+                  "Belicha, Alan",
+                  "Blickwedehl, Jennifer",
+                  "Clements, James S.",
+                  "Bangia, Naveen",
+                  "Czuczman, Myron S.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0197-016X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000243745000029"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Signaling mechanisms utilized by antigen receptors and integrins: common intermediates, different outcomes?",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "419-436",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FRONTIERS IN BIOSCIENCE-LANDMARK",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "12",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Luckashenak, Nancy",
+                  "Clements, James L.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "antigen receptor",
+                  "TCR",
+                  "SLP-76",
+                  "Vav",
+                  "ITAM",
+                  "Syk",
+                  "integrin",
+                  "Rho-Gtpase",
+                  "cytoskeleton",
+                  "signaling",
+                  "review",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.2741/2072",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "129QS",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1093-9946",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.2741/2072",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "ZOOREC:ZOOR14311069778"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The Clements checklist of the birds of the world. 6th edition.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "The Clements checklist of the birds of the world. 6th edition.",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "i-xix, 1-843",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James F.",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Clements, James F.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0801445019",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000242440401442"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Down-regulation of Bax and Bak in immuno-chemotherapy resistant Non-Hodgkin's lymphoma cells.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "272B-272B",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV 16",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BLOOD",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "108",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Olejniczak, Scott H.",
+                  "Clements, James L.",
+                  "Bangia, Naveen",
+                  "Hernandez-Ilizaliturri, Francisco J.",
+                  "Czuczman, Myron S.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "111GW",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-4971",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000241093100030"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The Src homology 2 domain-containing leukocyte protein of 76-kDa adaptor links integrin ligation with p44/42 MAPK phosphorylation and podosome distribution in murine dendritic cells",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "8",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "5177-5185",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "177",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Luckashenak, Nancy A.",
+                  "Ryszkiewicz, Rebecca L.",
+                  "Ramsey, Kimberley D.",
+                  "Clements, James L.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "092JP",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1767",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000238926500017"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Impaired generation of CD8(+) thymocytes in Ets-1-deficient mice",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "905-912",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "177",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James L.",
+                  "John, Shinu A.",
+                  "Garrett-Sinha, Lee Ann",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "062ED",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1767",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200600598078"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Post-transcriptional regulation of Bax and Bak protein expression in rituximab and chemotherapy resistant B-cell non-Hodgkin's lymphoma (NHL) cells.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "962",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Proceedings of the American Association for Cancer Research Annual Meeting",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "47",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Olejniczak, Scott H.",
+                  "Clements, James L.",
+                  "Hernandez-Ilizaliturri, Francisco J.",
+                  "Bangia, Naveen",
+                  "Czuczman, Myron S.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0197-016X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000236225000011"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Activation of p38 MAP kinase by DNA double-strand breaks in V(D)J recombination induces a G2/M cell cycle checkpoint",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "763-773",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 22",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "EMBO JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "25",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Pedraza-Alva, G",
+                  "Koulnis, M",
+                  "Charland, C",
+                  "Thornton, T",
+                  "Clements, JL",
+                  "Schlissel, MS",
+                  "Rincon, M",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "G2/M checkpoint",
+                  "p38 MAP kinase",
+                  "p53",
+                  "thymocyte development",
+                  "V(D)J recombination",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1038/sj.emboj.7600972",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "024VS",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0261-4189",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1038/sj.emboj.7600972",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000234426600005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Signaling through the murine T cell receptor induces IL-17 production in the absence of costimulation, IL-23 or dendritic cells",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "339-347",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC 31",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MOLECULES AND CELLS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "20",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Liu, XKK",
+                  "Clements, JL",
+                  "Gaffen, SL",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "costimulation",
+                  "cytokine",
+                  "dendritic cells",
+                  "IL-17",
+                  "T cell receptor",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Gaffen, Sarah",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "B-1560-2009",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "999XX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1016-8478",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000233426101520"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Lack of lipid raft domain reorganization following ligation of CD20 is associated with resistance to rituximab-induced complement-dependent cytotoxicity",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "284B-284B",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV 16",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BLOOD",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "106",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Olejniczak, SH",
+                  "Hernandez-Ilizaliturri, FJ",
+                  "Clements, JL",
+                  "Czuczman, MS",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "986CG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-4971",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000233426101521"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Loss of expression of the pro-apoptotic Bcl-2 family proteins Bak and Bax in rituximab- and chemotherapy-resistant non-Hodgkin's lymphoma cells",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "285B-285B",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV 16",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BLOOD",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "106",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Olejniczak, SH",
+                  "Hernandez-Ilizaliturri, FJ",
+                  "Clements, JL",
+                  "Czuczman, MS",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "986CG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-4971",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000232619000003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Conditional deletion reveals a cell-autonomous requirement of SLP-76 for thymocyte selection",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "893-900",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT 3",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF EXPERIMENTAL MEDICINE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "202",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Maltzman, JS",
+                  "Kovoor, L",
+                  "Clements, JL",
+                  "Koretzky, GA",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1084/jem.20051128",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "974VH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1007",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1084/jem.20051128",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000231473400004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Ets-1 deficiency leads to altered B cell differentiation, hyperresponsiveness to TLR9 and autoimmune disease",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1179-1191",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "17",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, D",
+                  "John, SA",
+                  "Percy, DH",
+                  "Barton, KP",
+                  "Garrett-Sinha, LA",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "B cell activation",
+                  "CpG oligodeoxynucleotide",
+                  "marginal zone",
+                  "Pointed domain",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Wang, Duncheng ",
+                  "Wang, Duncheng",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "E-2220-2012",
+                  "C-1961-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1093/intimm/dxh295",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "958UJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0953-8178",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1093/intimm/dxh295",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000225127701029"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The adaptor protein SLP-76 is not a direct substrate for BCR-ABL in the chronic myeloid leukemia cell line k562.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "258B-259B",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV 16",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2004",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BLOOD",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "104",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Joseph, W",
+                  "Luckashenak, N",
+                  "Ramsey, K",
+                  "Clements, J",
+                  "Padmanabhan, S",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "871JO",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-4971",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000181372500016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Known and potential functions for the SLP-76 adapter protein in regulating T-cell activation and development",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "211-219",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2003",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IMMUNOLOGICAL REVIEWS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "191",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, JL",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "652GY",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0105-2896",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1034/j.1600-065X.2003.00002.x",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "ZOOREC:ZOOR14111066523"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A field guide to the birds of Yap Island.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "A field guide to the birds of Yap Island.",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "i-x, 1-56",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2003",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James F.",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Clements, James F.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-934797-19-6",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200300092704"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Use of ceramic labels for identifying biomolecule immobilizing subtrates",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2002",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Official Gazette of the United States Patent and Trademark Office Patents",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "1265",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0098-1133",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200100371572"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Non-human animal having a functionally disrupted SLP-76 gene",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2001",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Official Gazette of the United States Patent and Trademark Office Patents",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "1243",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0098-1133",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "ZOOREC:ZOOR14002013271"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A field guide to the birds of Peru.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "A field guide to the birds of Peru.",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "i-xvii, 1-283",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2001",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James F.",
+                  "Shany, Noam",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Clements, James F.",
+                  "Shany, Noam",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0934797188",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000089733000012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Recruitment of SLP-76 to the membrane and glycolipid-enriched membrane microdomains replaces the requirement for linker for activation of T cells in T cell receptor signaling",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1047-1058",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT 2",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2000",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF EXPERIMENTAL MEDICINE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "192",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Boerth, NJ",
+                  "Sadler, JJ",
+                  "Bauer, DE",
+                  "Clements, JL",
+                  "Gheith, SM",
+                  "Koretzky, GA",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "adapter proteins",
+                  "signal transduction",
+                  "T cell activation",
+                  "lipid rafts",
+                  "protein tyrosine kinase",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "361QD",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1007",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1084/jem.192.7.1047",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000087904200016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "In vitro and in vivo macrophage function can occur independently of SLP-76",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "887-897",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2000",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "12",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Myung, PS",
+                  "Clements, JL",
+                  "White, DW",
+                  "Malik, ZA",
+                  "Cowdery, JS",
+                  "Allen, LAH",
+                  "Harty, JT",
+                  "Kusner, DJ",
+                  "Koretzky, GA",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Fc receptors",
+                  "monocytes/macrophages",
+                  "phagocytosis",
+                  "signal transduction",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "329JQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0953-8178",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1093/intimm/12.6.887",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "ZOOREC:ZOOR14101004306"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Birds of the World: a check list. Fifth edition.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Birds of the World: a check list. Fifth edition.",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "i-xx, 1-867",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2000",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James F.",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Clements, James F.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "1873403933",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000081369500019"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "NK cytokine secretion and cytotoxicity occur independently of the SLP-76 adaptor protein",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2223-2232",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "EUROPEAN JOURNAL OF IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Peterson, EJ",
+                  "Clements, JL",
+                  "Ballas, ZK",
+                  "Koretzky, GA",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "NK cell",
+                  "cytotoxicity",
+                  "transgenic",
+                  "knockout",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Peterson, Erik",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "M-9365-2013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "215ET",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0014-2980",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1002/(SICI)1521-4141(199907)29:07<2223::AID-IMMU2223>3.0.CO;2-6",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000079633400001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Recent developments in lymphocyte activation: linking kinases to downstream signaling events",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "925-929",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF CLINICAL INVESTIGATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "103",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, JL",
+                  "Koretzky, GA",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "184VA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9738",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1172/JCI6562",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199900153177"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Tyrosine phosphorylation of SLP-76 is downstream of Syk following stimulation of the collagen receptor in platelets",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "5963-5971",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Journal of Biological Chemistry",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "274",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gross, Barbara S.",
+                  "Lee, Jong Ran",
+                  "Clements, James L.",
+                  "Turner, Martin",
+                  "Tybulewicz, Victor L. J.",
+                  "Findell, Paul R.",
+                  "Koretzky, Gary A.",
+                  "Watson, Steve P.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9258",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199900416966"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Integration of T cell receptor-dependent signaling pathways by adapter proteins",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Annual Review of Immunology",
+                  "Annual Review of Immunology",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "89-108",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "17",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James L.",
+                  "Boerth, Nancy J.",
+                  "Lee, Jong Ran",
+                  "Koretzky, Gary A.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-8243-3017-X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000077948100005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Fetal hemorrhage and platelet dysfunction in SLP-76-deficient mice",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "19-25",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF CLINICAL INVESTIGATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "103",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, JL",
+                  "Lee, JR",
+                  "Gross, B",
+                  "Yang, BL",
+                  "Olson, JD",
+                  "Sandra, A",
+                  "Watson, SP",
+                  "Lentz, SR",
+                  "Koretzky, GA",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "155LJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9738",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1172/JCI5317",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000074918800048"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Requirement for the leukocyte-specific adapter protein SLP-76 for normal T-cell development",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5375",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "416-419",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL 17",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1998",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "281",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, JL",
+                  "Yang, B",
+                  "Ross-Barta, SE",
+                  "Eliason, SL",
+                  "Hrstka, RF",
+                  "Williamson, RA",
+                  "Koretzky, GA",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "102HR",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0036-8075",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1126/science.281.5375.416",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000074178100014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Adaptor proteins in lymphocyte antigen-receptor signaling",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "337-344",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1998",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CURRENT OPINION IN IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "10",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Peterson, EJ",
+                  "Clements, JL",
+                  "Fang, N",
+                  "Koretzky, GA",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Peterson, Erik",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "M-9365-2013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "ZU253",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0952-7915",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0952-7915(98)80173-8",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996UV86900040"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Polymorphism in and localization of the gene LCP2 (SLP-76) to chromosome 5q33.1-qter",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "269-270",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "GENOMICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "35",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sunden, SLF",
+                  "Carr, LL",
+                  "Clements, JL",
+                  "Motto, DG",
+                  "Koretzky, GA",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "UV869",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0888-7543",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1006/geno.1996.0354",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1995RC61000018"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ABNORMAL REGULATION OF THE IL-2 PROMOTER IN LPR CD4(-)CD8(-) T-LYMPHOCYTES RESULTS IN CONSTITUTIVE EXPRESSION OF A NOVEL NUCLEAR FACTOR OF ACTIVATED T-CELLS-BINDING FACTOR",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "12",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "6372-6381",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "154",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "CLEMENTS, JL",
+                  "COOPER, SM",
+                  "BUDD, RC",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "RC610",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1767",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1994PB48800008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "NIFEDIPINE (PROCARDIA XL) AS A CAUSE OF FALSE-POSITIVE RESULTS ON BARIUM ENEMA STUDY",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "8",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "808-810",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1994",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SOUTHERN MEDICAL JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "87",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "GREENSTEIN, DB",
+                  "WILCOX, CM",
+                  "FRONTIN, K",
+                  "CLEMENTS, JL",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "PB488",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0038-4348",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1097/00007611-199408000-00008",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1994NB71800009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "REVERSAL OF HYPORESPONSIVENESS IN LPR CD4(-)CD8(-) T-CELLS IS ACHIEVED BY INDUCTION OF CELL CYCLING AND NORMALIZATION OF CD2 AND P59(FYN) EXPRESSION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "558-565",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1994",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "EUROPEAN JOURNAL OF IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "24",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "CLEMENTS, JL",
+                  "WOLFE, J",
+                  "COOPER, SM",
+                  "BUDD, RC",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "CD2",
+                  "P59(FYN)",
+                  "T CELL ANERGY",
+                  "T CELL ACTIVATION",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "NB718",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0014-2980",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1002/eji.1830240310",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199497339408"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Aberrant transcriptional regulation of the IL2 gene maintains the anergic state of MRL-LPR CD4-8- T lymphocytes",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "18D",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "384",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1994",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Journal of Cellular Biochemistry Supplement",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "0",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James L.",
+                  "Budd, Ralph C.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0733-1959",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "ZOOREC:ZOOR13000024548"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Vine [sic], Vidi, Vici!",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1-3",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1993",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Western Tanager",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "59",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James F.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1993MH09400012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "CO-STIMULATION VIA CD28 INDUCES ACTIVATION OF A REFRACTORY SUBSET OF MRL-LPR/LPR T-LYMPHOCYTES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1451-1460",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1993",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "CLEMENTS, JL",
+                  "WINSLOW, G",
+                  "DONAHUE, C",
+                  "COOPER, SM",
+                  "ALLISON, JP",
+                  "BUDD, RC",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "CD2",
+                  "IL-2",
+                  "T-CELL ANERGY",
+                  "T-CELL ACTIVATION",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "MH094",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0953-8178",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1093/intimm/5.11.1451",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199345029382"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Hyporesponsive MRL lpr/lpr CD4-negative-8-negative T lymphocytes attain functional capacity when costimulated via CD28",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "8 PART 2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "267A",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1993",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Journal of Immunology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "150",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James L.",
+                  "Budd, Ralph C.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1767",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "ZOOREC:ZOOR13400000718"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "English name index and supplement no. 1. "Birds of the world: a check list", 4th edition.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "English name index and supplement no. 1. "Birds of the world: a check list", 4th edition.",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "i-iv, 1-68",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1992",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Clements, James F.",
+                  "Principe, William L., Jr",
+            },
+            (labelValuesPair){
+               label = "BookAuthors"
+               value[] = 
+                  "Clements, James F.",
+                  "Principe, William L., Jr",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-934797-05-6",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

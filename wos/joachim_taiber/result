@@ -1,0 +1,464 @@
+(searchResults){
+   queryId = "70"
+   recordsFound = 6
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000323475900003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Adapting discrete-event simulation tools to support tactical forecasting in the automotive industry",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "159-177",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CODESIGN-INTERNATIONAL JOURNAL OF COCREATION IN DESIGN AND THE ARTS",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "9",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Steinemann, Adrian",
+                  "Taiber, Joachim",
+                  "Fadel, Georges",
+                  "Wegener, Konrad",
+                  "Kunz, Andreas",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "manufacturing",
+                  "discrete-event simulation",
+                  "line balancing",
+                  "monitoring",
+                  "visualisation",
+                  "interaction",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Kunz, Andreas",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "B-9241-2008",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1080/15710882.2013.824484",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "205WQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1571-0882",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000315421300023"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Utilizing real-time information transferring potentials to vehicles to improve the fast-charging process in electric vehicles",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "352-366",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "26",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Johnson, Jennifer",
+                  "Chowdhury, Mashrur",
+                  "He, Yiming",
+                  "Taiber, Joachim",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Connected vehicle technologies",
+                  "Electric vehicles",
+                  "Fast DC charging stations",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.trc.2012.10.009",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "096RF",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0968-090X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000299032404141"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Effect of Inductive Power Technology Systems on Battery-Electric Vehicle Design",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE Industrial Electronics Society",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "4563-4569",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IECON 2011: 37TH ANNUAL CONFERENCE ON IEEE INDUSTRIAL ELECTRONICS SOCIETY",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Lorico, Andre",
+                  "Taiber, Joachim",
+                  "Yanni, Tamer",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "electric vehicle",
+                  "inductively coupled power transfer",
+                  "mass reduction",
+                  "mass compounding",
+                  "vehicle range",
+                  "EV cost",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BYJ30",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-61284-972-0",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1553-572X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000287611903056"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Use of Inductive Power Transfer for Electric Vehicles",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE Power and Energy Society General Meeting PESGM",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE POWER AND ENERGY SOCIETY GENERAL MEETING 2010",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Lukic, Srdjan M.",
+                  "Saunders, Marshall",
+                  "Pantic, Zeljko",
+                  "Hung, Steve",
+                  "Taiber, Joachim",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "electric vehicle",
+                  "high-power charging",
+                  "inductive power transfer",
+                  "range on a single charge",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "柳, 林",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "H-1995-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eisbn"
+               value[] = 
+                  "978-1-4244-8357-0",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BTO76",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000287373300081"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Security Automata Integrated XACML and Security Validation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE SoutheastCon-Proceedings",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "338-343",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE SOUTHEASTCON 2010: ENERGIZING OUR FUTURE",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Deng, Juan",
+                  "Brooks, Ricahrd",
+                  "Taiber, Joachim",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BTM89",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-5853-0",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1091-0050",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000274911100008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "AUTOMOBILE SECURITY CONCERNS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "53-64",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE VEHICULAR TECHNOLOGY MAGAZINE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "4",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Brooks, R. R.",
+                  "Sander, S.",
+                  "Deng, Juan",
+                  "Taiber, Joachim",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/MVT.2009.932539",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "560OD",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1556-6072",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

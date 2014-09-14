@@ -1,0 +1,76 @@
+(searchResults){
+   queryId = "6"
+   recordsFound = 1
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000073054400027"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Semiautomated image registration for digital subtraction radiography",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "473-478",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1998",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ORAL SURGERY ORAL MEDICINE ORAL PATHOLOGY ORAL RADIOLOGY AND ENDODONTICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "85",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Byrd, V",
+                  "Mayfield-Donahoo, T",
+                  "Reddy, MS",
+                  "Jeffcoat, MK",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "ZG931",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1079-2104",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S1079-2104(98)90077-4",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

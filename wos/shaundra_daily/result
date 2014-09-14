@@ -1,0 +1,77 @@
+(searchResults){
+   queryId = "11"
+   recordsFound = 1
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "MEDLINE:24650990"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Effects of virtual human animation on emotion contagion in simulated inter-personal experiences.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "626-35",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "Apr",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE transactions on visualization and computer graphics",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "20",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wu, Yanxiang",
+                  "Babu, Sabarish V",
+                  "Armstrong, Rowan",
+                  "Bertrand, Jeffrey W",
+                  "Luo, Jun",
+                  "Roy, Tania",
+                  "Daily, Shaundra B",
+                  "Dukes, Lauren Cairco",
+                  "Hodges, Larry F",
+                  "Fasolino, Tracy",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/TVCG.2014.19",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1941-0506",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

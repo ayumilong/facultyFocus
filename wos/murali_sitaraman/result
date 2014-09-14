@@ -1,0 +1,758 @@
+(searchResults){
+   queryId = "61"
+   recordsFound = 11
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000328540900024"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Specification and Reasoning in SE Projects using a Web IDE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Conference on Software Engineering Education and Training",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "229-238",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2013 IEEE 26TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING EDUCATION AND TRAINING (CSEE&T)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Cook, Charles T.",
+                  "Drachova-Strang, Svetlana V.",
+                  "Sun, Yu-Shan",
+                  "Sitaraman, Murali",
+                  "Carver, Jeffrey C.",
+                  "Hollingsworth, Joseph",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJJ91",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4673-5140-9",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1093-0175",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000312908700157"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Specification Engineering and Modular Verification Using a Web-Integrated Verifying Compiler",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "International Conference on Software Engineering",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1379-1382",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2012 34TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Cook, Charles T.",
+                  "Harton, Heather",
+                  "Smith, Hampton",
+                  "Sitaraman, Murali",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "automation",
+                  "generic components",
+                  "education",
+                  "specification",
+                  "system description",
+                  "verification",
+                  "web IDE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eisbn"
+               value[] = 
+                  "978-1-4673-1067-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BDE03",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0270-5257",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000306943500004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The Location Linking Concept: A Basis for Verification of Code Using Pointers",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "34-49",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VERIFIED SOFTWARE: THEORIES, TOOLS, EXPERIMENTS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "7152",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kulczycki, Gregory",
+                  "Smith, Hampton",
+                  "Harton, Heather",
+                  "Sitaraman, Murali",
+                  "Ogden, William F.",
+                  "Hollingsworth, Joseph E.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Formal specification",
+                  "linked data structures",
+                  "memory management",
+                  "reusable components",
+                  "verification",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBI26",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-27704-7",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000294468000003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Building a push-button RESOLVE verifier: Progress and challenges",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "607-626",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FORMAL ASPECTS OF COMPUTING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "23",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sitaraman, Murali",
+                  "Adcock, Bruce",
+                  "Avigad, Jeremy",
+                  "Bronish, Derek",
+                  "Bucci, Paolo",
+                  "Frazier, David",
+                  "Friedman, Harvey M.",
+                  "Harton, Heather",
+                  "Heym, Wayne",
+                  "Kirschenbaum, Jason",
+                  "Krone, Joan",
+                  "Smith, Hampton",
+                  "Weide, Bruce W.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Languages",
+                  "Software engineering",
+                  "Theorem proving",
+                  "Tools",
+                  "Verification",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s00165-010-0154-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "814PB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0934-5043",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000304130200154"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Making Mathematical Reasoning Fun: Tool-Assisted, Collaborative Techniques",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "661-661",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SIGCSE 12: PROCEEDINGS OF THE 43RD ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE EDUCATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hallstrom, Jason O.",
+                  "Hollingsworth, Joe",
+                  "Krone, Joan",
+                  "Sitaraman, Murali",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Analytical reasoning",
+                  "interface specifications",
+                  "contract programming",
+                  "formal methods",
+                  "learning tools",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BAH03",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4503-1098-7",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000304130200048"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Teaching Mathematical Reasoning across the Curriculum",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "241-242",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SIGCSE 12: PROCEEDINGS OF THE 43RD ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE EDUCATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Krone, Joan",
+                  "Baldwin, Doug",
+                  "Carver, Jeffrey C.",
+                  "Hollingsworth, Joseph E.",
+                  "Kumar, Amruth",
+                  "Sitaraman, Murali",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BAH03",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4503-1098-7",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000281141300090"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Some Developments in Mathematical Thinking for Computer Science Education Since Computing Curricula 2001",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "392-393",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SIGCSE 10: PROCEEDINGS OF THE 41ST ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE EDUCATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Baldwin, Doug",
+                  "Marion, Bill",
+                  "Sitaraman, Murali",
+                  "Heeren, Cinda",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Mathematics",
+                  "Computer Science Education",
+                  "Computing Curricula 2001",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BQJ04",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-60558-885-8",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000278805800004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Verifying Component-Based Software: Deep Mathematics or Simple Bookkeeping?",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "31-40",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FORMAL FOUNDATIONS OF REUSE AND DOMAIN ENGINEERING, PROCEEDINGS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5791",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kirschenbaum, Jason",
+                  "Adcock, Bruce",
+                  "Bronish, Derek",
+                  "Smith, Hampton",
+                  "Harton, Heather",
+                  "Sitaraman, Murali",
+                  "Weide, Bruce W.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BPG30",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-04210-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000278805800002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Generating Verified Java Components through RESOLVE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "11-20",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FORMAL FOUNDATIONS OF REUSE AND DOMAIN ENGINEERING, PROCEEDINGS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5791",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Smith, Hampton",
+                  "Harton, Heather",
+                  "Frazier, David",
+                  "Mohan, Raghuveer",
+                  "Sitaraman, Murali",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BPG30",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-04210-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000269212200014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Engaging Students in Specification and Reasoning: "Hands-On" Experimentation and Evaluation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "50-54",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ITICSE 2009: PROCEEDING OF THE 2009 ACM SIGSE ANNUAL CONFERENCE ON INNOVATION AND TECHNOLOGY IN COMPUTER SCIENCE EDUCATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sitaraman, Murali",
+                  "Hallstrom, Jason O.",
+                  "White, Jarred",
+                  "Drachova-Strang, Svetlana",
+                  "Harton, Heather",
+                  "Leonard, Dana",
+                  "Krone, Joan",
+                  "Pak, Rich",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "assertions",
+                  "components",
+                  "mathematical thinking",
+                  "tools",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BKT74",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "*****************",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000260433600006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Incremental Benchmarks for Software Verification Tools and Techniques",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "LECTURE NOTES IN COMPUTER SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "84-98",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VERIFIED SOFTWARE: THEORIES, TOOLS, EXPERIMENTS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5295",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Weide, Bruce W.",
+                  "Sitaraman, Murali",
+                  "Harton, Heather K.",
+                  "Adcock, Bruce",
+                  "Bucci, Paolo",
+                  "Bronish, Derek",
+                  "Heym, Wayne D.",
+                  "Kirschenbaum, Jason",
+                  "Frazier, David",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BIK82",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-540-87872-8",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

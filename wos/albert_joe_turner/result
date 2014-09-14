@@ -1,0 +1,53 @@
+(searchResults){
+   queryId = "73"
+   recordsFound = 1
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000300113500010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "At Home on "These Mean Streets" Collaboration and Community in Walter Mosley's Easy Rawlins Mystery Series",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "109-120",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FINDING A WAY HOME: A CRITICAL ASSESSMENT OF WALTER MOSLEY'S FICTION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Turner, Albert U., Jr.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BYT35",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-60473-335-8",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

@@ -1,0 +1,1228 @@
+(searchResults){
+   queryId = "85"
+   recordsFound = 17
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000318032900059"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "3D Gaze Estimation Based on Facial Feature Tracking",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Proceedings of SPIE",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL CONFERENCE ON GRAPHIC AND IMAGE PROCESSING (ICGIP 2012)",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "8768",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Man, Yi",
+                  "Zhao, Xinbo",
+                  "Zhang, Ke",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "GAZE TRACKING",
+                  "GAZE ESTIMATION",
+                  "HEAD POSE",
+                  "FACIAL FEATURE TRACKING",
+                  "STEREO CAMERAS",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1117/12.2010781",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BET62",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-8194-9566-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0277-786X",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN 87681N",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000320469100085"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An Approach to Extract Straight Lines with Subpixel Accuracy",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "668-675",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTELLIGENT SCIENCE AND INTELLIGENT DATA ENGINEERING, ISCIDE 2011",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "7202",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ma, Zhong",
+                  "Zhao, Xinbo",
+                  "Hou, Yang",
+                  "Man, Yi",
+                  "Wang, Wenhu",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "straight lines extraction",
+                  "subpixel accuracy",
+                  "hough transform",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BFM13",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-31918-1",
+                  "978-3-642-31919-8",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000324412800197"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Robust Background Subtraction Approach with a Moving Camera",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1026-1029",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2012 7TH INTERNATIONAL CONFERENCE ON COMPUTING AND CONVERGENCE TECHNOLOGY (ICCCT2012)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zou, Xiaochun",
+                  "Zhao, Xinbo",
+                  "Chi, Zheru",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Background Subtraction",
+                  "Motion Estimation",
+                  "Panorama Reconstruction",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eisbn"
+               value[] = 
+                  "978-1-4673-0894-6",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGW80",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000324412800198"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Gaze-gesture Interaction or Mobile Phones",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1030-1033",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2012 7TH INTERNATIONAL CONFERENCE ON COMPUTING AND CONVERGENCE TECHNOLOGY (ICCCT2012)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zhao, Xinbo",
+                  "Xie, Huan",
+                  "Zou, Xiaochun",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Eye-tracking",
+                  "Dwell-time",
+                  "Gaze-gesture",
+                  "Prefix code",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eisbn"
+               value[] = 
+                  "978-1-4673-0894-6",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BGW80",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000303072600063"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "E- Business Logistics Development in China: Bottleneck and Countermeasures",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Advances in Intelligent and Soft Computing",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "449-455",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FUTURE COMPUTER, COMMUNICATION, CONTROL AND AUTOMATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "119",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zhao Xinbo",
+                  "Chen Qianqian",
+                  "Bian Fenglian",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "E-business",
+                  "logistics",
+                  "bottleneck",
+                  "countermeasures",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BZV82",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-25537-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1867-5662",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000287493400009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Time Delay Neural Network model for simulating eye gaze data",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "111-126",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF EXPERIMENTAL & THEORETICAL ARTIFICIAL INTELLIGENCE",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "23",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zhang, Yun",
+                  "Zhao, Xiaoyu",
+                  "Fu, Hong",
+                  "Liang, Zhen",
+                  "Chi, Zheru",
+                  "Zhao, Xinbo",
+                  "Feng, Dagan",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "eye movement modelling",
+                  "visual attention model",
+                  "time delayed neural networks",
+                  "oculomotor control",
+                  "coincident probability",
+                  "coincident significance",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1080/0952813X.2010.506298",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "723GA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0952-813X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1080/0952813X.2010.506298",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "PII 933727008",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000312904200170"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Experimental and Numerical Study on a Planar Passive Micromixer with Semicircle Mixing Elements",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE ASME International Conference on Advanced Intelligent Mechatronics",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2010 IEEE/ASME INTERNATIONAL CONFERENCE ON ADVANCED INTELLIGENT MECHATRONICS (AIM)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Xie, Haibo",
+                  "Zhao, Xinbo",
+                  "Yang, Huayong",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BDE01",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-8030-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "2159-6255",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000265880300006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Bone biomechanical and histomorphometrical investment in type 2 diabetic Goto-Kakizaki rats",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "119-126",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ACTA DIABETOLOGICA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "46",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zhang, Liping",
+                  "Liu, Yaping",
+                  "Wang, Dong",
+                  "Zhao, Xinbo",
+                  "Qiu, Zhanjun",
+                  "Ji, Hong",
+                  "Rong, Haiqin",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Type 2 diabetes mellitus",
+                  "GK rat",
+                  "Bone mineral density",
+                  "Bone biomechanics",
+                  "Bone histomorphometry",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s00592-008-0068-1",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "442ZP",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0940-5429",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000274803100138"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Eye Movement Data Modeling Using a Genetic Algorithm",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE Congress on Evolutionary Computation",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1038-1044",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2009 IEEE CONGRESS ON EVOLUTIONARY COMPUTATION, VOLS 1-5",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zhang, Yun",
+                  "Fu, Hong",
+                  "Liang, Zhen",
+                  "Zhao, Xiaoyu",
+                  "Chi, Zheru",
+                  "Feng, Dagan",
+                  "Zhao, Xinbo",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BNK59",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-2958-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/CEC.2009.4983060",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000272211300054"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Super-Resolution from Multiframe X-Ray Images",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "260-265",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2009 ICME INTERNATIONAL CONFERENCE ON COMPLEX MEDICAL ENGINEERING",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ma Zhong",
+                  "Zhao Xinbo",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Dose reduction",
+                  "Super-Resolution",
+                  "registration",
+                  "frequency domain technique",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BMF84",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-3315-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000260081500078"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Changes of bone mineral density and bone biomechanics in type 2 diabetic model of female rats",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "S42-S42",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BONE",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "43",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Liu, Yaping",
+                  "Ji, Hong",
+                  "Rong, Haiqin",
+                  "Zhang, Liping",
+                  "Zhao, Xinbo",
+                  "Qiu, Zhanjun",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.bone.2008.08.014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "360TT",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "8756-3282",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.bone.2008.08.014",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000260081500164"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Bone histomorphometric and biomechanical analyses in Type 2 diabetic Goto-Kakizaki rats",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "S74-S74",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BONE",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "43",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zhang, Liping",
+                  "Liu, Yapping",
+                  "Zhao, Xinbo",
+                  "Qiu, Zhanjun",
+                  "Wang, Dong",
+                  "Ji, Hong",
+                  "Rong, Haiqin",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.bone.2008.08.101",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "360TT",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "8756-3282",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.bone.2008.08.101",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000253799600094"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Changes of bone mineral density and bone biomechanics in type 2 diabetic model of female rats",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "S59-S60",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BONE",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "42",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Liu, Yaping",
+                  "Ji, Hong",
+                  "Rong, Haiqin",
+                  "Zhang, Liping",
+                  "Zhao, Xinbo",
+                  "Qiu, Zhanjun",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.bone.2007.12.104",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "271OX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "8756-3282",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.bone.2007.12.104",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000270675200140"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Design of Eye Tracking System for Real Scene",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "678-681",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PACIIA: 2008 PACIFIC-ASIA WORKSHOP ON COMPUTATIONAL INTELLIGENCE AND INDUSTRIAL APPLICATION, VOLS 1-3, PROCEEDINGS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zhou, Yuan",
+                  "Zhao, Xinbo",
+                  "Zhang, Shasha",
+                  "Zhang, Yun",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BLO48",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-4204-1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000245349600220"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A virtual cutting based method for aero engine turbine blade reverse modeling from its cone beam CT images",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "MATERIALS SCIENCE FORUM",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "877-880",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Advances in Materials Manufacturing Science and Technology II",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "532-533",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Cheng, Yunyong",
+                  "Pu, Kun",
+                  "Liu, Yuanpeng",
+                  "Zhao, Xinbo",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "turbine blade",
+                  "reverse modeling",
+                  "virtual cutting",
+                  "cone beam CT",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BFX87",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-87849-421-7",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0255-5476",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000245349600140"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Subvoxel level short crack simulation and visualization",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "MATERIALS SCIENCE FORUM",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "556-559",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Advances in Materials Manufacturing Science and Technology II",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "532-533",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ao, Bo",
+                  "Zhang, Dinghua",
+                  "Zhao, Xinbo",
+                  "Xu, Xiagang",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "CT (computed tomography)",
+                  "subvoxel",
+                  "linear attenuation coefficient",
+                  "short crack",
+                  "visualization",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BFX87",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-87849-421-7",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0255-5476",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000245349600058"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Research on a novel testing way for collective short cracks by industrial CT",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "MATERIALS SCIENCE FORUM",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "229-232",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Advances in Materials Manufacturing Science and Technology II",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "532-533",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Xu, Xiagang",
+                  "Zhang, Dinghua",
+                  "Zhao, Xinbo",
+                  "Ao, Bo",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "industrial CT",
+                  "image density field",
+                  "short fatigue crack",
+                  "life prediction",
+                  "crack propagation",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BFX87",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-87849-421-7",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0255-5476",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

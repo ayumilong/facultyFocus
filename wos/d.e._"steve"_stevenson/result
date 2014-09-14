@@ -1,0 +1,6277 @@
+(searchResults){
+   queryId = "68"
+   recordsFound = 113
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000331154100008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "What Can We Learn From Seventh Graders?",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "66-68",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN-FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTING IN SCIENCE & ENGINEERING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "16",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stevenson, D. E.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1558-366X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AA5QG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1521-9615",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "ZOOREC:ZOOR14901003515"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Biodiversity and biogeography of Sakhalin Island.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Flora and fauna of the North-West Pacific Islands. (Materials of International Kuril Island and International Sakhalin Island Projects).",
+                  "[Rastitelnyi i zhivotnyi mir ostrovov severno-zapadnoi chasti Tikhogo Okeana (Materialy Mezhdunarodnogo kurilskogo i Mezhdunarodnogo sakhalinskogo proektov).]",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "11-78",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Pietsch, T.W.",
+                  "Bogatov, V.V.",
+                  "Storozhenko, S. Yu.",
+                  "Lelej, A.S.",
+                  "Barkalov, V.Yu.",
+                  "Takahashi, H.",
+                  "Joneson, S.L.",
+                  "Kholin, S.K.",
+                  "Glew, K.A.",
+                  "Harpel, J.A.",
+                  "Krestov, P.V.",
+                  "Makarchenko, E.A.",
+                  "Minakawa, N.",
+                  "Ohara, M.",
+                  "Bennett, D.J.",
+                  "Anderson, T.R.",
+                  "Crawford, R.L.",
+                  "Prozorova, L.A.",
+                  "Kuwahara, Y.",
+                  "Shedko, S.V.",
+                  "Yabe, M.",
+                  "Woods, P.J.",
+                  "Stevenson, D.E.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-5-8044-1296-9",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000281141300096"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Empirical Evidence for the Existence and Uses of Metacognition in Computer Science Problem Solving",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "416-420",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SIGCSE 10: PROCEEDINGS OF THE 41ST ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE EDUCATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Parham, Jennifer",
+                  "Gugerty, Leo",
+                  "Stevenson, D. E.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "computer science education",
+                  "problem solving",
+                  "metacognition",
+                  "schemata",
+                  "cognitive processing",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BQJ04",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-60558-885-8",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000267286400010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Models as Arguments: An Approach to Computational Science Education",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "84-92",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTATIONAL SCIENCE - ICCS 2009",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5545",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stevenson, D. E.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJV96",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-01972-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000251371800004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Polyphenolic phytochemicals - just antioxidants or much more?",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "22",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2900-2916",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CELLULAR AND MOLECULAR LIFE SCIENCES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "64",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stevenson, D. E.",
+                  "Hurst, R. D.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "polyphenolic",
+                  "flavonoid",
+                  "phenolic acid",
+                  "antioxidant",
+                  "prooxidant",
+                  "cancer",
+                  "cardiovascular disease",
+                  "inflammation",
+                  "gene transcription",
+                  "enzyme induction",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Hurst, Roger",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "B-9460-2014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s00018-007-7237-1",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "237KE",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1420-682X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/s00018-007-7237-1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200700465922"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The osteology of Eucyclogobius newberryi and Quietula guaymasiae (Teleostei : Gobiidae), two closely related Gobionellines from the East Pacific",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5-6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "13-56",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Annalen des Naturhistorischen Museums in Wien Serie B Botanik und Zoologie",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "108",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kindermann, G.",
+                  "Miljkovic, N.",
+                  "Ahnelt, H.",
+                  "Stevenson, D. E.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0255-0105",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000243329100010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DNA-based identification of Alaska skates (Amblyraja, Bathyraja and Raja : Rajidae) using cytochrome c oxidase subunit I (coI) variation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "283-292",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF FISH BIOLOGY",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "B",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "69",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Spies, I. B.",
+                  "Gaichas, S.",
+                  "Stevenson, D. E.",
+                  "Orr, J. W.",
+                  "Canino, M. F.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "coI",
+                  "cytochrome c oxidase subunit I",
+                  "DNA barcode",
+                  "mitochondrial DNA",
+                  "species identification",
+                  "skates",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1111/j.1095-8649.2006.01286.x",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "123XB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1112",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1111/j.1095-8649.2006.01286.x",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "ZOOREC:ZOOR14009049287"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Identification of skates, sculpins, and smelts by observers in North Pacific groundfish fisheries (2002-2003).",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "i-vii, 1-67",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2004",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "NOAA Technical Memorandum NMFS-AFSC",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "142",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stevenson, D.E.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000187837000006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Pecan nut casebearer pheromone monitoring and degree-day model validation across the pecan belt",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "57-73",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2003",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SOUTHWESTERN ENTOMOLOGIST",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "27",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stevenson, DE",
+                  "Knutson, AE",
+                  "Ree, W",
+                  "Jackman, JA",
+                  "Dean, A",
+                  "Matis, JH",
+                  "McVay, J",
+                  "Nesbitt, M",
+                  "Mizell, R",
+                  "Dutcher, J",
+                  "Reid, W",
+                  "Hall, M",
+                  "Barlow, D",
+                  "Smith, MT",
+                  "Mulder, P",
+                  "Smith, MW",
+                  "Millar, JG",
+                  "Harris, MK",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "760MG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0147-1724",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000166592600005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Comparative effects of dieldrin on hepatic ploidy, cell proliferation, and apoptosis in rodent liver",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "127-141",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2001",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A-CURRENT ISSUES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "62",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kamendulis, LM",
+                  "Kolaja, KL",
+                  "Stevenson, DE",
+                  "Walborg, EF",
+                  "Klaunig, JE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1087-2620",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "395QQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1528-7394",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1080/009841001455535",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000088942500010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Are calories responsible for a decline in longevity?",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "348-350",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2000",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "HUMAN & EXPERIMENTAL TOXICOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "19",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stevenson, DE",
+                  "Sielken, RL",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "347RG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0144-5952",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1191/096032700678816061",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000084295700007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Cancer dose-response modeling of epidemiological data on worker exposures to aldrin and dieldrin",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1101-1111",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "RISK ANALYSIS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "19",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sielken, RL",
+                  "Bretzlaff, RS",
+                  "Valdez-Flores, C",
+                  "Stevenson, DE",
+                  "de Jong, G",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "aldrin",
+                  "dieldrin",
+                  "epidemiology",
+                  "occupational exposure",
+                  "cancer dose-response modeling",
+                  "proportional hazards",
+                  "hormesis",
+                  "distributional characterizations of added cancer risk",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "266HZ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0272-4332",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1111/j.1539-6924.1999.tb01131.x",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000083318800001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Monograph: Reassessment of human cancer risk of aldrin/dieldrin",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "123-186",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT 5",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TOXICOLOGY LETTERS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "109",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stevenson, DE",
+                  "Walborg, EF",
+                  "North, DW",
+                  "Sielken, RL",
+                  "Ross, CE",
+                  "Wright, AS",
+                  "Xu, Y",
+                  "Kamendulis, LM",
+                  "Klaunig, JE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "aldrin",
+                  "dieldrin",
+                  "organochlorine insecticides",
+                  "hepatocarcinogenesis",
+                  "mouse liver tumors",
+                  "epidemiology",
+                  "mode of action",
+                  "mechanism of action",
+                  "oxidative stress",
+                  "antioxidant defense",
+                  "human cancer risk",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "249EA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0378-4274",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0378-4274(99)00132-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000078753200008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Agars from three Fijian Gracilaria species",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "51-59",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BOTANICA MARINA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "42",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Falshaw, R",
+                  "Furneaux, RH",
+                  "Pickering, TD",
+                  "Stevenson, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "169MT",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-8055",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1515/BOT.1999.008",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000074607800010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Role of oxidative stress in the selective toxicity of dieldrin in the mouse liver",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "301-309",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1998",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TOXICOLOGY AND APPLIED PHARMACOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "150",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bachowski, S",
+                  "Xu, Y",
+                  "Stevenson, DE",
+                  "Walborg, EF",
+                  "Klaunig, JE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "antioxidants",
+                  "oxidative stress",
+                  "rat",
+                  "mouse",
+                  "liver",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "ZY315",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0041-008X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1006/taap.1998.8372",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000074427600007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Some implications for quantitative risk assessment if hormesis exists",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "259-262",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1998",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "HUMAN & EXPERIMENTAL TOXICOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "17",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sielken, RL",
+                  "Stevenson, DE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "hormesis",
+                  "dose-response modeling",
+                  "experimental designs",
+                  "dose scales",
+                  "exposure assessment",
+                  "risk characterization",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "ZW595",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0144-5952",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1191/096032798678908710",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000072777300004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Vitamin E modulation of dieldrin-induced hepatic focal lesion growth in mice",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "479-492",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 27",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1998",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART A",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "53",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kolaja, KL",
+                  "Xu, Y",
+                  "Walborg, EF",
+                  "Stevenson, DE",
+                  "Klaunig, JE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "ZE291",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0098-4108",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000075403700028"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Modeling to incorporate defense mechanisms into the estimation of dose responses",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "341-348",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1998",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL HEALTH PERSPECTIVES",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "106",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sielken, RL",
+                  "Stevenson, DE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "defense mechanisms",
+                  "biologically effective dose",
+                  "biologically based dose-response models",
+                  "age dependence",
+                  "cancer and noncancer effects",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "110WC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0091-6765",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.2307/3433936",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000075403700021"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The role of oxidative stress in chemical carcinogenesis",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "289-295",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1998",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL HEALTH PERSPECTIVES",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "106",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Klaunig, JE",
+                  "Xu, Y",
+                  "Isenberg, JS",
+                  "Bachowski, S",
+                  "Kolaja, KL",
+                  "Jiang, JZ",
+                  "Stevenson, DE",
+                  "Walborg, EF",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "liver",
+                  "chemical carcinogenesis",
+                  "oxidative stress",
+                  "free radical oxygen",
+                  "dieldrin",
+                  "mouse liver carcinogenesis",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "110WC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0091-6765",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.2307/3433929",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "ZOOREC:ZOOR13700044289"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Stock identification in Nassau grouper, Epinephelus striatus, using microsatellite DNA analysis.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "727-749",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1998",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Proceedings of the Gulf and Caribbean Fisheries Institute",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "50",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stevenson, D.E.",
+                  "Chapman, R.W.",
+                  "Sedberry, G.R.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0361-2953",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1997WX12100005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Role of oxidative stress in the mechanism of dieldrin's hepatotoxicity",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "196-209",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY-JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ANNALS OF CLINICAL AND LABORATORY SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "27",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bachowski, S",
+                  "Kolaja, KL",
+                  "Ketcham, CA",
+                  "Stevenson, DE",
+                  "Walborg, EF",
+                  "Klaunig, JE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "WX121",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0091-7370",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996UY14400002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Reversibility of promoter induced hepatic focal lesion growth in mice",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1403-1409",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CARCINOGENESIS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "17",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kolaja, KL",
+                  "Stevenson, DE",
+                  "Walborg, EF",
+                  "Klaunig, JE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "UY144",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0143-3334",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1093/carcin/17.7.1403",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996UT60500007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Selective dieldrin promotion of hepatic focal lesions in mice",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1243-1250",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CARCINOGENESIS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "17",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kolaja, KL",
+                  "Stevenson, DE",
+                  "Walborg, EF",
+                  "Klaunig, JE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "UT605",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0143-3334",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1093/carcin/17.6.1243",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996UL75000008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Dose dependence of phenobarbital promotion of preneoplastic hepatic lesions in F344 rats and B6C3F1 mice: Effects on DNA synthesis and apoptosis",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "947-954",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CARCINOGENESIS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "17",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kolaja, KL",
+                  "Stevenson, DE",
+                  "Walborg, EF",
+                  "Klaunig, JE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "UL750",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0143-3334",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1093/carcin/17.5.947",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996UJ26600013"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Synthesis of allyl beta-D-galactopyranoside from lactose using Streptococcus thermophilus beta-D-galactosidase",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "279-283",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR 30",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CARBOHYDRATE RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "284",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stevenson, DE",
+                  "Furneaux, RH",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "beta-D-galactosidase",
+                  "allyl galactoside",
+                  "enzymic synthesis",
+                  "transglycosylation",
+                  "lactose",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "UJ266",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0008-6215",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0008-6215(96)00027-4",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996TX20600009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Subchronic effects of dieldrin and phenobarbital on hepatic DNA synthesis in mice and rats",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "219-228",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FUNDAMENTAL AND APPLIED TOXICOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kolaja, KL",
+                  "Stevenson, DE",
+                  "Johnson, JT",
+                  "Walborg, EF",
+                  "Klaunig, JE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "TX206",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0272-0590",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1006/faat.1996.0025",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1995TU51400098"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Oxidative stress in nongenotoxic carcinogenesis",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "683-691",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TOXICOLOGY LETTERS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "82-3",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Klaunig, JE",
+                  "Xu, Y",
+                  "Bachowski, S",
+                  "Ketcham, CA",
+                  "Isenberg, JS",
+                  "Kolaja, KL",
+                  "Baker, TK",
+                  "Walborg, EF",
+                  "Stevenson, DE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "oxidative stress",
+                  "nongenotoxic carcinogenesis",
+                  "dieldrin",
+                  "vitamin E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "TU514",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0378-4274",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0378-4274(95)03514-1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1995QY86300014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "CHALLENGES TO DEFAULT ASSUMPTIONS STIMULATE COMPREHENSIVE REALISM AS A NEW TIER IN QUANTITATIVE CANCER RISK ASSESSMENT",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "270-280",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "REGULATORY TOXICOLOGY AND PHARMACOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "21",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SIELKEN, RL",
+                  "BRETZLAFF, RS",
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "QY863",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0273-2300",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1006/rtph.1995.1041",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:8532730"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The potential role of oxidative stress in nongenotoxic carcinogenesis in the mouse liver.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "385-96",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Progress in clinical and biological research",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "391",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Bachowski, S",
+                  "Xu, Y",
+                  "Baker, T K",
+                  "Stevenson, D E",
+                  "Walborg, E F Jr",
+                  "Klaunig, J E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0361-7742",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:8532726"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The species specificity of dieldrin- or phenobarbital- induced hepatocarcinogenesis: case studies with implications for human health risk assessment.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "337-45",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Progress in clinical and biological research",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "391",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stevenson, D E",
+                  "Walborg, E F Jr",
+                  "Klaunig, J E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0361-7742",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:8532736"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Incorporating the concept of 'invaders' and 'defenders' in the dose-response modeling of carcinogens.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "445-51",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Progress in clinical and biological research",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "391",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stevenson, D E",
+                  "Sielken, R L Jr",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0361-7742",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:8532738"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Modulation of gap junctional intercellular communication in rodent, monkey and human hepatocyte by nongenotoxic compounds.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "71-80",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Progress in clinical and biological research",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "391",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Baker, T K",
+                  "Bachowski, S",
+                  "Stevenson, D E",
+                  "Walborg, E F Jr",
+                  "Klaunig, J E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0361-7742",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1995QG73900020"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "EFFECT OF DIETARY ANTIOXIDANTS ON DIELDRIN-INDUCED HEPATOTOXICITY IN MICE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "177-183",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TOXICOLOGY LETTERS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "75",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "KEHRER, JP",
+                  "KOLAJA, KL",
+                  "WALBORG, EF",
+                  "KLAUNIG, JE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "DIELDRIN",
+                  "B6C3F(1) MICE",
+                  "HEPATOTOXICITY",
+                  "OXIDATIVE STRESS",
+                  "DIETARY ANTIOXIDANTS",
+                  "DNA SYNTHESIS",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "QG739",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0378-4274",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0378-4274(94)03178-A",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:8532733"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The effect of dieldrin and phenobarbital on preneoplastic hepatic lesion growth in male F344 rat and B6C3F1 mouse.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "409-23",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Progress in clinical and biological research",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "391",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kolaja, K L",
+                  "Stevenson, D E",
+                  "Walborg, E F Jr",
+                  "Klaunig, J E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0361-7742",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:8532732"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Hepatic effects of dieldrin and phenobarbital in male B6C3F1 mice and Fisher 344 rats: species selective induction of DNA synthesis.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "397-408",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Progress in clinical and biological research",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "391",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Kolaja, K L",
+                  "Stevenson, D E",
+                  "Johnson, J T",
+                  "Walborg, E F Jr",
+                  "Klaunig, J E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0361-7742",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1994ND26900016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SYNTHESIS OF 2-FLUOROETHYL-BETA-D-GALACTOPYRANOSIDE AND 2-FLUOROETHYL-6-O-BETA-D-GALACTOPYRANOSYL-BETA-D-GALACTOPYRANOSIDE FROM LACTOSE USING BETA-D-GALACTOSIDASE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "185-188",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 18",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1994",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CARBOHYDRATE RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "256",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "WOOLHOUSE, AD",
+                  "FURNEAUX, RH",
+                  "BATCHELER, D",
+                  "EASON, CT",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "ND269",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0008-6215",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0008-6215(94)84237-X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1994MW41000009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ANOTHER FLAW IN THE LINEARIZED MULTISTAGE MODEL UPPER-BOUNDS ON HUMAN CANCER POTENCY",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "106-114",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1994",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "REGULATORY TOXICOLOGY AND PHARMACOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "19",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SIELKEN, RL",
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "MW410",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0273-2300",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1006/rtph.1994.1009",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1994BB21L00015"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "INCORPORATING ADDITIONAL BIOLOGICAL PHENOMENA INTO 2-STAGE CANCER MODELS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "PROGRESS IN CLINICAL AND BIOLOGICAL RESEARCH",
+            },
+            (labelValuesPair){
+               label = "BookSubtitle"
+               value[] = 
+                  "IMPLICATIONS FOR EVALUATING CARCINOGENESIS",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "237-260",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1994",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "RECEPTOR-MEDIATED BIOLOGICAL PROCESSES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "387",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SIELKEN, RL",
+                  "BRETZLAFF, RS",
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BB21L",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-471-02045-1",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0361-7742",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:7764501"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Enzyme technology at Industrial Research Ltd.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "337-8",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1993",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Australasian biotechnology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "3",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stevenson, D E",
+                  "Marshall, S N",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1036-7128",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1993LN59800013"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "OPTIMIZATION OF ALKYL BETA-D-GALACTOPYRANOSIDE SYNTHESIS FROM LACTOSE USING COMMERCIALLY AVAILABLE BETA-GALACTOSIDASES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "657-666",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 20",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1993",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOTECHNOLOGY AND BIOENGINEERING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "42",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "STANLEY, RA",
+                  "FURNEAUX, RH",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "BETA-GALACTOSIDASE",
+                  "LACTOSE",
+                  "BETA-GALACTOPYRANOSIDE",
+                  "SYNTHESIS",
+                  "ORGANIC SOLVENT",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Stanley, Roger",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "A-9226-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "LN598",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-3592",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1002/bit.260420514",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1993KV56200001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "6TH ASPEN CANCER CONFERENCE - MOLECULAR MECHANISMS OF GENETIC DEREGULATION IN TOXICITY AND CARCINOGENESIS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "67-72",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1993",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MOLECULAR CARCINOGENESIS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "7",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "TENNANT, RW",
+                  "HARRIS, CC",
+                  "KAUFMAN, DG",
+                  "NESNOW, S",
+                  "SLAGA, TJ",
+                  "STEVENSON, DE",
+                  "TRUMP, BF",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "KV562",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0899-1987",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1992HW50900007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "MECHANISTIC AND STRUCTURAL STUDIES ON RHODOCOCCUS ATCC-39484 NITRILASE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "283-302",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1992",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOTECHNOLOGY AND APPLIED BIOCHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "15",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "FENG, R",
+                  "DUMAS, F",
+                  "GROLEAU, D",
+                  "MIHOC, A",
+                  "STORER, AC",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "HW509",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0885-4513",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199243075992"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "EVALUATION OF SUSTAINED HYPERPLASIA AND OTHER SHORT-TERM TESTS AS PREDICTORS OF TUMORIGENIC POTENTIAL IN OIL PRODUCTS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "D'AMATO, R., ET AL. (ED.). PROGRESS IN CLINICAL AND BIOLOGICAL RESEARCH, VOL. 374. RELEVANCE OF ANIMAL STUDIES TO THE EVALUATION OF HUMAN CANCER RISK; SYMPOSIUM, AUSTIN, TEXAS, USA; DECEMBER 5-8, 1990. XXIII+457P. WILEY-LISS, INC.: NEW YORK, NEW YORK, USA; CHICHESTER, ENGLAND, UK. ILLUS",
+                  "Progress in Clinical and Biological Research",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "351-366",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1992",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "DARMER K I JR",
+                  "DIGIOVANNI J",
+                  "STEVENSON D E",
+                  "GILL R D",
+                  "EWING M W",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-471-56183-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199243075989"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "COMPARISONS OF HUMAN CANCER POTENCY PROJECTIONS FOR DIELDRIN BASED ON HUMAN DATA WITH THOSE BASED ON ANIMAL DATA",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "D'AMATO, R., ET AL. (ED.). PROGRESS IN CLINICAL AND BIOLOGICAL RESEARCH, VOL. 374. RELEVANCE OF ANIMAL STUDIES TO THE EVALUATION OF HUMAN CANCER RISK; SYMPOSIUM, AUSTIN, TEXAS, USA; DECEMBER 5-8, 1990. XXIII+457P. WILEY-LISS, INC.: NEW YORK, NEW YORK, USA; CHICHESTER, ENGLAND, UK. ILLUS",
+                  "Progress in Clinical and Biological Research",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "295-319",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1992",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SIELKEN R L JR",
+                  "STEVENSON D E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-471-56183-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1992BX61Z00020"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "COMPARISONS OF HUMAN CANCER POTENCY PROJECTIONS FOR DIELDRIN BASED ON HUMAN DATA WITH THOSE BASED ON ANIMAL DATA",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "PROGRESS IN CLINICAL AND BIOLOGICAL RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "295-319",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1992",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "RELEVANCE OF ANIMAL STUDIES TO THE EVALUATION OF HUMAN CANCER RISK",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "374",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SIELKEN, RL",
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BX61Z",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-471-56183-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0361-7742",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1992BX61Z00023"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "EVALUATION OF SUSTAINED HYPERPLASIA AND OTHER SHORT-TERM TESTS AS PREDICTORS OF TUMORIGENIC POTENTIAL IN OIL PRODUCTS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "PROGRESS IN CLINICAL AND BIOLOGICAL RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "351-366",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1992",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "RELEVANCE OF ANIMAL STUDIES TO THE EVALUATION OF HUMAN CANCER RISK",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "374",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "DARMER, KI",
+                  "DIGIOVANNI, J",
+                  "STEVENSON, DE",
+                  "GILL, RD",
+                  "EWING, MW",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BX61Z",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-471-56183-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0361-7742",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1991EZ13500004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "PAPAIN IN ORGANIC-SOLVENTS - DETERMINATION OF CONDITIONS SUITABLE FOR BIOCATALYSIS AND THE EFFECT ON SUBSTRATE-SPECIFICITY AND INHIBITION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "519-527",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1991",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOTECHNOLOGY AND BIOENGINEERING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "37",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "STORER, AC",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "PAPAIN",
+                  "ORGANIC SOLVENT",
+                  "ESTER SYNTHESIS",
+                  "ENZYME INACTIVATION",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "EZ135",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-3592",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1002/bit.260370605",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1990EP60600028"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DETECTION OF COVALENT ENZYME-SUBSTRATE COMPLEXES OF NITRILASE BY ION-SPRAY MASS-SPECTROSCOPY",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "112-114",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC 17",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FEBS LETTERS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "277",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "FENG, R",
+                  "STORER, AC",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "NITRILASE",
+                  "MASS SPECTROSCOPY",
+                  "NITRILE HYDROLYSIS",
+                  "COVALENT CATALYSIS",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "EP606",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0014-5793",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0014-5793(90)80821-Y",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1990DV41700014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "FERN L-METHIONINE DECARBOXYLASE - KINETICS AND MECHANISM OF DECARBOXYLATION AND ABORTIVE TRANSAMINATION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "33",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "7648-7660",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 21",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOCHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "AKHTAR, M",
+                  "STEVENSON, DE",
+                  "GANI, D",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "DV417",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-2960",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/bi00485a014",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1990DV41700013"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "L-METHIONINE DECARBOXYLASE FROM DRYOPTERIS-FILIX-MAS - PURIFICATION, CHARACTERIZATION, SUBSTRATE-SPECIFICITY, ABORTIVE TRANSAMINATION OF THE COENZYME, AND STEREOCHEMICAL COURSES OF SUBSTRATE DECARBOXYLATION AND COENZYME TRANSAMINATION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "33",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "7631-7647",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 21",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOCHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "AKHTAR, M",
+                  "GANI, D",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "DV417",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-2960",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/bi00485a013",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1990DV41700015"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "STREPTOMYCES L-METHIONINE DECARBOXYLASE - PURIFICATION AND PROPERTIES OF THE ENZYME AND STEREOCHEMICAL COURSE OF SUBSTRATE DECARBOXYLATION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "33",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "7660-7666",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 21",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BIOCHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "AKHTAR, M",
+                  "GANI, D",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "DV417",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-2960",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/bi00485a015",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199090110100"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "STREPTOMYCES L METHIONINE DECARBOXYLASE PURIFICATION AND PROPERTIES OF THE ENZYME AND STEREOCHEMICAL COURSE OF SUBSTRATE DECARBOXYLATION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "33",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "7660-7666",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Biochemistry",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON D E",
+                  "AKHTAR M",
+                  "GANI D",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-2960",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199039026480"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ORGANOCHLORINE INSECTICIDES AND MOUSE LIVER TUMORS AN ANALYSIS OF RESPONSES AND MECHANISMS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "STEVENSON, D. E., ET AL. (ED.). PROGRESS IN CLINICAL AND BIOLOGICAL RESEARCH, VOL. 331. MOUSE LIVER CARCINOGENESIS: MECHANISMS AND SPECIES COMPARISONS; SYMPOSIUM, AUSTIN, TEXAS, USA, NOVEMBER 30-DECEMBER 3, 1988. XIX+444P. WILEY-LISS, NEW YORK, NEW YORK, USA. ILLUS",
+                  "Progress in Clinical and Biological Research",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "367-384",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON D E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-471-56695-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199039026458"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SOME OBSERVATIONS ON MOUSE LIVER TUMORS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "STEVENSON, D. E., ET AL. (ED.). PROGRESS IN CLINICAL AND BIOLOGICAL RESEARCH, VOL. 331. MOUSE LIVER CARCINOGENESIS: MECHANISMS AND SPECIES COMPARISONS; SYMPOSIUM, AUSTIN, TEXAS, USA, NOVEMBER 30-DECEMBER 3, 1988. XIX+444P. WILEY-LISS, NEW YORK, NEW YORK, USA. ILLUS",
+                  "Progress in Clinical and Biological Research",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "43-52",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON D E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-471-56695-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1990BQ82Y00004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SOME OBSERVATIONS ON MOUSE-LIVER TUMORS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "PROGRESS IN CLINICAL AND BIOLOGICAL RESEARCH",
+            },
+            (labelValuesPair){
+               label = "BookSubtitle"
+               value[] = 
+                  "MECHANISMS AND SPECIES COMPARISONS",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "43-51",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MOUSE LIVER CARCINOGENESIS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "331",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BQ82Y",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-471-56695-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1990BQ82Y00026"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ORGANOCHLORINE INSECTICIDES AND MOUSE-LIVER TUMORS - AN ANALYSIS OF RESPONSES AND MECHANISMS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "PROGRESS IN CLINICAL AND BIOLOGICAL RESEARCH",
+            },
+            (labelValuesPair){
+               label = "BookSubtitle"
+               value[] = 
+                  "MECHANISMS AND SPECIES COMPARISONS",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "367-383",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MOUSE LIVER CARCINOGENESIS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "331",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BQ82Y",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-471-56695-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199090115501"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "L METHIONINE DECARBOXYLASE FROM DRYOPTERIS-FILIX-MAS PURIFICATION CHARACTERIZATION SUBSTRATE SPECIFICITY ABORTIVE TRANSAMINATION OF THE COENZYME AND STEREOCHEMICAL COURSES OF SUBSTRATE DECARBOXYLATION AND COENZYME TRANSAMINATION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "33",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "7631-7647",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Biochemistry",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON D E",
+                  "AKHTAR M",
+                  "GANI D",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0006-2960",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199039026454"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "PROGRESS IN CLINICAL AND BIOLOGICAL RESEARCH VOL. 331. MOUSE LIVER CARCINOGENESIS MECHANISMS AND SPECIES COMPARISONS SYMPOSIUM AUSTIN TEXAS USA NOVEMBER 30-DECEMBER 3 1988",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "STEVENSON, D. E., ET AL. (ED.). PROGRESS IN CLINICAL AND BIOLOGICAL RESEARCH, VOL. 331. MOUSE LIVER CARCINOGENESIS: MECHANISMS AND SPECIES COMPARISONS; SYMPOSIUM, AUSTIN, TEXAS, USA, NOVEMBER 30-DECEMBER 3, 1988. XIX+444P. WILEY-LISS, NEW YORK, NEW YORK, USA. ILLUS",
+                  "Progress in Clinical and Biological Research",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "XIX+444P",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON D E",
+                  "ET AL",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-471-56695-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1989T662400009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "IARC AND HHS LISTS OF CARCINOGENS - REGULATORY USE BASED ON MISUNDERSTANDING OF THE SCOPE AND PURPOSE OF THE LISTS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "81-97",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1989",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "REGULATORY TOXICOLOGY AND PHARMACOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "9",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "BARNARD, RC",
+                  "MOOLENAAR, RJ",
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "T6624",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0273-2300",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0273-2300(89)90047-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1988R388300014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "POLICY PRINCIPLES FOR UTILIZING SCIENCE IN DECISION-MAKING ON CHRONIC HEALTH ISSUES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "487-492",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1988",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "REGULATORY TOXICOLOGY AND PHARMACOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "8",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "HOERGER, F",
+                  "PLAUT, JA",
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "R3883",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0273-2300",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0273-2300(88)90048-7",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1988P354500066"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "MECHANISTIC CONSIDERATION OF P-450 DEPENDENT ENZYMIC REACTIONS - STUDIES ON ESTRIOL BIOSYNTHESIS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2043-2052",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1988",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF THE CHEMICAL SOCIETY-PERKIN TRANSACTIONS 1",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "WRIGHT, JN",
+                  "AKHTAR, M",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "P3545",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0300-922X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1039/p19880002043",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1986E828300031"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "STRUCTURAL AND STEREOCHEMICAL STUDIES OF METHIONINE DECARBOXYLASE FROM DRYOPTERIS FELIX-MAS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "46",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "5661-5664",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1986",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TETRAHEDRON LETTERS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "27",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "AKHTAR, M",
+                  "GANI, D",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "E8283",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0040-4039",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0040-4039(00)85294-6",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1985ATW3100017"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "INTESTINAL ALKALINE-PHOSPHATASE ACTIVITY IN RELATION TO AGE IN HUMANS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "954-959",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1985",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF PEDIATRIC GASTROENTEROLOGY AND NUTRITION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "4",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WELSH, JD",
+                  "STEVENSON, DE",
+                  "POLEY, JR",
+                  "WALKER, AW",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "ATW31",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0277-2116",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1097/00005176-198512000-00017",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV198529104926"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "AN INDUSTRIAL PERSPECTIVE ON TESTING FOR CARCINOGENICITY",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "MILMAN, H. A. AND E. K. WEISBURGER (ED.). HANDBOOK OF CARCINOGEN TESTING. XXXIV+637P. NOYES PUBLICATIONS: PARK RIDGE, N.J., USA. ILLUS",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "608-624",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1985",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON D E",
+                  "DEISLER P F JR",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-8155-1035-7",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1984SN11100004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "BIOBELL - A SIMULATION SYSTEM FOR BIOCHEMISTRY AND BIOPHYSICS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "35-46",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1984",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTERS IN BIOLOGY AND MEDICINE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "14",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "WARNER, DD",
+                  "BROWN, TR",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "SN111",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0010-4825",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0010-4825(84)90018-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV19644500015582"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A note on the toxicity and solvent properties of dimethyl sulphoxide",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "(10)",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "688-692",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1983",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOUR PHARM AND PHARMACOL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "15",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "BROWN, V. K.",
+                  "ROBINSON, J.",
+                  "STEVENSON, D. E.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV198121042888"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DATA COLLECTION RECORD KEEPING AND REPORTING RESULTS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "GRALLA, E. J. SCIENTIFIC CONSIDERATIONS IN MONITORING AND EVALUATING TOXICOLOGICAL RESEARCH. XVII+221P. HEMISPHERE PUBLISHING CORPORATION: WASHINGTON, D.C., USA; LONDON, ENGLAND. ILLUS",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "P137-146",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1981",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON D E",
+                  "UNGER T W",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-89116-209-7",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1981LR97900002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SURVIVORSHIP IN THE ENDANGERED GRAY BAT (MYOTIS-GRISESCENS)",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "244-257",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1981",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF MAMMALOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "62",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "TUTTLE, MD",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "LR979",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-2372",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.2307/1380702",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1979GJ16200004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "CURRENT PROBLEMS IN THE CHOICE OF ANIMALS FOR TOXICITY TESTING",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "9-15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1979",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "GJ162",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0098-4108",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1978FW65600013"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "INTESTINAL DISACCHARIDASE ACTIVITIES IN RELATION TO AGE, RACE, AND MUCOSAL DAMAGE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "847-855",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1978",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "GASTROENTEROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "75",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WELSH, JD",
+                  "POLEY, JR",
+                  "BHATIA, M",
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "FW656",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0016-5085",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV197916031857"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "THE PREDICTIVE VALUE OR OTHERWISE OF CONVENTIONAL CARCINOGENICITY STUDIES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "DAYAN, A. D. AND R. W. BRIMBLECOMBE (ED.). CARCINOGENICITY TESTING: PRINCIPLES AND PROBLEMS. PROCEEDINGS OF A SYMPOSIUM. LONDON, ENGLAND, DEC. 2, 1977. XI+128P. ILLUS. UNIVERSITY PARK PRESS: BALTIMORE, MD., USA. ISBN 0-8391-1283-1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "19-26",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1978",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON D E",
+                  "THORPE E",
+                  "HUNT P F",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1978FL51900262"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ANALYTICAL STUDIES ON INVITRO EFFECTS OF CHEMICALS ON RIBOSOME-MEMBRANE INTERACTIONS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "324-324",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1978",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TOXICOLOGY AND APPLIED PHARMACOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "45",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "PROSPERO, TD",
+                  "LOOSE, RW",
+                  "STEVENSON, DE",
+                  "WRIGHT, AS",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "FL519",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0041-008X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1978FH51700050"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "PROTECTIVE ACTION OF GLUTATHIONE AGAINST BACTERIAL MUTAGENICITY OF CIS-1, 3-DICHLOROPROPENE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "154-154",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1978",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PHARMACOLOGIST",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "20",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "DEAN, BJ",
+                  "HUDSON, DH",
+                  "WRIGHT, AS",
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "FH517",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0031-7004",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1978FL51900132"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "USE OF BIOCHEMICAL MARKERS IN STUDY OF CHEMICALLY-INDUCED PERIPHERAL NEUROPATHY",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "268-268",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1978",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TOXICOLOGY AND APPLIED PHARMACOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "45",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "DEWAR, AJ",
+                  "MOFFETT, BJ",
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "FL519",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0041-008X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1977DG46500031"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "TOXIC FLUORINATED COMPOUNDS AS BY-PRODUCTS OF CERTAIN BF3-CATALYZED INDUSTRIAL PROCESSES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5609",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "335-335",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1977",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "NATURE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "267",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "BEDFORD, CT",
+                  "BLAIR, D",
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "DG465",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0028-0836",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1038/267335a0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1977CW34200026"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ANALYSIS OF MIGRATION AS A MORTALITY FACTOR IN GRAY BAT BASED ON PUBLIC RECOVERIES OF BANDED BATS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "235-240",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1977",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "AMERICAN MIDLAND NATURALIST",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "97",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "TUTTLE, MD",
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "CW342",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0003-0031",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.2307/2424704",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV197814028744"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "MOLECULAR STUDIES ON THE THRESHOLDS FOR THE INDUCTION OF MUTAGENIC EFFECTS IN MAMMALS BY A MODEL ALKYLATING AGENT METHYL METHANESULFONATE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "BURFORD, R. G. INTERNATIONAL CONGRESS ON TOXICOLOGY. ABSTRACTS. TORONTO, ONTARIO, CANADA. 52P. INTERNATIONAL CONGRESS ON TOXICOLOGY: TORONTO, ONTARIO, CANADA",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1977",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "VAN SITTERT N J",
+                  "WOODER M F",
+                  "DEAN B J",
+                  "WRIGHT A S",
+                  "STEVENSON D E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV197916006130"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "QUALITY CONTROL IN AN INDUSTRIAL LABORATORY",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "PAGET, GEORGE E. (ED.). QUALITY CONTROL IN TOXICOLOGY. XIII+128P. UNIVERSITY PARK PRESS: BALTIMORE, MD., USA. ISBN 0-8391-1149-5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "55-65",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1977",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON D E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV197814028743"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "STUDIES ON THE IN-VIVO REACTIVITY OF METHYLATING AGENTS FOR MAMMALIAN DNA IN RELATION TO THE ASSESSMENT OF GENETIC RISK",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "BURFORD, R. G. INTERNATIONAL CONGRESS ON TOXICOLOGY. ABSTRACTS. TORONTO, ONTARIO, CANADA. 52P. INTERNATIONAL CONGRESS ON TOXICOLOGY: TORONTO, ONTARIO, CANADA",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1977",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WOODER M F",
+                  "WRIGHT A S",
+                  "STEVENSON D E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1976CC81500007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DICHLORVOS - 2-YEAR INHALATION CARCINOGENESIS STUDY IN RATS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "281-294",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1976",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ARCHIVES OF TOXICOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "35",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "BLAIR, D",
+                  "DIX, KM",
+                  "HUNT, PF",
+                  "THORPE, E",
+                  "STEVENSON, DE",
+                  "WALKER, AIT",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "CC815",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0340-5761",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/BF00570270",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1976CC24200002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "CARCINOGENIC RESPONSE IN MICE TO TOPICAL APPLICATION OF PROPANE SULTONE TO SKIN",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "139-154",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1976",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TOXICOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "6",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "DOAK, SMA",
+                  "SIMPSON, BJE",
+                  "HUNT, PF",
+                  "STEVENSON, DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "CC242",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0300-483X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0300-483X(76)90016-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1976BT33400004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "TOXIC EFFECTS OF DIELDRIN IN RATS - RE-EVALUATION OF DATA OBTAINED IN A 2-YEAR FEEDING STUDY",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "247-254",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1976",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TOXICOLOGY AND APPLIED PHARMACOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "36",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "THORPE, E",
+                  "HUNT, PF",
+                  "WALKER, AIT",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BT334",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0041-008X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0041-008X(76)90004-1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV197713062819"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DISPERSAL AND SURVIVAL IN THE BANK SWALLOW RIPARIA-RIPARIA IN SOUTHEASTERN WISCONSIN",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1-14",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1976",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Milwaukee Public Museum Contributions in Biology and Geology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "10",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "MACBRIAR W N JR",
+                  "STEVENSON D E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0160-5313",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV197713026937"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "THE CARCINOGENIC RESPONSE IN MICE TO THE DERMAL APPLICATION OF PROPANE SULTONE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "180",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1976",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Toxicology and Applied Pharmacology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "37",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "DOAK S M A",
+                  "SIMPSON B J",
+                  "HUNT P F",
+                  "STEVENSON D E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0041-008X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1975AV41500014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "MOUSE DATA",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "597-599",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1975",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FOOD AND COSMETICS TOXICOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "13",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "HUNT, PF",
+                  "STEVENSON, DE",
+                  "THORPE, E",
+                  "WALKER, AIT",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AV415",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0015-6264",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0015-6264(75)90072-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1975AN26000004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "PESTICIDES AND DOMESTIC-ANIMALS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "164-169",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1975",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VETERINARY RECORD",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "97",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSON, DE",
+                  "CARTER, BI",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AN260",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0042-4900",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1973P901700007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "TOXICOLOGY OF DIELDRIN (HEOD) .1. LONG-TERM ORAL TOXICITY STUDIES IN MICE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "415-&",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1973",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FOOD AND COSMETICS TOXICOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "11",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WALKER, AIT",
+                  "THORPE, E",
+                  "STEVENSO.DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "P9017",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0015-6264",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0015-6264(73)90007-2",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1972M178300036"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ALKALINE-PHOSPHATASE PATTERNS IN DIELDRIN-TREATED DOGS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "667-&",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1972",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "HOPPE-SEYLERS ZEITSCHRIFT FUR PHYSIOLOGISCHE CHEMIE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "353",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "ELAASER, ABA",
+                  "STEVENSO.DE",
+                  "REID, E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "M1783",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0018-4888",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1515/bchm2.1972.353.1.667",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1972O465600001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "INHALATIONAL TOXICITY STUDY WITH DICHLORVOS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1-7",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1972",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ARCHIV FUR TOXIKOLOGIE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "30",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WALKER, AIT",
+                  "BLAIR, D",
+                  "STEVENSO.DE",
+                  "CHAMBERS, PL",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "O4656",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0003-9446",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/BF00605268",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV197254069776"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ALKALINE PHOSPHATASE EC-3.1.3.1 PATTERNS IN DIELDRIN TREATED DOGS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "667-673",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1972",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Hoppe-Seyler's Zeitschrift fuer Physiologische Chemie",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "353",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "EL-AASER A-B A",
+                  "REID E",
+                  "STEVENSON D E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0018-4888",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV197356017383"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "TOXICOLOGICAL STUDIES WITH THE INSECTICIDE TETRACHLORVINPHOS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "517-525",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1972",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Pesticide Science",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "3",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WALKER A I T",
+                  "BROWN V K H",
+                  "STEVENSON D E",
+                  "THORPE E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0031-613X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1002/ps.2780030502",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1969D886400011"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "TOXICOLOGY AND PHARMACODYNAMICS OF DIELDRIN (HEOD) - 2-YEAR ORAL EXPOSURES OF RATS AND DOGS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "345-&",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1969",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TOXICOLOGY AND APPLIED PHARMACOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "15",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WALKER, AIT",
+                  "STEVENSO.DE",
+                  "ROBINSON, J",
+                  "THORPE, E",
+                  "ROBERTS, M",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "D8864",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0041-008X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0041-008X(69)90034-9",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1969D695000008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "TOXICITY OF DIELDRIN (HEOD) TO JAPANESE QUAIL (COTURNIX COTURNIX JAPONICA)",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "69-&",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1969",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TOXICOLOGY AND APPLIED PHARMACOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "15",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WALKER, AIT",
+                  "NEILL, CH",
+                  "STEVENSO.DE",
+                  "ROBINSON, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "D6950",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0041-008X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0041-008X(69)90133-1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1969C568700005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SAFETY EVALUATION OF PET PRODUCTS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "168-&",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1969",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VETERINARY RECORD",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "84",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSO.DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "C5687",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0042-4900",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1969E692300015"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "PESTICIDE RESIDUES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "22",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "634-&",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1969",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VETERINARY RECORD",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "85",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "STEVENSO.DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "E6923",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0042-4900",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1968C129200003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "STUDIES ON SAFETY OF PLASTIC DOG COLLARS CONTAINING DICHLORVOS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "21",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "538-&",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1968",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VETERINARY RECORD",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "83",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WALKER, AIT",
+                  "STEVENSO.DE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "C1292",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0042-4900",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:5582773"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Acute and subacute oral toxicity of Alromine RU 100 in rats.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "491-6",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "Oct",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1967",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Food and cosmetics toxicology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hunter, C G",
+                  "Stevenson, D E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0015-6264",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0015-6264(67)83150-X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:6033855"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Acute and short-term oral toxicity in rats of RD  025, a propylene glycol-ethylene oxide copolymer.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "195-9",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "Apr",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1967",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Food and cosmetics toxicology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hunter, C G",
+                  "Stevenson, D E",
+                  "Chambers, P L",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0015-6264",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0015-6264(67)82967-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:6039119"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The acute toxicity and skin irritant properties of tropilidene (cyclohepta-1,3,5-triene).",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "123-6",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "Apr",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1967",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "The Annals of occupational hygiene",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "10",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Brown, V K",
+                  "Ferrigan, L W",
+                  "Stevenson, D E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0003-4878",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:6029668"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Toxicological studies with a hydrocarbon solvent, SBP 62/82.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "19-22",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "Feb",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1967",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Food and cosmetics toxicology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Walker, A I",
+                  "Stevenson, D E",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0015-6264",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0015-6264(67)82881-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

@@ -1,0 +1,85 @@
+(searchResults){
+   queryId = "57"
+   recordsFound = 1
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000335542900013"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A weighted support vector machine method for control chart pattern recognition",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "134-149",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTERS & INDUSTRIAL ENGINEERING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "70",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Xanthopoulos, Petros",
+                  "Razzaghi, Talayeh",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Control chart",
+                  "Pattern recognition",
+                  "Weighted support vector machine",
+                  "Classification",
+                  "Imbalanced data",
+                  "Quality control",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.cie.2014.01.014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1879-0550",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AG6QG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0360-8352",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

@@ -1,0 +1,85 @@
+Author: Yaolin Zhang
+Date: May 21 2014
+
+How to use facultyfocus:
+1. storePapers.py
+Usage: storePapers.py [options]
+
+Options:
+  -h, --help            show this help message and exit
+  -s START, --start=START
+                        give a list of faculty, where you want to start the crawl
+  -f INPUTFILE, --inputfile=INPUTFILE
+                        a JSON file which contain a list of names
+  -r RESULT, --result=RESULT
+                        indicate how many result pages you want to crawl
+  -p PAPER, --paper=PAPER
+                        indicate how many papers you want to crawl
+
+
+
+Description:
+ storePapers.py is a tool which will call scrapPaper.py to crawl papers information from Google Scholar. A user can specify a JSON file as input which contain a list of faculty information, for example:
+ [{"working": "", "name": "James Wang", "facultyId": 74, "university": "Clemson University", "department": "Computing Science", "link": ["http://www.cs.clemson.edu/%7Ejzwang/"], "keywords": "", "education": "", "email": ["jzwang.at.cs.clemson.edu"]},
+{"working": "", "name": "Yunsheng Wang", "facultyId": 75, "university": "Clemson University", "department": "Computing Science", "link": "", "keywords": "", "education": "", "email": ["yunshew.at.clemson.edu"]}]. 
+Also a user can indicate how many papers or how many result pages that he/she want this tool to crawl. Whenever one of this two conditions meet the require, this tool will continue to serve the next faculty.
+
+2. scrapPaper.py
+Usage: scrapPaper.py [options] {"search terms"}
+
+Options:
+  -h, --help            show this help message and exit
+  -d, --debug           show debugging output
+  -f OUTPUT, --outputformat=OUTPUT
+                        Output format. Available formats are: bibtex, endnote,
+                        refman, wenxianwang [default: bibtex]
+  -p PAGE, --pagenumber=PAGE
+                        The page number of search result that you want
+                        [default: 1]
+
+
+Description:
+scrapPaper.py is a tool to crawl some papers from Google Scholar for a given faculty name. the result will be store in such a way:
+	./[faculty name]/info.json # information about this facully
+	./[faculty name]/page#/sourcecode.html # the source code of the result page
+	./[faculty name]/page#/paperLinks.json # the links for each paper
+	./[faculty name]/page#/bibLinks.json # the JSON format bibText entry for each paper
+	./[faculty name]/page#/[1-10] # either a pdf file or html file for each paper 
+
+3. getFaculty.py 
+Description: 
+This script is simple to get a list of names of SOC faculty. It's not a general purpose script for getting a list of names. It's just used for School of Computing faculty.
+
+Actually, it's a simple project created by Scrapy. The whole project is located in a directory called socPeople. The directory tree is showed below:
+├── faculty.json
+├── scrapy.cfg
+└── socPeople
+    ├── __init__.py
+    ├── items.py
+    ├── pipelines.py
+    ├── settings.py
+    └── spiders
+        ├── __init__.py
+        └── soc_spider.py
+1) faculty.json is the result file
+2) scrapy.cfg, __init__.py, pipelines.py and settings.py, for our use we do not need to concern
+3) items.py is one of the most important file. It defines what kind of information do you want to get from a website. So if you want more or less infromation, feel free to change this file. 
+4) soc_spider.py is the core of the whole project. Fortunately, what we need to do is pretty simple. First, we indicate the webpage url that we want to crawl to the start_urls. Second, use a selector object to select which part do we want to get. It's easy to use.
+
+
+Scrapy, a fast high-level screen scraping and web crawling framework for Python. 
+I use scrapy to get a list of SOC(School of Computing) names from http://www.clemson.edu/ces/computing/people/index.html. 
+
+How to use Scrapy:
+	http://doc.scrapy.org/en/latest/
+
+4. getAbstract.py
+Usage: getAbstract.py [options]
+
+Options:
+  -h, --help            show this help message and exit
+  -f INPUTFILE, --inputfile=INPUTFILE
+                        a JSON file which contain a list of names
+
+Description:
+Get Title, Abstract and Keywords(maybe) given a PDF file

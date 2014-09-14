@@ -1,0 +1,6276 @@
+(searchResults){
+   queryId = "75"
+   recordsFound = 85
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "MEDLINE:24844450"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Effect of low-intensity white light mediated de-etiolation on the biosynthesis of polyphenols in tea seedlings.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "328-36",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "Jul",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Plant physiology and biochemistry : PPB / Societe francaise de physiologie vegetale",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "80",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Lu, Zhongwei",
+                  "Liu, Yajun",
+                  "Zhao, Lei",
+                  "Jiang, Xiaolan",
+                  "Li, Mingzhuo",
+                  "Wang, Yunsheng",
+                  "Xu, Yujiao",
+                  "Gao, Liping",
+                  "Xia, Tao",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.plaphy.2014.04.016",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1873-2690",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000332953400039"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "c-Abl Tyrosine Kinase Mediates Neurotoxic Prion Peptide-Induced Neuronal Apoptosis via Regulating Mitochondrial Homeostasis",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1102-1116",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MOLECULAR NEUROBIOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "49",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Pan, Bo",
+                  "Yang, Lifeng",
+                  "Wang, Jin",
+                  "Wang, Yunsheng",
+                  "Wang, Jihong",
+                  "Zhou, Xiangmei",
+                  "Yin, Xiaomin",
+                  "Zhang, Zhongqiu",
+                  "Zhao, Deming",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Priondiseases",
+                  "c-Abltyrosinekinase",
+                  "PrP106-126",
+                  "Mitochondrial dysfunction",
+                  "Cell death",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "chang, binggong",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "F-5043-2014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s12035-014-8646-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1559-1182",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AD0VX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0893-7648",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000333469900010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Hypercube-Based Multipath Social Feature Routing in Human Contact Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "383-396",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE TRANSACTIONS ON COMPUTERS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "63",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wu, Jie",
+                  "Wang, Yunsheng",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Closeness",
+                  "delay tolerant networks",
+                  "entropy",
+                  "human contact networks",
+                  "hypercubes",
+                  "multipath routing",
+                  "social features",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/TC.2012.209",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1557-9956",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AD7TO",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0018-9340",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000336039100069"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Possibilities of a Personal Laser Scanning System for Forest Mapping and Ecosystem Services",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1228-1248",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SENSORS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "14",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Liang, Xinlian",
+                  "Kukko, Antero",
+                  "Kaartinen, Harri",
+                  "Hyyppa, Juha",
+                  "Yu, Xiaowei",
+                  "Jaakkola, Anttoni",
+                  "Wang, Yunsheng",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "forest",
+                  "ecosystem service",
+                  "laser scanning",
+                  "LIDAR",
+                  "point cloud",
+                  "personal laser scanning",
+                  "PLS",
+                  "wearable",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.3390/s140101228",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AH3QG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1424-8220",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000328966200008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Cloud-Based Multicasting with Feedback in Mobile Social Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "12",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "6043-6053",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "12",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Wu, Jie",
+                  "Yang, Wei-Shih",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Cloud",
+                  "delay tolerant networks",
+                  "feedback control",
+                  "Markov chain",
+                  "mobile social networks",
+                  "multicast",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/TWC.2013.102313.121508",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1558-2248",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "279NH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1536-1276",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000324637200045"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Expression and Distribution of Laminin Receptor Precursor/Laminin Receptor in Rabbit Tissues",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "591-601",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF MOLECULAR NEUROSCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "51",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Huinuan",
+                  "Yang, Lifeng",
+                  "Kouadir, Mohammed",
+                  "Tan, Rongrong",
+                  "Wu, Wenyu",
+                  "Zou, Huarong",
+                  "Wang, Jin",
+                  "Khan, Sher Hayat",
+                  "Li, Dongfeng",
+                  "Zhou, Xiangmei",
+                  "Yin, Xiaomin",
+                  "Wang, Yunsheng",
+                  "Zhao, Deming",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Laminin receptor precursor/laminin receptor",
+                  "Rabbit",
+                  "Expression",
+                  "Distribution",
+                  "Prion",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "chang, binggong",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "F-5043-2014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s12031-013-0032-6",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "221DG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0895-8696",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000325017801045"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Transgastric NOTES: effects of endoscope size on host inflammatory responses in a canine model",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "40-40",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF GASTROENTEROLOGY AND HEPATOLOGY",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "28",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Li, Wen",
+                  "Wang, Zikai",
+                  "Wang, Yunsheng",
+                  "Zhang, Xiuli",
+                  "Hyder, Qurratulain",
+                  "Sun, Gang",
+                  "Wu, Lili",
+                  "Tang, Ping",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "NOTES",
+                  "Laparoscopy",
+                  "Size of endoscope",
+                  "Inflammatory",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1440-1746",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "226ER",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0815-9319",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000324394800008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Genetic mechanism and failure process of the Mogangling seismic landslide",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "277-282",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF THE GEOLOGICAL SOCIETY OF INDIA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "82",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wu Junfeng",
+                  "Wang Yunsheng",
+                  "Dong Simeng",
+                  "Chen Yun",
+                  "Wang Lei",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Mogangling landslide",
+                  "Seismic landslide",
+                  "Geological mechanism",
+                  "Failure process",
+                  "Dadu River",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s12594-013-0150-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "217WY",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0016-7622",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000328613300020"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "3D Modeling of Coarse Fluvial Sediments Based on Mobile Laser Scanning Data",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "4571-4592",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "REMOTE SENSING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Liang, Xinlian",
+                  "Flener, Claude",
+                  "Kukko, Antero",
+                  "Kaartinen, Harri",
+                  "Kurkela, Matti",
+                  "Vaaja, Matti",
+                  "Hyyppa, Hannu",
+                  "Alho, Petteri",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "mobile laser scanning",
+                  "Individual Grain Model",
+                  "grain size",
+                  "grain shape",
+                  "fluvial morphology",
+                  "Finland",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Hyyppa, Hannu",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "M-7114-2013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.3390/rs5094571",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "274NN",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "2072-4292",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000322516200001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Analysis of a Hypercube-Based Social Feature Multipath Routing in Delay Tolerant Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1706-1716",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "24",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Yang, Wei-Shih",
+                  "Wu, Jie",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Delay tolerant networks",
+                  "delivery rate",
+                  "hypercubes",
+                  "latency",
+                  "multipath routing",
+                  "node-disjoint paths",
+                  "social features",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1109/TPDS.2012.281",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1558-2183",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "192VV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1045-9219",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000319077300040"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Tissue-Specific, Development-Dependent Phenolic Compounds Accumulation Profile and Gene Expression Pattern in Tea Plant [Camellia sinensis]",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR 30",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PLOS ONE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "8",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Jiang, Xiaolan",
+                  "Liu, Yajun",
+                  "Li, Weiwei",
+                  "Zhao, Lei",
+                  "Meng, Fei",
+                  "Wang, Yunsheng",
+                  "Tan, Huarong",
+                  "Yang, Hua",
+                  "Wei, Chaoling",
+                  "Wan, Xiaochun",
+                  "Gao, Liping",
+                  "Xia, Tao",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.pone.0062315",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "146GG",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1932-6203",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN e62315",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000316690000008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The R2R3-MYB, bHLH, WD40, and related transcription factors in flavonoid biosynthesis",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "75-98",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FUNCTIONAL & INTEGRATIVE GENOMICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "13",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zhao, Lei",
+                  "Gao, Liping",
+                  "Wang, Hongxue",
+                  "Chen, Xiaotian",
+                  "Wang, Yunsheng",
+                  "Yang, Hua",
+                  "Wei, Chaoling",
+                  "Wan, Xiaochun",
+                  "Xia, Tao",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Camellia sinensis",
+                  "MYB",
+                  "bHLH",
+                  "Bioinformatic analysis",
+                  "Flavonoid biosynthetic pathway",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s10142-012-0301-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "113SZ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1438-793X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "DRCI:DATA2013077003340360"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Figure_S1.tif.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Figshare",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gao, Liping",
+                  "Li, Weiwei",
+                  "Tan, Huarong",
+                  "Liu, Yajun",
+                  "Meng, Fei",
+                  "Jiang, Xiaolan",
+                  "Wang, Yunsheng",
+                  "Wei, Chaoling",
+                  "Wan, Xiaochun",
+                  "Xia, Tao",
+                  "Zhao, Lei",
+                  "Yang, Hua",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.pone.0062315.s001",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "DRCI:DATA2013071003265817"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Content of phenolic compounds in different organs and leaves at different developmental stages.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Figshare",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gao, Liping",
+                  "Li, Weiwei",
+                  "Tan, Huarong",
+                  "Liu, Yajun",
+                  "Meng, Fei",
+                  "Jiang, Xiaolan",
+                  "Wang, Yunsheng",
+                  "Wei, Chaoling",
+                  "Wan, Xiaochun",
+                  "Xia, Tao",
+                  "Zhao, Lei",
+                  "Yang, Hua",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Medicine",
+                  "Chemistry",
+                  "Biological Sciences",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.pone.0062315.t002",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "DRCI:DATA2013077003340362"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Figure_S3.tif.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Figshare",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gao, Liping",
+                  "Li, Weiwei",
+                  "Tan, Huarong",
+                  "Liu, Yajun",
+                  "Meng, Fei",
+                  "Jiang, Xiaolan",
+                  "Wang, Yunsheng",
+                  "Wei, Chaoling",
+                  "Wan, Xiaochun",
+                  "Xia, Tao",
+                  "Zhao, Lei",
+                  "Yang, Hua",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.pone.0062315.s003",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:24434879"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Possibilities of a personal laser scanning system for forest mapping and ecosystem services.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1228-48",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Sensors (Basel, Switzerland)",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "14",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Liang, Xinlian",
+                  "Kukko, Antero",
+                  "Kaartinen, Harri",
+                  "Hyyppa, Juha",
+                  "Yu, Xiaowei",
+                  "Jaakkola, Anttoni",
+                  "Wang, Yunsheng",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.3390/s140101228",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1424-8220",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000321021300001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Ticket-based Multiple Packet Broadcasting in Delay Tolerant Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3-4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "171-188",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "AD HOC & SENSOR WIRELESS NETWORKS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "19",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Wu, Jie",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Broadcasting",
+                  "delay tolerant networks (DTNs)",
+                  "routing",
+                  "ticket-based",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1552-0633",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "172QZ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1551-9899",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "DRCI:DATA2013077003340364"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Figure_S5.tif.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Figshare",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gao, Liping",
+                  "Li, Weiwei",
+                  "Tan, Huarong",
+                  "Liu, Yajun",
+                  "Meng, Fei",
+                  "Jiang, Xiaolan",
+                  "Wang, Yunsheng",
+                  "Wei, Chaoling",
+                  "Wan, Xiaochun",
+                  "Xia, Tao",
+                  "Zhao, Lei",
+                  "Yang, Hua",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.pone.0062315.s005",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "DRCI:DATA2013071003265816"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Analyses of phenolic compounds in tea leaves (shown in Figures 2 and 3).",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Figshare",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gao, Liping",
+                  "Li, Weiwei",
+                  "Tan, Huarong",
+                  "Liu, Yajun",
+                  "Meng, Fei",
+                  "Jiang, Xiaolan",
+                  "Wang, Yunsheng",
+                  "Wei, Chaoling",
+                  "Wan, Xiaochun",
+                  "Xia, Tao",
+                  "Zhao, Lei",
+                  "Yang, Hua",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Medicine",
+                  "Chemistry",
+                  "Biological Sciences",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.pone.0062315.t001",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "DRCI:DATA2013077003340361"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Figure_S2.tif.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Figshare",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gao, Liping",
+                  "Li, Weiwei",
+                  "Tan, Huarong",
+                  "Liu, Yajun",
+                  "Meng, Fei",
+                  "Jiang, Xiaolan",
+                  "Wang, Yunsheng",
+                  "Wei, Chaoling",
+                  "Wan, Xiaochun",
+                  "Xia, Tao",
+                  "Zhao, Lei",
+                  "Yang, Hua",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.pone.0062315.s002",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "DRCI:DATA2013077003340366"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Table_S1.doc.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Figshare",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gao, Liping",
+                  "Li, Weiwei",
+                  "Tan, Huarong",
+                  "Liu, Yajun",
+                  "Meng, Fei",
+                  "Jiang, Xiaolan",
+                  "Wang, Yunsheng",
+                  "Wei, Chaoling",
+                  "Wan, Xiaochun",
+                  "Xia, Tao",
+                  "Zhao, Lei",
+                  "Yang, Hua",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.pone.0062315.s007",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "DRCI:DATA2013076003340359"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Tissue-Specific, Development-Dependent Phenolic Compounds Accumulation Profile and Gene Expression Pattern in Tea Plant [Camellia sinensis].",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Figshare",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "1",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gao, Liping",
+                  "Li, Weiwei",
+                  "Tan, Huarong",
+                  "Liu, Yajun",
+                  "Meng, Fei",
+                  "Jiang, Xiaolan",
+                  "Wang, Yunsheng",
+                  "Wei, Chaoling",
+                  "Wan, Xiaochun",
+                  "Xia, Tao",
+                  "Zhao, Lei",
+                  "Yang, Hua",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Medicine",
+                  "Chemistry",
+                  "Biological Sciences",
+                  "phenolic",
+                  "Crops",
+                  "chemical biology",
+                  "COMPOUNDS",
+                  "Raw materials",
+                  "metabolic pathways",
+                  "Biochemistry",
+                  "Metabolism",
+                  "Biosynthesis",
+                  "Secondary Metabolism",
+                  "liquid chromatography",
+                  "Agricultural biotechnology",
+                  "Plant biochemistry",
+                  "development-dependent",
+                  "accumulation",
+                  "Genetically Modified Organisms",
+                  "chromatography",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "DRCI:DATA2013077003340363"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Figure_S4.tif.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Figshare",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gao, Liping",
+                  "Li, Weiwei",
+                  "Tan, Huarong",
+                  "Liu, Yajun",
+                  "Meng, Fei",
+                  "Jiang, Xiaolan",
+                  "Wang, Yunsheng",
+                  "Wei, Chaoling",
+                  "Wan, Xiaochun",
+                  "Xia, Tao",
+                  "Zhao, Lei",
+                  "Yang, Hua",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.pone.0062315.s004",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "DRCI:DATA2013077003340365"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Figure_S6.tif.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Figshare",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gao, Liping",
+                  "Li, Weiwei",
+                  "Tan, Huarong",
+                  "Liu, Yajun",
+                  "Meng, Fei",
+                  "Jiang, Xiaolan",
+                  "Wang, Yunsheng",
+                  "Wei, Chaoling",
+                  "Wan, Xiaochun",
+                  "Xia, Tao",
+                  "Zhao, Lei",
+                  "Yang, Hua",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.pone.0062315.s006",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000312938600037"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Purification and Characterization of a Novel Galloyltransferase Involved in Catechin Galloylation in the Tea Plant (Camellia sinensis)",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "53",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "44406-44417",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC 28",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF BIOLOGICAL CHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "287",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Liu, Yajun",
+                  "Gao, Liping",
+                  "Liu, Li",
+                  "Yang, Qin",
+                  "Lu, Zhongwei",
+                  "Nie, Zhiyin",
+                  "Wang, Yunsheng",
+                  "Xia, Tao",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1074/jbc.M112.403071",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "062RI",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9258",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000310924300043"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Draft Genome Sequence of Brevibacillus brevis Strain X23, a Biocontrol Agent against Bacterial Wilt",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "23",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "6634-6635",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF BACTERIOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "194",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Chen, Wu",
+                  "Wang, Yunsheng",
+                  "Li, Dingjun",
+                  "Li, Lin",
+                  "Xiao, Qiming",
+                  "Zhou, Qingming",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1128/JB.01312-12",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "035DV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9193",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000310677800029"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Genetic Diversity and Population Structure: Implications for Conservation of Wild Soybean (Glycine soja Sieb. et Zucc) Based on Nuclear and Chloroplast Microsatellite Variation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "10",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "12608-12628",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "13",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "He, Shuilian",
+                  "Wang, Yunsheng",
+                  "Volis, Sergei",
+                  "Li, Dezhu",
+                  "Yi, Tingshuang",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Glycine soja",
+                  "microsatellite",
+                  "genetic diversity",
+                  "genetic structure",
+                  "bottleneck effect",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.3390/ijms131012608",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "031YE",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1422-0067",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000308016100003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Population structure of the wild soybean (Glycine soja) in China: implications from microsatellite analyses",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "777-785",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ANNALS OF BOTANY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "110",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Guo, Juan",
+                  "Liu, Yifei",
+                  "Wang, Yunsheng",
+                  "Chen, Jianjun",
+                  "Li, Yinghui",
+                  "Huang, Hongwen",
+                  "Qiu, Lijuan",
+                  "Wang, Ying",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Wild soybean",
+                  "Glycine soja",
+                  "microsatellites",
+                  "genetic diversity",
+                  "population structure",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1093/aob/mcs142",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "995NN",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0305-7364",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000306732900008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Slope seismic response monitoring on the aftershocks of the Wenchuan earthquake in the Mianzhu section",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "523-528",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF MOUNTAIN SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "9",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang Yunsheng",
+                  "Luo Yonghong",
+                  "Wang Fuhai",
+                  "Wang Dong",
+                  "Ma Xiao",
+                  "Li Shun",
+                  "Deng Xi",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Seismic response",
+                  "Slope",
+                  "Monitoring",
+                  "Longmen Mountains",
+                  "Aftershocks",
+                  "Wenchuan earthquake",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s11629-012-2179-y",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "978IB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1672-6316",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000305231500004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The 273.15-K-Isothermal Evaporation Experiment of Lithium Brine from the Zhabei Salt Lake, Tibet, and its Geochemical Significance",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "343-356",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "AQUATIC GEOCHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "18",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gao, Feng",
+                  "Zheng, Mianping",
+                  "Song, Pengsheng",
+                  "Bu, Lingzhong",
+                  "Wang, Yunsheng",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Zhabei Salt Lake",
+                  "Isothermal evaporation",
+                  "Lithium enrichment",
+                  "Hydrochemistry",
+                  "Brine evolution",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s10498-012-9168-1",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "958JA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1380-6165",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000306635700002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Influence of shade on flavonoid biosynthesis in tea (Camellia sinensis (L.) O. Kuntze)",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "7-16",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SCIENTIA HORTICULTURAE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "141",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, YunSheng",
+                  "Gao, LiPing",
+                  "Shan, Yu",
+                  "Liu, YaJun",
+                  "Tian, YanWei",
+                  "Xia, Tao",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Catechins",
+                  "Flavonoid metabolism",
+                  "Gene expression",
+                  "O-glycosylated flavonols",
+                  "Proanthocyanins",
+                  "Shade",
+                  "Tea",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.scienta.2012.04.013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "977DD",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0304-4238",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000302468200030"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Characterisation of anthocyanidin reductase from Shuchazao green tea",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1533-1539",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF THE SCIENCE OF FOOD AND AGRICULTURE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "92",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Zhang, XianLin",
+                  "Liu, YaJun",
+                  "Gao, KeJun",
+                  "Zhao, Lei",
+                  "Liu, Li",
+                  "Wang, YunSheng",
+                  "Sun, MeiLian",
+                  "Gao, LiPing",
+                  "Xia, Tao",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "tea plant (Camellia sinensis (L",
+                  ") O",
+                  "Kuntze)",
+                  "tea flavan-3-ols",
+                  "anthocyanidin reductase",
+                  "enzyme assay",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1002/jsfa.4739",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1097-0010",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "921HH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-5142",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000300033500009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A dynamic multicast tree based routing scheme without replication in delay tolerant networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "424-436",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "72",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Wu, Jie",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Contact",
+                  "Delay tolerant networks",
+                  "Dynamic multicast tree",
+                  "Efficient protocols",
+                  "Multicast",
+                  "Opportunistic routing",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.jpdc.2011.11.007",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "888VU",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0743-7315",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000300207300007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Differential gene expression in tea (Camellia sinensis L.) calli with different morphologies and catechin contents",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "163-175",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF PLANT PHYSIOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "169",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Yang, Dongqing",
+                  "Liu, Yajun",
+                  "Sun, Meilian",
+                  "Zhao, Lei",
+                  "Wang, Yunsheng",
+                  "Chen, Xiaotian",
+                  "Wei, Chaoling",
+                  "Gao, Liping",
+                  "Xia, Tao",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Camellia sinensis",
+                  "Catechin biosynthesis",
+                  "Differential gene expression",
+                  "Gene cloning",
+                  "Tea calli",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.jplph.2011.08.015",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "891HH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0176-1617",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000300204700012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Light-induced expression of genes involved in phenylpropanoid biosynthetic pathways in callus of tea (Camellia sinensis (L.) O. Kuntze)",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "72-83",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN 6",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SCIENTIA HORTICULTURAE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "133",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, YunSheng",
+                  "Gao, LiPing",
+                  "Wang, ZhengRong",
+                  "Liu, YaJun",
+                  "Sun, MeiLian",
+                  "Yang, DongQing",
+                  "Wei, ChaoLing",
+                  "Shan, Yu",
+                  "Xia, Tao",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Tea",
+                  "Light inducement",
+                  "Phenylpropanoid biosynthesis",
+                  "Gene expression",
+                  "SSH cDNA library",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.scienta.2011.10.017",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "891GH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0304-4238",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000300238800003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Comparative testing of single-tree detection algorithms under different types of forest",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "27-40",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FORESTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "85",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Vauhkonen, Jari",
+                  "Ene, Liviu",
+                  "Gupta, Sandeep",
+                  "Heinzel, Johannes",
+                  "Holmgren, Johan",
+                  "Pitkanen, Juho",
+                  "Solberg, Svein",
+                  "Wang, Yunsheng",
+                  "Weinacker, Holger",
+                  "Hauglin, K. Marius",
+                  "Lien, Vegard",
+                  "Packalen, Petteri",
+                  "Gobakken, Terje",
+                  "Koch, Barbara",
+                  "Naesset, Erik",
+                  "Tokola, Timo",
+                  "Maltamo, Matti",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Tokola, Timo",
+                  "Vauhkonen, Jari",
+                  "Ene, Liviu ",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-2096-2010",
+                  "G-8441-2012",
+                  "K-7505-2012",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1093/forestry/cpr051",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "891TF",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0015-752X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000302092000072"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The Measurement of Software Aging Damage and Rejuvenation Strategy for Discrete Web Services",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Advanced Materials Research",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "432-437",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MATERIALS SCIENCE AND INFORMATION TECHNOLOGY, PTS 1-8",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "433-440",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Guo, Jun",
+                  "Song, Xinya",
+                  "Wang, Yunsheng",
+                  "Zhang, Bin",
+                  "Li, Xianli",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "discrete web services",
+                  "software aging",
+                  "damage measuring",
+                  "rejuvenation",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.4028/www.scientific.net/AMR.433-440.432",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BZN21",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-03785-319-1",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1022-6680",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000302092001310"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An Agile Process Model based on the Third-party Testing Agencies",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Advanced Materials Research",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "4698-4703",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MATERIALS SCIENCE AND INFORMATION TECHNOLOGY, PTS 1-8",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "433-440",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Wang, Bo",
+                  "Guo, Jun",
+                  "Zhang, Bin",
+                  "Wang, Jina",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Full test",
+                  "Agile",
+                  "Test driving",
+                  "Software process",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.4028/www.scientific.net/AMR.433-440.4698",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BZN21",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-03785-319-1",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1022-6680",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000309279501049"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Social Feature-based Multi-path Routing in Delay Tolerant Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1368-1376",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2012 PROCEEDINGS IEEE INFOCOM",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wu, Jie",
+                  "Wang, Yunsheng",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Closeness",
+                  "delay tolerant networks",
+                  "entropy",
+                  "hypercubes",
+                  "multi-path routing",
+                  "social features",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eisbn"
+               value[] = 
+                  "978-1-4673-0775-8",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBZ88",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000310864800116"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Research on the Prediction of Web Application System Aging Trend Oriented to User Access Intention",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Advances in Intelligent and Soft Computing",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "983-991",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INSTRUMENTATION, MEASUREMENT, CIRCUITS AND SYSTEMS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "127",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Guo, Jun",
+                  "Huang, Hao",
+                  "Wang, Bo",
+                  "Wang, Yunsheng",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Software aging",
+                  "User access intention",
+                  "User pattern mining",
+                  "Pattern matching",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BCO66",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-27333-9",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1867-5662",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000312855700015"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Joint Replication-Migration-based Routing in Delay Tolerant Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE International Conference on Communications",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2012 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Wu, Jie",
+                  "Jiang, Zhen",
+                  "Li, Feng",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Buffer management",
+                  "delay tolerant networks (DTNs)",
+                  "message migration",
+                  "message replication",
+                  "routing",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BDD72",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4577-2053-6",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1550-3607",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000308895900394"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Seismic landslides and the environmental impact in the middle reach of Daduhe River",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Advanced Materials Research",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1965-1970",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ADVANCES IN CIVIL ENGINEERING AND ARCHITECTURE INNOVATION, PTS 1-6",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "368-373",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Wu, Junfeng",
+                  "Luo, Yonghong",
+                  "Xiao, Ma",
+                  "Shun, Li",
+                  "Qing, Quan",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "seismic landslides",
+                  "environmental and engineering impact",
+                  "Daduhe River",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.4028/www.scientific.net/AMR.368-373.1965",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBY80",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-03785-278-1",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1022-6680",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000297816500022"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "High geo-stress distribution and high geo-stress concentration area models for eastern margin of Qinghai-Tibet plateau",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "154-166",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SCIENCE CHINA-TECHNOLOGICAL SCIENCES",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "54",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Huang RunQiu",
+                  "Wang YunSheng",
+                  "Wang ShiTian",
+                  "Li YuSheng",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "high geo-stress",
+                  "geo-stress concentration model",
+                  "regional geo-stress distribution",
+                  "Qinghai-Tibet plateau",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s11431-011-4652-1",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "858QJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1674-7321",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000296254100011"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Neonatal Fc Receptor-Targeted Mucosal Vaccine Strategy Effectively Induces HIV-1 Antigen-Specific Immunity to Genital Infection",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "20",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "10542-10553",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF VIROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "85",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Lu, Li",
+                  "Palaniyandi, Senthilkumar",
+                  "Zeng, Rongyu",
+                  "Bai, Yu",
+                  "Liu, Xindong",
+                  "Wang, Yunsheng",
+                  "Pauza, C. David",
+                  "Roopenian, Derry C.",
+                  "Zhu, Xiaoping",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Lu, Li",
+                  "liu, xindong",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "A-2237-2014",
+                  "F-8422-2014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1128/JVI.05441-11",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "837ZJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-538X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000295418000006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Solubility of CsNO3 in binary solvents formed by ethanol and water in the temperature range between 278.15 and 313.15 K",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "44-46",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP 25",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FLUID PHASE EQUILIBRIA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "308",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Zheng, Mianping",
+                  "Song, Pengsheng",
+                  "Nie, Zhen",
+                  "Wang, Hailei",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Solubility",
+                  "Solid-liquid equilibrium",
+                  "Cesium nitrate",
+                  "Sechenov's equation",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.fluid.2011.06.005",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "827GX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0378-3812",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000295955300007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A study on the influence of the 2008 Wenchuan earthquake on the stability of the Qinghai-Tibet Plateau tectonic block system",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "94-103",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TECTONOPHYSICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "510",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Chen, Zuan",
+                  "Lin, Banghui",
+                  "Bai, Wuming",
+                  "Cheng, Xu",
+                  "Wang, Yunsheng",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Qinghai-Tibet Plateau",
+                  "Wenchuan earthquake",
+                  "Rupture process",
+                  "Movement and deformation of tectonic blocks",
+                  "Coulomb failure stress",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "中国科学院, 地球深部研究重点实验室",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "E-2300-2014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.tecto.2011.06.020",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "834JJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0040-1951",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000289294000007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The new CaSn gene belonging to the snakin family induces resistance against root-knot nematode infection in pepper",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "151-164",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PHYTOPARASITICA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "39",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Mao, Zhenchuan",
+                  "Zheng, Jingyuan",
+                  "Wang, Yunsheng",
+                  "Chen, Guohua",
+                  "Yang, Yuhong",
+                  "Feng, Dongxin",
+                  "Xie, Bingyan",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Antimicrobial peptide",
+                  "Capsicum annuum",
+                  "Meloidogyne spp.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s12600-011-0149-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "747AZ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0334-2123",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/s12600-011-0149-5",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000289004600027"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The genetic mechanism of Wenchuan Earthquake",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "336-344",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF MOUNTAIN SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "8",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang Yunsheng",
+                  "Huang Runqiu",
+                  "Luo Yonghong",
+                  "Xu Hongbiao",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "5.12 Wenchuan Earthquake",
+                  "Genetic mechanism",
+                  "Minshan block",
+                  "Geological activities",
+                  "Longmen Mountain Range",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s11629-011-2096-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "743GB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1672-6316",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000306574900044"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Data Acquisition Method for Measuring Mycelium Growth of Microorganism with GIS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IFIP Advances in Information and Communication Technology",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "374-380",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTER AND COMPUTING TECHNOLOGIES IN AGRICULTURE IV, PT 1",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "344",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Yang, Juan",
+                  "Zhao, Jingyin",
+                  "Guo, Qian",
+                  "Wang, Yunsheng",
+                  "Wang, Ruijuan",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "mycelium",
+                  "data acquisition",
+                  "microorganism",
+                  "Pleurotus eryngii",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBD65",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-18332-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1868-4238",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000288692700151"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The Rejuvenation Queue Construction and Strategy Research for Related Web Services",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Advanced Materials Research",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "688-691",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ACHIEVEMENTS IN ENGINEERING MATERIALS, ENERGY, MANAGEMENT AND CONTROL BASED ON INFORMATION TECHNOLOGY, PTS 1 AND 2",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "171-172",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Guo, Jun",
+                  "Song, Xinya",
+                  "Wang, Yunsheng",
+                  "Li, Xianli",
+                  "Zhang, Bin",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "related web services",
+                  "software aging",
+                  "association rules mining",
+                  "error back-propagation network",
+                  "rejuvenation queue",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.4028/www.scientific.net/AMR.171-172.688",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BUA93",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-03785-002-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1022-6680",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.4028/www.scientific.net/AMR.171-172.688",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000306577400028"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Towards Developing an Edible Fungi Factory HACCP MIS Base on RFID Technology",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IFIP Advances in Information and Communication Technology",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "222-230",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTER AND COMPUTING TECHNOLOGIES IN AGRICULTURE IV, PT 3",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "346",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang Yunsheng",
+                  "Xu Shipu",
+                  "Wan ChangZhao",
+                  "Cheng Jihong",
+                  "Guo Qian",
+                  "Yang Juan",
+                  "Zhao Jingying",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "edible fungi factory",
+                  "HACCP",
+                  "MIS",
+                  "RFID",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBD71",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-18353-9",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1868-4238",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000292523800041"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Dynamic Load-Balance Strategy based on Software Aging in Web Server Cluster System",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Key Engineering Materials",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "237-245",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPONENTS, PACKAGING AND MANUFACTURING TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "460-461",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Li, Haoran",
+                  "Guo, Jun",
+                  "Wang, Yunsheng",
+                  "Li, Weiyue",
+                  "Bin, Zhang",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Software aging",
+                  "Dynamic load balance strategy",
+                  "Robust locally weighted regression",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.4028/www.scientific.net/KEM.460-461.237",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BVR24",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "*****************",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1013-9826",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.4028/www.scientific.net/KEM.460-461.237",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000306576600053"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Research on Traceability System of Food Safety Based on PDF417 Two-Dimensional Bar Code",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IFIP Advances in Information and Communication Technology",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "434-440",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTER AND COMPUTING TECHNOLOGIES IN AGRICULTURE IV, PT 2",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "345",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Xu, Shipu",
+                  "Liu, Muhua",
+                  "Zhao, Jingyin",
+                  "Yuan, Tao",
+                  "Wang, Yunsheng",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Food source tracking",
+                  "Food safety",
+                  "B/S",
+                  "Two-dimensional bar code",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BBD69",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-18335-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1868-4238",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000303072400074"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Research of the Software Aging Regeneration Strategy Based on Components",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Advances in Intelligent and Soft Computing",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "601-608",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE 2011 INTERNATIONAL CONFERENCE ON INFORMATICS, CYBERNETICS, AND COMPUTER ENGINEERING (ICCE2011), VOL 2: INFORMATION SYSTEMS AND COMPUTER ENGINEERING",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "111",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Guo Jun",
+                  "Wang Bo",
+                  "Wang Yunsheng",
+                  "Mang Bin",
+                  "Wang Jiaojiao",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Software aging",
+                  "Regeneration strategy",
+                  "Aging forecasting",
+                  "Components",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BZV81",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-25187-0",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1867-5662",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000303433000132"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Numerical Simulation of the Rock Bolts Non-Destructive Testing Based on ANSYS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Applied Mechanics and Materials",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "738-743",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ADVANCES IN CIVIL ENGINEERING, PTS 1-4",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "90-93",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sun, XiaoYun",
+                  "Cheng, JiuLong",
+                  "Wang, YunSheng",
+                  "Zhang, DongFang",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "rock bolots",
+                  "non-destructive testing",
+                  "defect",
+                  "stress wave velocity",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.4028/www.scientific.net/AMM.90-93.738",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BZZ82",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-03785-242-2",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1660-9336",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV201100088906"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Preliminary analysis on Mg2+, Ca2+ and Mg/Ca as salinity indicators of lakes in the Qinghai-Tibetan Plateau",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "894-900",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Hupo Kexue",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "22",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang Hailei",
+                  "Wang Yunsheng",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1003-5427",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000282837700014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The genetic mechanism of Gangudi landslide",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "77-80",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DISASTER ADVANCES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "3",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang Yunsheng",
+                  "Luo Yonghong",
+                  "Li Yusheng",
+                  "Wu Junfeng",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Gangudi landslide; genetic mechanism; induced by earthquake",
+                  "Daduhe River",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "662UC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0974-262X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000281733900013"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A single origin and moderate bottleneck during domestication of soybean (Glycine max): implications from microsatellites and nucleotide sequences",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "505-514",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ANNALS OF BOTANY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "106",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Guo, Juan",
+                  "Wang, Yunsheng",
+                  "Song, Chi",
+                  "Zhou, Jianfeng",
+                  "Qiu, Lijuan",
+                  "Huang, Hongwen",
+                  "Wang, Ying",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Wild soybean",
+                  "Glycine soja",
+                  "cultivated soybean",
+                  "G. max",
+                  "microsatellite",
+                  "nucleotide sequence",
+                  "domestication origin",
+                  "domestication bottleneck",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1093/aob/mcq125",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "648ZJ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0305-7364",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1093/aob/mcq125",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000282765400248"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Research on Load Balancing Mechanism based on Software Aging Rejuvenation strategy",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Advanced Materials Research",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1427-1432",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROGRESS IN MEASUREMENT AND TESTING, PTS 1 AND 2",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "108-111",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ju, Ying",
+                  "Guo, Jun",
+                  "Li, Weiyue",
+                  "Wang, Yunsheng",
+                  "Zhang, Bin",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Software Aging",
+                  "Rejuvenation",
+                  "Load Balancing",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.4028/www.scientific.net/AMR.108-111.1427",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BRI29",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-87849-269-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1022-6680",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000287977406055"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Multicasting in Delay Tolerant Networks: Delegation Forwarding",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE Global Telecommunications Conference (Globecom)",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2010 IEEE GLOBAL TELECOMMUNICATIONS CONFERENCE GLOBECOM 2010",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Li, Xiaoguang",
+                  "Wu, Jie",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "delay tolerant networks (DTNs)",
+                  "multicast",
+                  "forwarding algorithms",
+                  "delegation forwarding (DF)",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BTS42",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-5638-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1930-529X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000303280300015"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Collection of Group Characteristics of Pleurotus Eryngii Using Machine Vision",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IFIP Advances in Information and Communication Technology",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "98-103",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTER AND COMPUTING TECHNOLOGIES IN AGRICULTURE III",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "317",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Wan, Changzhao",
+                  "Yang, Juan",
+                  "Chen, Jianlin",
+                  "Yuan, Tao",
+                  "Zhao, Jingyin",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Pleurotus eryngii",
+                  "Group characteristics",
+                  "Machine vision",
+                  "Collection",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BZX99",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-12219-4",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1868-4238",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000271309000001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Secondary seismic fractures activated during the Wenchuan earthquake",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "443-447",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BULLETIN OF ENGINEERING GEOLOGY AND THE ENVIRONMENT",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "68",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Luo, Yonghong",
+                  "Pei, Xiangjun",
+                  "Wu, Junfeng",
+                  "Li, Weile",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Wenchuan earthquake",
+                  "Secondary seismic fractures",
+                  "Surface rupture",
+                  "Geohazards",
+                  "Hydrological anomaly",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1007/s10064-009-0219-9",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "513FX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1435-9529",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000269287000015"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Crustal ductile flow and its contribution to tectonic stress in Southwest China",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3-4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "476-489",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 3",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TECTONOPHYSICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "473",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Huang, Runqiu",
+                  "Wang, Zhi",
+                  "Pei, Shunping",
+                  "Wang, Yunsheng",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Crustal stress",
+                  "Crustal ductile flow",
+                  "Structural inhomogeneity",
+                  "Seismic tomography",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Wang, Zhi",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "A-2514-2010",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.tecto.2009.04.001",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1879-3266",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "487PL",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0040-1951",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.tecto.2009.04.001",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000275175100025"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Battery Recovery Aware Sensor Networks",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "203-211",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "2009 7TH INTERNATIONAL SYMPOSIUM ON MODELING AND OPTIMIZATION IN MOBILE, AD HOC, AND WIRELESS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Chau, Chi-Kin",
+                  "Wahab, Muhammad Husni",
+                  "Qin, Fei",
+                  "Wang, Yunsheng",
+                  "Yang, Yang",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Sensor Networks",
+                  "Energy Efficiency",
+                  "Battery Recovery",
+                  "Duty Cycling",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BNP50",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4244-4919-4",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000260934800014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Solubility of KBr in Binary Solvents Formed by Acetone and Water in the Temperature Range between (288.15 and 313.15) K",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2547-2549",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF CHEMICAL AND ENGINEERING DATA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "53",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Sha, Zuoliang",
+                  "Wang, Yanfei",
+                  "Zheng, Qianqian",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1021/je8003639",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "372XE",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9568",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/je8003639",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000257248900024"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Lidar point cloud based procedure for vertical canopy structure analysis and 3D single tree modelling in forest",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "3938-3951",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SENSORS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "8",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Weinacker, Holger",
+                  "Koch, Barbara",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Lidar",
+                  "point cloud",
+                  "single tree",
+                  "crown",
+                  "3D modelling",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.3390/s8063938",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "320QA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1424-8220",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.3390/s8063938",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000266239200057"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Deformition characteristics and stability evaluation of Ganhaizi landslide in the Dadu River",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "507-511",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "LANDSLIDES AND ENGINEERED SLOPES: FROM THE PAST TO THE FUTURE, VOLS 1 AND 2",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Sun, Yaoming",
+                  "Su, Ou",
+                  "Luo, Yonghong",
+                  "Zhang, Jiuling",
+                  "Zhou, Chunhong",
+                  "Zhang, Shengfeng",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJI98",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-415-41196-7",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1201/9780203885284-c57",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200700472577"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Application of ROC curve analysis in evaluating the performance of alien species' potential distribution models",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "365-372",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Shengwu Duoyangxing",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "15",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Yunsheng Wang",
+                  "Bingyan Xie",
+                  "Fanghao Wan",
+                  "Qiming Xiao",
+                  "Liangying Dai",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1360/biodiv.060280",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1005-0094",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000254292100086"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Design of a monitoring software for the upper machine of mushroom hothouse based on ace",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "491-494",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROGRESS OF INFORMATION TECHNOLOGY IN AGRICULTURE",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Yang, Juan",
+                  "Yuan, Tao",
+                  "Jin, Jianfeng",
+                  "Ma, Chao",
+                  "Zhao, Jingyin",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "monitoring software",
+                  "mushroom hothouse",
+                  "upper machine",
+                  "ACE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BHM69",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-7-80233-424-3",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000237704600009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Investigation of fractures using seismic computerized crosshole tomography",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "143-150",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF ENVIRONMENTAL AND ENGINEERING GEOPHYSICS",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "11",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gu, HM",
+                  "Cai, CG",
+                  "Wang, YS",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "044WQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1083-1363",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.2113/JEEG11.2.143",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000238999600072"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The physical simulation of symmetry four-electrode DC resistivity method base on the compensate electrode",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "419-423",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2006",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Geophysical Solutions for Environment and Engineering, Vol 1 and 2",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Leng, Yuanbao",
+                  "Weng, Jingbo",
+                  "Wang, Yunsheng",
+                  "Huang, Song",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "compensate electrode",
+                  "resistor DC",
+                  "physical simulation",
+                  "abnormity",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BER02",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "1-933100-18-4",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200300475834"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Development of a mouse anti-human CTL for a heat shock protein potency assay.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "946",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2003",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Proceedings of the American Association for Cancer Research Annual Meeting",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "44",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hassan-Zahraee, Mina",
+                  "Wang, Yunsheng",
+                  "Suchak, Avni",
+                  "Carpenter, Jeff",
+                  "Rottman, James B.",
+                  "Truneh, Alem",
+                  "Srivastava, Pramod",
+                  "LeClair, Kenneth",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0197-016X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV200300452045"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Potentiating role of Concanavalin A in heat shock protein, gp96, antigen cross-presentation and tumor rejection activity.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "560",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2003",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Proceedings of the American Association for Cancer Research Annual Meeting",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "44",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Monks, Stephen A.",
+                  "Hassan-Zahraee, Mina",
+                  "Rottman, James B.",
+                  "Weng, Jenny",
+                  "Wang, Yunsheng",
+                  "Sawlivich, Wayne",
+                  "Simha, Swarnalatha",
+                  "Principato, Jane",
+                  "Carpenter, Jeffrey",
+                  "Desroches, Bridget",
+                  "Burke, Jennifer",
+                  "Truneh, Alemseged",
+                  "Srivastava, Pramod",
+                  "Zabrecky, James R.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0197-016X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000087185000012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Children at risk for asthma: Home allergen levels, lymphocyte proliferation, and wheeze",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "933-942",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2000",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "105",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Finn, PW",
+                  "Boudreau, JO",
+                  "He, HZ",
+                  "Wang, YS",
+                  "Chapman, MD",
+                  "Vincent, C",
+                  "Burge, HA",
+                  "Weiss, ST",
+                  "Perkins, DL",
+                  "Gold, DR",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "children",
+                  "T lymphocytes",
+                  "proliferation",
+                  "home allergen levels",
+                  "allergy",
+                  "asthma",
+                  "cockroach",
+                  "Bla g 2",
+                  "Der f 1",
+                  "Fel d 1",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "316TW",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0091-6749",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1067/mai.2000.106546",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000076794900007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Detection of rare apoptotic T cells in vivo",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "340-347",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1998",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CYTOMETRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "33",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Listman, JA",
+                  "Wang, YS",
+                  "Castro, JE",
+                  "Rimm, IJ",
+                  "Finn, PW",
+                  "Perkins, DL",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "T-lymphocytes",
+                  "apoptosis",
+                  "superantigens",
+                  "transgenic",
+                  "flow cytometry",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "135HC",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0196-4763",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1002/(SICI)1097-0320(19981101)33:3<340::AID-CYTO8>3.0.CO;2-K",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199800108075"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Fas/Fas ligand modulation of apoptosis in thymocytes and its immunoregulatory process as a potential mechanism of gene therapy",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6 CONF. SUPPL.",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "S58",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Cancer Gene Therapy",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "4",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Castro, Januario E.",
+                  "Listman, James",
+                  "Wang, Yunsheng",
+                  "Finn, Patricia W.",
+                  "Perkins, Davis L.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0929-1903",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199800025228"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Prolonged allograft survival in C-Rel deficient mice",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "PROGRAM AND ABSTR. ISSUE",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "669A",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Journal of the American Society of Nephrology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "9",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Sun, Linhong",
+                  "Mitchell, Richard",
+                  "Kirkman, Robert",
+                  "Finn, Patricia W.",
+                  "Perkins, David L.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1046-6673",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996UM24400013"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Regulation of CTLA-4 expression during T cell activation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "4154-4159",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "156",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Perkins, D",
+                  "Wang, ZM",
+                  "Donovan, C",
+                  "He, HZ",
+                  "Mark, D",
+                  "Guan, GM",
+                  "Wang, YS",
+                  "Walunas, T",
+                  "Bluestone, J",
+                  "Listman, J",
+                  "Finn, PW",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "UM244",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1767",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199799311051"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Blockade of GP39/CD40 prolongs allograft survival and inhibits upregulation of the B7-1 costimulatory molecule",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1898",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Journal of the American Society of Nephrology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "7",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Sun, Linhong",
+                  "Mitchell, Richard",
+                  "Kirkman, Robert",
+                  "Perkins, David L.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1046-6673",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996TQ80900006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Plasticity of the T cell receptor repertoire in TCR beta-chain transgenic mice",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "44-55",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN 10",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CELLULAR IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "167",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Listman, JA",
+                  "Rimm, IJ",
+                  "Wang, YS",
+                  "Geller, MC",
+                  "Tang, JC",
+                  "Ho, S",
+                  "Finn, PW",
+                  "Perkins, DL",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "TQ809",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0008-8749",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1006/cimm.1996.0006",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1994NX22000005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DIFFERENTIAL EXPRESSION OF ACTIVATION MARKERS DURING TOLERANCE INDUCTION BY SUPERANTIGENS IN T-CELL RECEPTOR (BETA-CHAIN) TRANSGENIC MICE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "310-321",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1994",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CELLULAR IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "156",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "PERKINS, DL",
+                  "LISTMAN, JA",
+                  "WANG, YS",
+                  "HO, SS",
+                  "FINN, PW",
+                  "RIMM, IJ",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "NX220",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0008-8749",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1006/cimm.1994.1177",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199345126570"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Differential expression of activation markers during tolerance induction by superantigens in T-cell receptor transgenic mice",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "641",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1993",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Journal of the American Society of Nephrology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "4",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Wang, Yunsheng",
+                  "Finn, Patricia W.",
+                  "Rimm, Ilonna J.",
+                  "Perkins, David L.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1046-6673",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1993LB65000011"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SUPERANTIGEN-INDUCED PERIPHERAL TOLERANCE INHIBITS T-CELL RESPONSES TO IMMUNOGENIC PEPTIDES IN TCR (BETA-CHAIN) TRANSGENIC MICE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "10",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "4284-4291",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1993",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "150",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "PERKINS, DL",
+                  "WANG, YS",
+                  "HO, SS",
+                  "WIENS, GR",
+                  "SEIDMAN, JG",
+                  "RIMM, IJ",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "LB650",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1767",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1992JL40600004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SILENCING OF IMMUNODOMINANT EPITOPES BY CONTIGUOUS SEQUENCES IN COMPLEX SYNTHETIC PEPTIDES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "284-297",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1992",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CELLULAR IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "143",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WANG, YS",
+                  "SMITH, JA",
+                  "KAMRADT, T",
+                  "GEFTER, ML",
+                  "PERKINS, DL",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "JL406",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0008-8749",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0008-8749(92)90026-L",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199344004437"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Tolerized T lymphocytes express multiple cell surface activation markers prior to the development of functional unresponsiveness",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "610",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1992",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Journal of the American Society of Nephrology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "3",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Perkins, David L.",
+                  "Ji, Fang",
+                  "Seidman, Jonathan",
+                  "Rimm, Ilonna",
+                  "Wang, Yunsheng",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1046-6673",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

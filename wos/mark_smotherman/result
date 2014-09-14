@@ -1,0 +1,141 @@
+(searchResults){
+   queryId = "63"
+   recordsFound = 2
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000285537800020"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Historical Reflections IBM's Single-Processor Supercomputer Efforts",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "12",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "28-30",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMMUNICATIONS OF THE ACM",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "53",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Smotherman, Mark",
+                  "Spicer, Dag",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1145/1859204.1859216",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "697SV",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0001-0782",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1145/1859204.1859216",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000267953400003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "System Design",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Computer Engineering Series",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DIGITAL SYSTEMS AND APPLICATIONS",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "1",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Smotherman, Mark",
+                  "Sima, Dezsoe",
+                  "Skadron, Kevin",
+                  "Tarjan, David",
+                  "Chiueh, Tzi-cker",
+                  "Mathew, Binu",
+                  "Ibrahim, Ali",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BKF46",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-0-8493-8619-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

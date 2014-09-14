@@ -1,0 +1,1635 @@
+(searchResults){
+   queryId = "20"
+   recordsFound = 21
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000331557800043"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Viral RNA Structural Element Alters Host Recognition of Nonself RNA",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6172",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "783-787",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 14",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "343",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Hyde, Jennifer L.",
+                  "Gardner, Christina L.",
+                  "Kimura, Taishi",
+                  "White, James P.",
+                  "Liu, Gai",
+                  "Trobaugh, Derek W.",
+                  "Huang, Cheng",
+                  "Tonelli, Marco",
+                  "Paessler, Slobodan",
+                  "Takeda, Kiyoshi",
+                  "Klimstra, William B.",
+                  "Amarasinghe, Gaya K.",
+                  "Diamond, Michael S.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1126/science.1248465",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1095-9203",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AB1NB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0036-8075",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000331107700043"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "RNA viruses can hijack vertebrate microRNAs to suppress innate immunity",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7487",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "245-+",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 13",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "NATURE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "506",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Trobaugh, Derek W.",
+                  "Gardner, Christina L.",
+                  "Sun, Chengqun",
+                  "Haddow, Andrew D.",
+                  "Wang, Eryu",
+                  "Chapnik, Elik",
+                  "Mildner, Alexander",
+                  "Weaver, Scott C.",
+                  "Ryman, Kate D.",
+                  "Klimstra, William B.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Weaver, Scott",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-6490-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1038/nature12869",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1476-4687",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AA5AK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0028-0836",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000331125500017"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Stable, High-Level Expression of Reporter Proteins from Improved Alphavirus Expression Vectors To Track Replication and Dissemination during Encephalitic and Arthritogenic Disease",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2035-2046",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF VIROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "88",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sun, Chengqun",
+                  "Gardner, Christina L.",
+                  "Watson, Alan M.",
+                  "Ryman, Kate D.",
+                  "Klimstra, William B.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1128/JVI.02990-13",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1098-5514",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AA5HA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-538X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000332017500001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Deliberate Attenuation of Chikungunya Virus by Adaptation to Heparan Sulfate-Dependent Infectivity: A Model for Rational Arboviral Vaccine Design",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2014",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PLOS NEGLECTED TROPICAL DISEASES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "8",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gardner, Christina L.",
+                  "Hritz, Jozef",
+                  "Sun, Chengqun",
+                  "Vanlandingham, Dana L.",
+                  "Song, Timothy Y.",
+                  "Ghedin, Elodie",
+                  "Higgs, Stephen",
+                  "Klimstra, William B.",
+                  "Ryman, Kate D.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.pntd.0002719",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AB8CK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1935-2735",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN e2719",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000321590200029"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Natural Variation in the Heparan Sulfate Binding Domain of the Eastern Equine Encephalitis Virus E2 Glycoprotein Alters Interactions with Cell Surfaces and Virulence in Mice",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "15",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "8582-8590",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF VIROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "87",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gardner, Christina L.",
+                  "Choi-Nurvitadhi, Jo",
+                  "Sun, Chengqun",
+                  "Bayer, Avraham",
+                  "Hritz, Jozef",
+                  "Ryman, Kate D.",
+                  "Klimstra, William B.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1128/JVI.00937-13",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "180JO",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-538X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "DRCI:DATA2013067003212458"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Susceptibility of mice to subcutaneously inoculated Asibi and Angola73 wild-type or 17D-204 vaccine strains of yellow fever virus..",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2013",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Figshare",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Khoretonenko, Mikhail V",
+                  "Klimstra, William B",
+                  "Ryman, Kate D",
+                  "Meier, Kathryn C",
+                  "Gardner, Christina L",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Immunology",
+                  "Medicine",
+                  "Microbiology",
+                  "Virology",
+                  "Infectious diseases",
+                  "Plant Biology",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.ppat.1000614.t001",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000300870800004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Interferon-alpha/beta deficiency greatly exacerbates arthritogenic disease in mice infected with wild-type chikungunya virus but not with the cell culture-adapted live-attenuated 181/25 vaccine candidate",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "103-112",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR 10",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2012",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VIROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "425",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gardner, Christina L.",
+                  "Burke, Crystal W.",
+                  "Higgs, Stephen T.",
+                  "Klimstra, William B.",
+                  "Ryman, Kate D.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Chikungunya",
+                  "Alphavirus",
+                  "Attenuation",
+                  "STAT1",
+                  "Polyarthralgia",
+                  "Interferon",
+                  "Heparan sulfate",
+                  "Swelling",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.virol.2011.12.020",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "900FA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0042-6822",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000295030000071"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Heparan sulfate binding by natural eastern equine encephalitis viruses promotes neurovirulence",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "38",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "16026-16031",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP 20",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "108",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gardner, Christina L.",
+                  "Ebel, Gregory D.",
+                  "Ryman, Kate D.",
+                  "Klimstra, William B.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "glycosaminoglycan",
+                  "innate immunity",
+                  "interferon",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1073/pnas.1110617108",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "822FS",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0027-8424",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000279358200012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Yellow Fever: A Reemerging Threat",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "237-+",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CLINICS IN LABORATORY MEDICINE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "30",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gardner, Christina L.",
+                  "Ryman, Kate D.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Yellow fever virus",
+                  "Mosquito-borne",
+                  "Transmission",
+                  "Vaccine",
+                  "Emerging disease",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.cll.2010.01.001",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "618MA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0272-2712",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000272124200012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Characteristics of alpha/beta interferon induction after infection of murine fibroblasts with wild-type and mutant alphaviruses",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "121-132",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC 5",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VIROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "395",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Burke, Crystal W.",
+                  "Gardner, Christina L.",
+                  "Steffan, Joshua J.",
+                  "Ryman, Kate D.",
+                  "Klimstra, William B.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Interferon",
+                  "Alphavirus",
+                  "PKR",
+                  "MDA5",
+                  "TBK1",
+                  "RIG-1",
+                  "Antagonism",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.virol.2009.08.039",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "524DO",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0042-6822",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000272033300019"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A Mouse Model for Studying Viscerotropic Disease Caused by Yellow Fever Virus Infection",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "10",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = <empty>
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PLOS PATHOGENS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "5",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Meier, Kathryn C.",
+                  "Gardner, Christina L.",
+                  "Khoretonenko, Mikhail V.",
+                  "Klimstra, William B.",
+                  "Ryman, Kate D.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1371/journal.ppat.1000614",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "522XK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1553-7366",
+            },
+            (labelValuesPair){
+               label = "Identifier.article_no"
+               value[] = 
+                  "ARTN e1000614",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000269614300037"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Similarities and Differences in Antagonism of Neuron Alpha/Beta Interferon Responses by Venezuelan Equine Encephalitis and Sindbis Alphaviruses",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "19",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "10036-10047",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF VIROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "83",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Yin, Jun",
+                  "Gardner, Christina L.",
+                  "Burke, Crystal W.",
+                  "Ryman, Kate D.",
+                  "Klimstra, William B.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1128/JVI.01209-09",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "491WX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-538X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000268218500022"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Type I interferon induction is correlated with attenuation of a South American eastern equine encephalitis virus strain in mice",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "338-347",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2009",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VIROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "390",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gardner, Christina L.",
+                  "Yin, Jun",
+                  "Burke, Crystal W.",
+                  "Klimstra, William B.",
+                  "Ryman, Kate D.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Alphavirus",
+                  "Interferon",
+                  "Lymphoid tissue",
+                  "Attenuation",
+                  "EEEV",
+                  "STAT1",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.virol.2009.05.030",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "473PA",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0042-6822",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000260109600031"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Eastern and Venezuelan Equine Encephalitis Viruses Differ in Their Ability To Infect Dendritic Cells and Macrophages: Impact of Altered Cell Tropism on Pathogenesis",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "21",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "10634-10646",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF VIROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "82",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Gardner, Christina L.",
+                  "Burke, Crystal W.",
+                  "Tesfay, Mulu Z.",
+                  "Glass, Pamela J.",
+                  "Klimstra, William B.",
+                  "Ryman, Kate D.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Glass, Pamela",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "G-1170-2011",
+            },
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1128/JVI.01323-08",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "361EF",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-538X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1128/JVI.01323-08",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000253691000003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Alpha/beta interferon inhibits cap-dependent translation of viral but not cellular mRNA by a PKR-independent mechanism",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2620-2630",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2008",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF VIROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "82",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Tesfay, Mulu Z.",
+                  "Yin, Jun",
+                  "Gardner, Christina L.",
+                  "Khoretonenko, Mikhail V.",
+                  "Korneeva, Nadejda L.",
+                  "Rhoads, Robert E.",
+                  "Ryman, Kate D.",
+                  "Klimstra, William B.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1128/JVI.01784-07",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "270AB",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-538X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1128/JVI.01784-07",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000250891400007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Non-pathogenic Sindbis virus causes hemorrhagic fever in the absence of alpha/beta and gamma interferons",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "273-285",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV 25",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VIROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "368",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ryman, Kate D.",
+                  "Meier, Kathryn C.",
+                  "Gardner, Christina L.",
+                  "Adegboyega, Patrick A.",
+                  "Klimstra, William B.",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "alphavirus",
+                  "Sindbis",
+                  "interferon",
+                  "viral hemorrhagic fever",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1016/j.virol.2007.06.039",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "230QQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0042-6822",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/j.virol.2007.06.039",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000249208500090"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Alphavirus induction of type IIFN",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "8",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "713-713",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF INTERFERON AND CYTOKINE RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "27",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Burke, Crystal W.",
+                  "Gardner, Christina L.",
+                  "Ryman, Kate D.",
+                  "Klimstra, William B.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "206UN",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1079-9907",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000244988100052"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Heparan sulfate binding can contribute to the neurovirulence of neuroadapted and nonneuroadapted sindbis viruses",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "3563-3573",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF VIROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "81",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ryman, Kate D.",
+                  "Gardner, Christina L.",
+                  "Burke, Crystal W.",
+                  "Meier, Kathryn C.",
+                  "Thompson, Joseph M.",
+                  "Klimstra, William B.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1128/JVI.02494-06",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "147FF",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-538X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1128/JVI.02494-06",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000243987100020"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Early restriction of alphavirus replication and dissemination contributes to age-dependent attenuation of systemic hyperinflammatory disease",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "518-529",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF GENERAL VIROLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "88",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Ryman, Kate D.",
+                  "Gardner, Christina L.",
+                  "Meier, Kathryn C.",
+                  "Biron, Christine A.",
+                  "Johnston, Robert E.",
+                  "Klimstra, William B.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1099/vir.0.82359-0",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "133BR",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1317",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1099/vir.0.82359-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1994PY90600004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "FREE D-AMINO ACIDS IN HUMAN CEREBROSPINAL-FLUID OF ALZHEIMER-DISEASE, MULTIPLE-SCLEROSIS, AND HEALTHY CONTROL SUBJECTS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2-3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "115-124",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT-DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1994",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "MOLECULAR AND CHEMICAL NEUROPATHOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "23",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "FISHER, GH",
+                  "PETRUCELLI, L",
+                  "GARDNER, C",
+                  "EMORY, C",
+                  "FREY, WH",
+                  "AMADUCCI, L",
+                  "SORBI, S",
+                  "SORRENTINO, G",
+                  "BORGHI, M",
+                  "DANIELLO, A",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "D-AMINO ACIDS",
+                  "CEREBROSPINAL FLUID",
+                  "VENTRICULAR CSF",
+                  "LUMBAR CSF",
+                  "ALZHEIMER DISEASE",
+                  "MULTIPLE SCLEROSIS",
+                  "ASPARTIC ACID",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "PY906",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1044-7393",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1007/BF02815405",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1993LV30900017"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "IMPROVED METHOD FOR HYDROLYZING PROTEINS AND PEPTIDES WITHOUT INDUCING RACEMIZATION AND FOR DETERMINING THEIR TRUE D-AMINO-ACID CONTENT",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "290-295",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1993",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ANALYTICAL BIOCHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "213",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "DANIELLO, A",
+                  "PETRUCELLI, L",
+                  "GARDNER, C",
+                  "FISHER, G",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "LV309",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0003-2697",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1006/abio.1993.1423",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

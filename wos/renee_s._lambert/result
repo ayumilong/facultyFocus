@@ -1,0 +1,260 @@
+(searchResults){
+   queryId = "40"
+   recordsFound = 3
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000087972200009"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Effect of dietary lipids (soybean lecithin and triacylglycerol) on hepatic F-actin microfilaments in cyclosporine A-treated rats - Image analysis by confocal laser scanning microscopy",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1096-1102",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2000",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DIGESTIVE DISEASES AND SCIENCES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "45",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Benkoel, L",
+                  "Chanussot, F",
+                  "Dodero, F",
+                  "De la Maisonneuve, C",
+                  "Bongrand, P",
+                  "Benoliel, AM",
+                  "Lambert, R",
+                  "Brisse, J",
+                  "Chamlian, A",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "cyclosporine A",
+                  "dietary lipids cholestasis",
+                  "rat hepatocytes",
+                  "F-actin",
+                  "confocal laser scanning microscopy",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "330QF",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0163-2116",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1023/A:1005533531756",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000082490600024"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Effect of dietary lipids on hepatic Na+,K+-ATPase in cyclosporine A-treated rats - Immunocytochemical analysis of alpha(1) subunit by confocal laser scanning microscopy imaging",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "8",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1643-1649",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "AUG",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DIGESTIVE DISEASES AND SCIENCES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "44",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Benkoel, L",
+                  "Chanussot, F",
+                  "Dodero, F",
+                  "De la Maisonneuve, C",
+                  "Lambert, R",
+                  "Brisse, J",
+                  "Chamlian, A",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "cyclosporine A",
+                  "dietary lipids",
+                  "cholestasis",
+                  "rat hepatocyte",
+                  "Na+,K+-ATPase",
+                  "quantitative immunocytochemistry",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "234NK",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0163-2116",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1023/A:1026683531461",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000080451800010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A quantitative immunocytochemical study of Na+,K+-ATPase in rat hepatocytes after STZ-induced diabetes and dietary fish oil supplementation",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "809-816",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF HISTOCHEMISTRY & CYTOCHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "47",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Sennoune, S",
+                  "Gerbi, A",
+                  "Duran, MJ",
+                  "Benkoel, L",
+                  "Pierre, S",
+                  "Lambert, R",
+                  "Dodero, F",
+                  "Chamlian, A",
+                  "Vague, P",
+                  "Maixent, JM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "Na+,K+-ATPase",
+                  "catalytic alpha(1)-subunit",
+                  "diabetes mellitus",
+                  "fish oil",
+                  "hepatocyte",
+                  "confocal laser scanning microscopy",
+                  "image analysis",
+                  "fatty acid",
+                  "membrane fluidity",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "198YH",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1554",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

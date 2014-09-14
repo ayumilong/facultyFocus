@@ -1,0 +1,152 @@
+(searchResults){
+   queryId = "15"
+   recordsFound = 2
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000244206400063"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Ultrafast structural rearrangements in the MLCT excited state for copper(I) bis-phenanthrolines in solution",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2147-2160",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 21",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "129",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Shaw, George B.",
+                  "Grant, Christian D.",
+                  "Shirota, Hideaki",
+                  "Castner, Edward W., Jr.",
+                  "Meyer, Gerald J.",
+                  "Chen, Lin X.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1021/ja067271f",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "136EW",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0002-7863",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/ja067271f",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1997WW89400007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Use of ceftizoxime screening for the detection of cephalosporin-resistant pneumococci",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "99-101",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "DIAGNOSTIC MICROBIOLOGY AND INFECTIOUS DISEASE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "27",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Schutze, GE",
+                  "Lewno, MJ",
+                  "Mason, EO",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "WW894",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0732-8893",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0732-8893(96)00221-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }

@@ -1,0 +1,4710 @@
+(searchResults){
+   queryId = "80"
+   recordsFound = 75
+   recordsSearched = 124983460
+   records[] = 
+      (liteRecord){
+         uid = "WOS:000289490900069"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "tau epsilon chi nu eta Trees: A New Course in Data Structures",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "341-346",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2011",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SIGCSE 11: PROCEEDINGS OF THE 42ND ACM TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE EDUCATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Duchowski, Andrew T.",
+                  "Geist, Robert",
+                  "Schalkoff, Robert",
+                  "Westall, James",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "computer graphics",
+                  "curriculum design",
+                  "problem-based instruction",
+                  "ray-tracing",
+                  "tau epsilon chi nu eta",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BUJ07",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-4503-0500-6",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000290548000008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Lattice-Boltzmann Water Waves",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "Lecture Notes in Computer Science",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "74-85",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2010",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ADVANCES IN VISUAL COMPUTING, PT I",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "6453",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Geist, Robert",
+                  "Corsi, Christopher",
+                  "Tessendorf, Jerry",
+                  "Westall, James",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BUW97",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-3-642-17288-5",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0302-9743",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000248119600002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A simulation model of the DOCSIS protocol",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "139-155",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SIMULATION-TRANSACTIONS OF THE SOCIETY FOR MODELING AND SIMULATION INTERNATIONAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "83",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Martin, Jim",
+                  "Westall, James",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "simulation methods",
+                  "broadband access",
+                  "hybrid fiber coaxial cable networks",
+                  "Data Over Cable Service Interface Specification (DOCSIS)",
+                  "Transmission Control Protocol (TCP) performance",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1177/0037549707050605",
+            },
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1741-3133",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "191GM",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0037-5497",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1177/0037549707080605",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000267059300097"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "(sic): Trial Phase for the New Curriculum",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "415-419",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2007",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "SIGCSE 2007: PROCEEDINGS OF THE THIRTY-EIGHTH SIGCSE TECHNICAL SYMPOSIUM ON COMPUTER SCIENCE EDUCATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Davis, Timothy",
+                  "Geist, Robert",
+                  "Matzko, Sarah",
+                  "Westall, James",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "ACM",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "computer graphics",
+                  "curriculum design",
+                  "problem-based instruction",
+                  "ray-tracing",
+                  "(sic)",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BJS08",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "978-1-59593-361-4",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000228813600006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Detail preserving reproduction of color images for monochromats and dichromats",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "22-30",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY-JUN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE COMPUTER GRAPHICS AND APPLICATIONS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "25",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Rasche, K",
+                  "Geist, R",
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "922CN",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0272-1716",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/MCG.2005.54",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000229399701527"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Using electrochemical methods to study redox processes and harvest energy from marine sediments",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "10",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "A575-A575",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "GEOCHIMICA ET COSMOCHIMICA ACTA",
+            },
+            (labelValuesPair){
+               label = "SupplementNumber"
+               value[] = 
+                  "S",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "69",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Reimers, C",
+                  "Girguis, P",
+                  "Westall, J",
+                  "Newman, D",
+                  "Stecher, H",
+                  "Howell, K",
+                  "Alleau, Y",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "930EX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0016-7037",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000228951600030"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Virtual machine effects on network traffic dynamics",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "IEEE International Performance, Computing and Communications Conference (IPCCC)",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "233-238",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Conference Proceedings of the 2005 IEEE International Performance, Computing and Communications Conference",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Martin, J",
+                  "Rajasekaran, V",
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BCE84",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-7803-8991-3",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1097-2641",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000236253400039"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Parallel simulation of Petri nets on desktop PC hardware",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "374-383",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Proceedings of the 2005 Winter Simulation Conference, Vols 1-4",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Geist, R",
+                  "Hicks, J",
+                  "Smotherman, M",
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BDY77",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-7803-9519-0",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/WSC.2005.1574272",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000231323800023"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Re-coloring images for gamuts of lower dimension",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "423-432",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2005",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "COMPUTER GRAPHICS FORUM",
+            },
+            (labelValuesPair){
+               label = "SpecialIssue"
+               value[] = 
+                  "SI",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "24",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Rasche, K",
+                  "Geist, R",
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "956TX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0167-7055",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1111/j.1467-8659.2005.00867.x",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000187954400081"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Out of order rendering on visualization clusters",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "461-467",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2003",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IASTED: PROCEEDINGS OF THE IASTED INTERNATIONAL CONFERENCE ON MODELLING AND SIMULATION",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Rasche, K",
+                  "Geist, R",
+                  "Westall, J",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "chromium",
+                  "distributed rendering",
+                  "tiled displays",
+                  "workload balancing",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BY15F",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-88986-337-7",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000176709300026"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "An HSV representation of non-Newtonian, lattice-Boltzmann flows",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "BookSeriesTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE SOCIETY OF PHOTO-OPTICAL INSTRUMENTATION ENGINEERS (SPIE)",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "246-258",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2002",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "VISUALIZATION AND DATA ANALYSIS 2002",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "4665",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Geist, R",
+                  "Rasche, K",
+                  "Westall, J",
+            },
+         keywords[] = 
+            (labelValuesPair){
+               label = "Keywords"
+               value[] = 
+                  "HSV color model",
+                  "non-Newtonian flows",
+                  "lattice-Boltzmann models",
+                  "LIC noise",
+                  "polymer melt",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BU70A",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-8194-4405-7",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0277-786X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1117/12.458792",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000175560600003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Redox transformations, complexation and soil/sediment interactions of inorganic forms of As and Se in aquatic environments: Effects of natural organic matter",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "13-15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2002",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "TAILINGS AND MINE WASTE '02",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Macalady, DL",
+                  "Ahmann, D",
+                  "Westall, J",
+                  "Garbarino, J",
+                  "Meyer, J",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "BALKEMA",
+                  "BALKEMA",
+                  "BALKEMA",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BU28H",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "90-5809-353-0",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000169600100045"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Mass transport effects on the kinetics of nitrobenzene reduction by iron metal",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "13",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2804-2811",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUL 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2001",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "35",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Scherer, MM",
+                  "Johnson, KM",
+                  "Westall, JC",
+                  "Tratnyek, PG",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Doi"
+               value[] = 
+                  "10.1021/es0016856",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "447YM",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0013-936X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/es0016856",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000087394400025"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Cation competition in a natural subsurface material: Modelling of sorption equilibria",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2149-2155",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JUN 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2000",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "34",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Vulava, VM",
+                  "Kretzschmar, R",
+                  "Rusch, U",
+                  "Grolimund, D",
+                  "Westall, JC",
+                  "Borkovec, M",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Borkovec, Michal",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "C-6022-2014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "320GX",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0013-936X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/es990214k",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000166981000088"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Practical aspects of simulating systems having arrival processes with long-range dependence",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "666-674",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "2000",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE 2000 WINTER SIMULATION CONFERENCE, VOLS 1 AND 2",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Geist, R",
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BR62V",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-7803-6580-1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000081037900001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Greetings",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3-4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "107-107",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PERFORMANCE EVALUATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "35",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Geist, R",
+                  "Haring, G",
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "209FQ",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0166-5316",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0166-5316(99)00009-7",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199900168151"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The kinetics of nitro reduction by iron metal: A case of mixed control",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "ENVR 133",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1999",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Abstracts of Papers American Chemical Society",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "217",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Scherer, M. M.",
+                  "Westall, J. C.",
+                  "Tratnyek, P. G.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000077202200013"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Medical students face uncertain future",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7170",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1408-1408",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "NOV 21",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1998",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BRITISH MEDICAL JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "317",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "142LP",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0959-8138",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1997YD44500006"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "The debate of the age",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7115",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1034-1034",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT 25",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BRITISH MEDICAL JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "315",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "YD445",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0959-8138",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1997YA00700018"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Government waives proposed fees for final year medical students",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7112",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "836-836",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT 4",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BRITISH MEDICAL JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "315",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "YA007",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0959-8138",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1997WQ16900013"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Tuberculosis levelling off worldwide",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7085",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "921-921",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 29",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BRITISH MEDICAL JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "314",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "WQ169",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0959-8138",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1997WQ02800008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Twins may protect against breast cancer",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7084",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "845-845",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 22",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BRITISH MEDICAL JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "314",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "WQ028",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0959-8138",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1997WL41800014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Obesity increases risk of pulmonary embolism",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7081",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "627-627",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR 1",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BRITISH MEDICAL JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "314",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "WL418",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0959-8138",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1997WK21500010"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Poor education linked with teen pregnancies",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7080",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "537-537",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 22",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BRITISH MEDICAL JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "314",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "WK215",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0959-8138",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1997WK21500017"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Car phones can cause accidents",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7080",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "539-539",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 22",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BRITISH MEDICAL JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "314",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "WK215",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0959-8138",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1997WJ41900016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Day surgery guidance is not being followed",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7079",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "464-464",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BRITISH MEDICAL JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "314",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "WJ419",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0959-8138",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1997WH29500014"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Sickle cell disease is poorly managed",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7078",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "396-396",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 8",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BRITISH MEDICAL JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "314",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "WH295",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0959-8138",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1997WH29500007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Shackling of prisoners denounced",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7078",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "393-393",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB 8",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BRITISH MEDICAL JOURNAL",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "314",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "WH295",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0959-8138",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:000071432100147"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A hybrid tool for the performance evaluation of NUMA architectures",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1029-1036",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1997",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PROCEEDINGS OF THE 1997 WINTER SIMULATION CONFERENCE",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+                  "Geist, R",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BK18F",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-7803-4278-X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1145/268437.268736",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199698816863"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Effects of redox potential and hydrogen concentration on reductive dechlorination of pentachlorophenol by an acetate-fed, methanogenic culture",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "0",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "416",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Abstracts of the General Meeting of the American Society for Microbiology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "96",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Stuart, S.",
+                  "Woods, S.",
+                  "Lemmon, T.",
+                  "Ingle, J.",
+                  "Westall, J.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "1060-2011",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1996BG22E00036"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Performance and availability evaluation of NUMA architectures",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "271-280",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1996",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE INTERNATIONAL COMPUTER PERFORMANCE AND DEPENDABILITY SYMPOSIUM - IPDS'96, PROCEEDINGS",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Geist, R",
+                  "Westall, J",
+            },
+            (labelValuesPair){
+               label = "BookGroupAuthors"
+               value[] = 
+                  "IEEE",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "BG22E",
+            },
+            (labelValuesPair){
+               label = "Identifier.Isbn"
+               value[] = 
+                  "0-8186-7484-9",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1995QP70900025"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "MODELS FOR ASSOCIATION OF METAL-IONS WITH HETEROGENEOUS ENVIRONMENTAL SORBENTS .1. COMPLEXATION OF CO(II) BY LEONARDITE HUMIC-ACID AS A FUNCTION OF PH AND NACLO4 CONCENTRATION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "951-959",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "APR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WESTALL, JC",
+                  "JONES, JD",
+                  "TURNER, GD",
+                  "ZACHARA, JM",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "QP709",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0013-936X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/es00004a015",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1995QE08900030"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "REGULARIZED LEAST-SQUARES METHODS FOR THE CALCULATION OF DISCRETE AND CONTINUOUS AFFINITY DISTRIBUTIONS FOR HETEROGENEOUS SORBENTS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "413-425",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "CERNIK, M",
+                  "BORKOVEC, M",
+                  "WESTALL, JC",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Cernik, Miroslav",
+                  "Borkovec, Michal",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "B-4390-2013",
+                  "C-6022-2014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "QE089",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0013-936X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/es00002a018",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199598253943"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Affinity distributions and acid-base properties of homogeneous and heterogeneous sorbents: Exact model results versus experimental data inversion",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "ENVR 159",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1995",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Abstracts of Papers American Chemical Society",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "209",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Borkovec, M.",
+                  "Rusch, U.",
+                  "Cernik, M.",
+                  "Koper, G. J.",
+                  "Westall, J. C.",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1994MV34700012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "USE OF CATIONIC SURFACTANTS TO MODIFY SOIL SURFACES TO PROMOTE SORPTION AND RETARD MIGRATION OF HYDROPHOBIC ORGANIC-COMPOUNDS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "231-237",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "FEB",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1994",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "28",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WAGNER, J",
+                  "CHEN, H",
+                  "BROWNAWELL, BJ",
+                  "WESTALL, JC",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "MV347",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0013-936X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/es00051a008",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1992HQ27500004"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DIMINISHED INTERFERON-GAMMA AND LYMPHOCYTE-PROLIFERATION IN NEONATAL AND POSTPARTUM PRIMARY HERPES-SIMPLEX VIRUS-INFECTION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "813-818",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1992",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF INFECTIOUS DISEASES",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "165",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "BURCHETT, SK",
+                  "COREY, L",
+                  "MOHAN, KM",
+                  "WESTALL, J",
+                  "ASHLEY, R",
+                  "WILSON, CB",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "HQ275",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1899",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "MEDLINE:2008338"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "Causes of schizophrenia.",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "12",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "22",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1991",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Nursing times",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "87",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "Westall, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0954-7762",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199141087589"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A STEADY-STATE MODEL OF PH AND CHEMICAL COMPOSITION OF ROOTING-ZONE SOLUTION AT CONTRASTING FORESTED SITES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2 SUPPL",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "255",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1991",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Bulletin of the Ecological Society of America",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "72",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SOLLINS P",
+                  "WESTALL J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0012-9623",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1990EK68500019"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "EFFECT OF PH AND KCL CONCENTRATION ON THE OCTANOL WATER DISTRIBUTION OF METHYLANILINES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "12",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1869-1875",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "24",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "JOHNSON, CA",
+                  "WESTALL, JC",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "EK685",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0013-936X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/es00082a014",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199090080566"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ADSORPTION OF ORGANIC CATIONS TO NATURAL MATERIALS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "8",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1234-1241",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Environmental Science and Technology",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "24",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "BROWNAWELL B J",
+                  "CHEN H",
+                  "COLLIER J M",
+                  "WESTALL J C",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0013-936X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199039019430"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ADSORPTION OF SURFACTANTS ON SUSPENDED PARTICLES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "ENVR 73",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Abstracts of Papers American Chemical Society",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "199",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "BROWNAWELL B J",
+                  "WESTALL J C",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199039019458"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ADSORPTION OF AMPHIPHILIC ORGANIC CATIONS TO MINERAL SURFACES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "ENVR 101",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Abstracts of Papers American Chemical Society",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "199",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WESTALL J C",
+                  "BROWNAWELL B J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1990EK68500007"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DISTRIBUTION OF HYDROPHOBIC IONOGENIC ORGANIC-COMPOUNDS BETWEEN OCTANOL AND WATER - ORGANIC-ACIDS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "12",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1795-1803",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "24",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "JAFVERT, CT",
+                  "WESTALL, JC",
+                  "GRIEDER, E",
+                  "SCHWARZENBACH, RP",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Jafvert, Chad",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "D-9551-2013",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "EK685",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0013-936X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/es00082a002",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV199039080546"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "A STEADY-STATE MODEL OF PH AND CHEMICAL COMPOSITION OF ROOTING-ZONE SOLUTION AT THREE FOREST SITES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2 SUPPL",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "331",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Bulletin of the Ecological Society of America",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "71",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SOLLINS P",
+                  "WESTALL J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0012-9623",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1990EK68500008"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DISTRIBUTION OF LICL, NACL, KCL, HCL, MGCL2, AND CACL2 BETWEEN OCTANOL AND WATER",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "12",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1803-1810",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "24",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WESTALL, JC",
+                  "JOHNSON, CA",
+                  "ZHANG, W",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "EK685",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0013-936X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/es00082a003",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1990EA53200002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "THE STUDY OF SOIL CHEMISTRY THROUGH QUASI STEADY-STATE MODELS .2. ACIDITY OF SOIL SOLUTION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "2363-2374",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1990",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "GEOCHIMICA ET COSMOCHIMICA ACTA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "54",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "FURRER, G",
+                  "SOLLINS, P",
+                  "WESTALL, JC",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "EA532",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0016-7037",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0016-7037(90)90225-A",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1989CH07100025"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "COMMUNITY CARE FOR THE SERIOUSLY MENTALLY-ILL",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "6",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "510-510",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "DEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1989",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "BRITISH JOURNAL OF HOSPITAL MEDICINE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "42",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WESTALL, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "CH071",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0007-1064",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1989T834800002"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "THE STUDY OF SOIL CHEMISTRY THROUGH QUASI-STEADY-STATE MODELS .1. MATHEMATICAL DEFINITION OF MODEL",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "595-601",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1989",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "GEOCHIMICA ET COSMOCHIMICA ACTA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "53",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "FURRER, G",
+                  "WESTALL, J",
+                  "SOLLINS, P",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "T8348",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0016-7037",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0016-7037(89)90002-1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV198937107453"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "THE EFFECT OF PH AND INORGANIC IONS ON THE AQUEOUS-NONAQUEOUS DISTRIBUTION OF IONIC AND IONIZABLE ORGANIC COMPOUNDS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "ENVR 53",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1989",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Abstracts of Papers American Chemical Society",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "198",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WESTALL J C",
+                  "JOHNSON C A",
+                  "ZHANG W",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1988Q364100013"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SELECTION OF A CHECKPOINT INTERVAL IN A CRITICAL-TASK ENVIRONMENT",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "395-400",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "OCT",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1988",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "IEEE TRANSACTIONS ON RELIABILITY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "37",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "GEIST, R",
+                  "REYNOLDS, R",
+                  "WESTALL, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "Q3641",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0018-9529",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1109/24.9847",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1988N240500031"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "REGULATION OF TUMOR NECROSIS FACTOR CACHECTIN AND IL-1 SECRETION IN HUMAN MONONUCLEAR PHAGOCYTES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "10",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "3473-3481",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAY 15",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1988",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF IMMUNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "140",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "BURCHETT, SK",
+                  "WEAVER, WM",
+                  "WESTALL, JA",
+                  "LARSEN, A",
+                  "KRONHEIM, S",
+                  "WILSON, CB",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "N2405",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-1767",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1988R013600011"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "COMPARATIVE UPTAKE OF HEXACHLOROBENZENE BY FATHEAD MINNOWS, AMPHIPODS AND OLIGOCHAETE WORMS FROM WATER AND SEDIMENT",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "12",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1035-1045",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1988",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL TOXICOLOGY AND CHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "7",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SCHUYTEMA, GS",
+                  "KRAWCZYK, DF",
+                  "GRIFFIS, WL",
+                  "NEBEKER, AV",
+                  "ROBIDEAUX, ML",
+                  "BROWNAWELL, BJ",
+                  "WESTALL, JC",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "R0136",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0730-7268",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1897/1552-8618(1988)7[1035:CUOHBF]2.0.CO;2",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1987K931900003"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ADSORPTION OF COPPER, CADMIUM AND LEAD FROM AQUEOUS-SOLUTION TO THE KAOLINITE WATER INTERFACE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "219-230",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1987",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "NETHERLANDS JOURNAL OF AGRICULTURAL SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "35",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SCHINDLER, PW",
+                  "LIECHTI, P",
+                  "WESTALL, JC",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "K9319",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0028-2928",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV198732121993"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ELECTROSTATIC INTERACTIONS IN THE TRANSPORT OF POLLUTANTS ASSOCIATED WITH COLLOIDAL PARTICLES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1987",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Abstracts of Papers American Chemical Society",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "193",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WESTALL J C",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1986A542900025"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DECREASED PRODUCTION OF INTERFERON-GAMMA BY HUMAN NEONATAL CELLS - INTRINSIC AND REGULATORY DEFICIENCIES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "860-867",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "MAR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1986",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF CLINICAL INVESTIGATION",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "77",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WILSON, CB",
+                  "WESTALL, J",
+                  "JOHNSTON, L",
+                  "LEWIS, DB",
+                  "DOWER, SK",
+                  "ALPERT, AR",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "A5429",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0021-9738",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1172/JCI112383",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1986C748300756"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ONTOGENY OF NEONATAL MONONUCLEAR CELL-TRANSFORMATION AND INTERFERON GAMMA-PRODUCTION AFTER HERPES-SIMPLEX VIRUS STIMULATION",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "A129-A129",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioDate"
+               value[] = 
+                  "JAN",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1986",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CLINICAL RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "34",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "BURCHETT, SK",
+                  "WESTALL, J",
+                  "MOHAN, K",
+                  "COREY, L",
+                  "WILSON, CB",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "C7483",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0009-9279",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1985ANV6400016"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ACTIVATION OF NEONATAL AND ADULT HUMAN MACROPHAGES BY ALPHA-INTERFERON, BETA-INTERFERON, AND GAMMA-INTERFERON",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "351-356",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1985",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "INFECTION AND IMMUNITY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "49",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WILSON, CB",
+                  "WESTALL, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "ANV64",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0019-9567",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1985ACZ7101113"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DISASSOCIATION BETWEEN INTERFERON-GAMMA (IF-GAMMA) AND IL1-IL2 PRODUCTION IN NEWBORNS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "5",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1541-1541",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1985",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "FEDERATION PROCEEDINGS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "44",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WILSON, CB",
+                  "WESTALL, J",
+                  "DOWER, S",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "ACZ71",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0014-9446",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1985ATZ7700005"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SORPTION OF HYDROPHOBIC TRACE ORGANIC-COMPOUNDS IN GROUNDWATER SYSTEMS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "9",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "39-55",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1985",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "WATER SCIENCE AND TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "17",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SCHWARZENBACH, RP",
+                  "WESTALL, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "ATZ77",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0273-1223",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1985AEU1801039"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "LYMPHOKINE DEPENDENT MACROPHAGE (M0) ACTIVATION IN NEWBORNS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "A284-A284",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1985",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PEDIATRIC RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "19",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WILSON, CB",
+                  "WESTALL, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AEU18",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0031-3998",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1203/00006450-198504000-01069",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1985APH0301527"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "AN OVERVIEW OF STUDIES OF THE ELECTRIC DOUBLE-LAYER AT THE OXIDE-ELECTROLYTE INTERFACE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1-GEC",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1985",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "190",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WESTALL, J",
+                  "HINDAGOLLA, S",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "APH03",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1985AAT8100018"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "INFLUENCE OF PH AND IONIC-STRENGTH ON THE AQUEOUS NONAQUEOUS DISTRIBUTION OF CHLORINATED PHENOLS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "193-198",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1985",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "19",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WESTALL, JC",
+                  "LEUENBERGER, C",
+                  "SCHWARZENBACH, RP",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AAT81",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0013-936X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/es00132a014",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1985APH0101064"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DISTRIBUTION OF CHLORINATED PHENOLS IN OCTANOL WATER AND SEDIMENT WATER-SYSTEMS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "APR-",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "97-ENVR",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1985",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "189",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SCHWARZENBACH, RP",
+                  "GRIEDER, E",
+                  "WESTALL, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "APH01",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1984RZ82200641"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "REPLICATION OF HSV2 IN MONONUCLEAR PHAGOCYTES FROM NEWBORNS AND ADULTS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "A108-A108",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1984",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "CLINICAL RESEARCH",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "32",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "COTTMAN, GW",
+                  "WESTALL, J",
+                  "COREY, L",
+                  "WILSON, CB",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "RZ822",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0009-9279",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV198427051579"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "INTERLEUKIN AND MACROPHAGE ACTIVATION FACTOR PRODUCTION BY NEW BORN LYMPHOCYTES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4 PART 2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "267A",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1984",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Pediatric Research",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "18",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WILSON C B",
+                  "WESTALL J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0031-3998",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1203/00006450-198404001-01045",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1983RF02400033"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "SOLUTION OF THE POISSON-BOLTZMANN EQUATION FOR SURFACE EXCESSES OF IONS IN THE DIFFUSE LAYER AT THE OXIDE ELECTROLYTE INTERFACE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "1-2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "325-337",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1983",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "JOURNAL OF ELECTROANALYTICAL CHEMISTRY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "150",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "BORKOVEC, M",
+                  "WESTALL, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Borkovec, Michal",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "C-6022-2014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "RF024",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0022-0728",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/S0022-0728(83)80214-9",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1981MM55700020"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "TRANSPORT OF NON-POLAR ORGANIC-COMPOUNDS FROM SURFACE-WATER TO GROUNDWATER - LABORATORY SORPTION STUDIES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "11",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "1360-1367",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1981",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ENVIRONMENTAL SCIENCE & TECHNOLOGY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "15",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SCHWARZENBACH, RP",
+                  "WESTALL, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Eissn"
+               value[] = 
+                  "1520-5851",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "MM557",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0013-936X",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1021/es00093a009",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1980JH02700001"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "COMPARISON OF ELECTROSTATIC MODELS FOR THE OXIDE-SOLUTION INTERFACE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "4",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "265-294",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1980",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ADVANCES IN COLLOID AND INTERFACE SCIENCE",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "12",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WESTALL, J",
+                  "HOHL, H",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "JH027",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0001-8686",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0001-8686(80)80012-1",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1979HU22100021"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "PRISONS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "893",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "389-389",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1979",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "NEW SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "50",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WESTALL, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "HU221",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0028-6729",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1978FD01400015"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "POTENTIOMETRIC DETERMINATION OF COPPER COMPLEXATION BY PHYTOPLANKTON EXUDATES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "3",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "538-542",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1978",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "LIMNOLOGY AND OCEANOGRAPHY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "23",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "SWALLOW, KC",
+                  "WESTALL, JC",
+                  "MCKNIGHT, DM",
+                  "MOREL, NML",
+                  "MOREL, FMM",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.Names"
+               value[] = 
+                  "Morel, Francois",
+            },
+            (labelValuesPair){
+               label = "Contributor.ResearcherID.ResearcherIDs"
+               value[] = 
+                  "A-8107-2008",
+            },
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "FD014",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0024-3590",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1978FL88300891"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "GENERAL METHOD FOR COMPUTATION OF EQUILIBRIA AND DETERMINATION OF EQUILIBRIUM-CONSTANTS FOR ADSORPTION AT HYDROUS OXIDE SURFACES",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "SEP",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "116-116",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1978",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "176",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WESTALL, J",
+                  "HOHL, H",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "FL883",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0065-7727",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1975AM27600023"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "EFFECT OF STREPTOZOTOCIN DIABETES ON LEVELS OF GLYCOLATE AND LACTATE EXCRETED IN RAT URINE",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "2",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "555-559",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1975",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "ARCHIVES OF BIOCHEMISTRY AND BIOPHYSICS",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "169",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "METZGER, RP",
+                  "SAUERHEBER, RD",
+                  "LYONS, SA",
+                  "WESTALL, JR",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "AM276",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0003-9861",
+            },
+            (labelValuesPair){
+               label = "Identifier.Xref_Doi"
+               value[] = 
+                  "10.1016/0003-9861(75)90199-X",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1974T729000029"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "HOUSING BILL",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "617",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "307-307",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1974",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "NEW SOCIETY",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "29",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "WESTALL, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "T7290",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0028-6729",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "BIOSIS:PREV197208092206"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "ELEVATION OF GLYCOLATE LEVELS IN URINE FROM STREPTOZOTOCIN DIABETIC RATS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "SUPPL 1",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "372",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1972",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "Diabetes",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "21",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "METZGER R P",
+                  "WESTALL J R",
+                  "SAUERHERBER R D",
+                  "WICK A N",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0012-1797",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+      (liteRecord){
+         uid = "WOS:A1971K439300012"
+         title[] = 
+            (labelValuesPair){
+               label = "Title"
+               value[] = 
+                  "DEVELOPMENT AND APPLICATIONS OF METHYLPENTENE POLYMERS",
+            },
+         source[] = 
+            (labelValuesPair){
+               label = "Issue"
+               value[] = 
+                  "7",
+            },
+            (labelValuesPair){
+               label = "Pages"
+               value[] = 
+                  "314-&",
+            },
+            (labelValuesPair){
+               label = "Published.BiblioYear"
+               value[] = 
+                  "1971",
+            },
+            (labelValuesPair){
+               label = "SourceTitle"
+               value[] = 
+                  "PLASTICA",
+            },
+            (labelValuesPair){
+               label = "Volume"
+               value[] = 
+                  "24",
+            },
+         authors[] = 
+            (labelValuesPair){
+               label = "Authors"
+               value[] = 
+                  "HALL, CH",
+                  "WESTALL, J",
+            },
+         other[] = 
+            (labelValuesPair){
+               label = "Identifier.Ids"
+               value[] = 
+                  "K4393",
+            },
+            (labelValuesPair){
+               label = "Identifier.Issn"
+               value[] = 
+                  "0032-1052",
+            },
+            (labelValuesPair){
+               label = "ResearcherID.Disclaimer"
+               value[] = 
+                  "ResearcherID data provided by Thomson Reuters",
+            },
+      },
+ }
